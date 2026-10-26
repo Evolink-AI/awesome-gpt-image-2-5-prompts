@@ -1,0 +1,1918 @@
+[
+  {
+    "tweet_url": "https://x.com/imGopalTiwari/status/2108650680684839381",
+    "tweet_id": "2108650680684839381",
+    "case_ids": [
+      "gpt25-2108650680684839381"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2108629489295266035",
+    "tweet_id": "2108629489295266035",
+    "case_ids": [
+      "gpt25-2108629489295266035"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TaliaAariz/status/2108458612662128684",
+    "tweet_id": "2108458612662128684",
+    "case_ids": [
+      "gpt25-2108458612662128684"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehvishs25/status/2108207834815230156",
+    "tweet_id": "2108207834815230156",
+    "case_ids": [
+      "gpt25-2108207834815230156"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/johnAGI168/status/2108051379243647303",
+    "tweet_id": "2108051379243647303",
+    "case_ids": [
+      "gpt25-2108051379243647303"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2107865780146893027",
+    "tweet_id": "2107865780146893027",
+    "case_ids": [
+      "gpt25-2107865780146893027"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/john_my07/status/2107801411711123546",
+    "tweet_id": "2107801411711123546",
+    "case_ids": [
+      "gpt25-2107801411711123546"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/techhalla/status/2107599018620760235",
+    "tweet_id": "2107599018620760235",
+    "case_ids": [
+      "gpt25-2107599021976285395-alt-3",
+      "gpt25-2107599021976285395-alt-2",
+      "gpt25-2107599049348309273-alt-3",
+      "gpt25-2107599049348309273-alt-2",
+      "gpt25-2107599049348309273-alt-1",
+      "gpt25-2107599049348309273-alt-0",
+      "gpt25-2107599021976285395-alt-1",
+      "gpt25-2107599021976285395-alt-0"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MissDelulu9/status/2107464677978726696",
+    "tweet_id": "2107464677978726696",
+    "case_ids": [
+      "gpt25-2107464677978726696"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/j_smeaton99/status/2107384596837158947",
+    "tweet_id": "2107384596837158947",
+    "case_ids": [
+      "gpt25-2107384596837158947"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/hey_am_cherry/status/2107334467161641240",
+    "tweet_id": "2107334467161641240",
+    "case_ids": [
+      "gpt25-2107334467161641240"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2107149162022375869",
+    "tweet_id": "2107149162022375869",
+    "case_ids": [
+      "gpt25-2107149162022375869"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehvishs25/status/2107051837799194967",
+    "tweet_id": "2107051837799194967",
+    "case_ids": [
+      "gpt25-2107051837799194967"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2106932647796863235",
+    "tweet_id": "2106932647796863235",
+    "case_ids": [
+      "gpt25-2106932651936682033"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/liyue_ai/status/2106612527983468685",
+    "tweet_id": "2106612527983468685",
+    "case_ids": [
+      "gpt25-2106612527983468685"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2106570536835047898",
+    "tweet_id": "2106570536835047898",
+    "case_ids": [
+      "gpt25-2106570540622500013"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/liyue_ai/status/2106404865144738233",
+    "tweet_id": "2106404865144738233",
+    "case_ids": [
+      "gpt25-2106404865144738233"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TaliaAariz/status/2106304668796109249",
+    "tweet_id": "2106304668796109249",
+    "case_ids": [
+      "gpt25-2106304668796109249"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/liyue_ai/status/2106253411494568367",
+    "tweet_id": "2106253411494568367",
+    "case_ids": [
+      "gpt25-2106253411494568367"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2106208037136642520",
+    "tweet_id": "2106208037136642520",
+    "case_ids": [
+      "gpt25-2106208041758830652"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/chatgptpaglu/status/2105219509791678731",
+    "tweet_id": "2105219509791678731",
+    "case_ids": [
+      "gpt25-2105219509791678731"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/FutureVibesAi/status/2104874557345841520",
+    "tweet_id": "2104874557345841520",
+    "case_ids": [
+      "gpt25-2104874695275467016"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2104755846660141092",
+    "tweet_id": "2104755846660141092",
+    "case_ids": [
+      "gpt25-2104755850778992779"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2104396559488344324",
+    "tweet_id": "2104396559488344324",
+    "case_ids": [
+      "gpt25-2104396563447701567"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2104056993858363544",
+    "tweet_id": "2104056993858363544",
+    "case_ids": [
+      "gpt25-2104056998107181221"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2104046028391633255",
+    "tweet_id": "2104046028391633255",
+    "case_ids": [
+      "gpt25-2104046033517081024"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2103802299617575408",
+    "tweet_id": "2103802299617575408",
+    "case_ids": [
+      "gpt25-2103802303686099026"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/HaniaAi12/status/2103789221194748179",
+    "tweet_id": "2103789221194748179",
+    "case_ids": [
+      "gpt25-2103789528888525224",
+      "gpt25-2103789264802594874",
+      "gpt25-2103789243500027917"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2103456505643287033",
+    "tweet_id": "2103456505643287033",
+    "case_ids": [
+      "gpt25-2103456509745340476"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2103326645235171680",
+    "tweet_id": "2103326645235171680",
+    "case_ids": [
+      "gpt25-2103326654290698454"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2103084005600137423",
+    "tweet_id": "2103084005600137423",
+    "case_ids": [
+      "gpt25-2103084009496727641"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2102714995427737651",
+    "tweet_id": "2102714995427737651",
+    "case_ids": [
+      "gpt25-2102714999772950626"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2102368459388801390",
+    "tweet_id": "2102368459388801390",
+    "case_ids": [
+      "gpt25-2102368463713149360"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2102358953489481762",
+    "tweet_id": "2102358953489481762",
+    "case_ids": [
+      "gpt25-2102358957222416439"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2101997367641751808",
+    "tweet_id": "2101997367641751808",
+    "case_ids": [
+      "gpt25-2101997369860493566",
+      "gpt25-2101997368866402391"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2101984814324920385",
+    "tweet_id": "2101984814324920385",
+    "case_ids": [
+      "gpt25-2101984819047498202"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2101870523823345826",
+    "tweet_id": "2101870523823345826",
+    "case_ids": [
+      "gpt25-2101870527879209255"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2101869465977897075",
+    "tweet_id": "2101869465977897075",
+    "case_ids": [
+      "gpt25-2101869471346667906"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2101514981841961338",
+    "tweet_id": "2101514981841961338",
+    "case_ids": [
+      "gpt25-2101514985822151034"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2101514405712470133",
+    "tweet_id": "2101514405712470133",
+    "case_ids": [
+      "gpt25-2101514411240472588"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2101503442107899930",
+    "tweet_id": "2101503442107899930",
+    "case_ids": [
+      "gpt25-2101503445748617658"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2100904092621328893",
+    "tweet_id": "2100904092621328893",
+    "case_ids": [
+      "gpt25-2100904096727515244"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2100903733815337345",
+    "tweet_id": "2100903733815337345",
+    "case_ids": [
+      "gpt25-2100903738592674281"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2100578364549628228",
+    "tweet_id": "2100578364549628228",
+    "case_ids": [
+      "gpt25-2100578368077042117"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2100411937809129915",
+    "tweet_id": "2100411937809129915",
+    "case_ids": [
+      "gpt25-2100411941944791171"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2100065803072897507",
+    "tweet_id": "2100065803072897507",
+    "case_ids": [
+      "gpt25-2100065803072897507"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arina_hoqe/status/2099860826815684965",
+    "tweet_id": "2099860826815684965",
+    "case_ids": [
+      "gpt25-2099860837083345200"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2108576527843574106",
+    "tweet_id": "2108576527843574106",
+    "case_ids": [
+      "gpt25-2108576537561751626"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2108521159402655847",
+    "tweet_id": "2108521159402655847",
+    "case_ids": [
+      "gpt25-2108521171800973435"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2108378068771537181",
+    "tweet_id": "2108378068771537181",
+    "case_ids": [
+      "gpt25-2108378073498571029"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2108250237458686349",
+    "tweet_id": "2108250237458686349",
+    "case_ids": [
+      "gpt25-2108250248879788117"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2108211800055730213",
+    "tweet_id": "2108211800055730213",
+    "case_ids": [
+      "gpt25-2108211811421925617"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2108156258524000554",
+    "tweet_id": "2108156258524000554",
+    "case_ids": [
+      "gpt25-2108156271048130705"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2108024884752535786",
+    "tweet_id": "2108024884752535786",
+    "case_ids": [
+      "gpt25-2108024895804481648",
+      "gpt25-2108024891471761791"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107893056238149726",
+    "tweet_id": "2107893056238149726",
+    "case_ids": [
+      "gpt25-2107893068770767068"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107853173293810132",
+    "tweet_id": "2107853173293810132",
+    "case_ids": [
+      "gpt25-2107853186438427065"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107794850187784450",
+    "tweet_id": "2107794850187784450",
+    "case_ids": [
+      "gpt25-2107794864586756308"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107523527515705440",
+    "tweet_id": "2107523527515705440",
+    "case_ids": [
+      "gpt25-2107523538718499051"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107486193050898566",
+    "tweet_id": "2107486193050898566",
+    "case_ids": [
+      "gpt25-2107486202647462305"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107432278590886075",
+    "tweet_id": "2107432278590886075",
+    "case_ids": [
+      "gpt25-2107432291785945480"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107171754829635775",
+    "tweet_id": "2107171754829635775",
+    "case_ids": [
+      "gpt25-2107171765944242546"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107128227432976530",
+    "tweet_id": "2107128227432976530",
+    "case_ids": [
+      "gpt25-2107128238719852852"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2107073024377675989",
+    "tweet_id": "2107073024377675989",
+    "case_ids": [
+      "gpt25-2107073058280276339"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/1banana2546/status/2106866959300092369",
+    "tweet_id": "2106866959300092369",
+    "case_ids": [
+      "gpt25-2106866959300092369"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106804061315997843",
+    "tweet_id": "2106804061315997843",
+    "case_ids": [
+      "gpt25-2106804071512617020"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106770915229143242",
+    "tweet_id": "2106770915229143242",
+    "case_ids": [
+      "gpt25-2106770926847107507"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106702662053810507",
+    "tweet_id": "2106702662053810507",
+    "case_ids": [
+      "gpt25-2106702675253383494"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106437700261650647",
+    "tweet_id": "2106437700261650647",
+    "case_ids": [
+      "gpt25-2106437712337113577"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106395399053332635",
+    "tweet_id": "2106395399053332635",
+    "case_ids": [
+      "gpt25-2106395410327564512"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106342374805057562",
+    "tweet_id": "2106342374805057562",
+    "case_ids": [
+      "gpt25-2106342387698036839"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106077896809083244",
+    "tweet_id": "2106077896809083244",
+    "case_ids": [
+      "gpt25-2106077907969851743"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2106032304640372785",
+    "tweet_id": "2106032304640372785",
+    "case_ids": [
+      "gpt25-2106032316220895460"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105987084217663634",
+    "tweet_id": "2105987084217663634",
+    "case_ids": [
+      "gpt25-2105987097504989297"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105711377352663397",
+    "tweet_id": "2105711377352663397",
+    "case_ids": [
+      "gpt25-2105711388224032919"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105668458117546034",
+    "tweet_id": "2105668458117546034",
+    "case_ids": [
+      "gpt25-2105668470583050602"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105619686272676162",
+    "tweet_id": "2105619686272676162",
+    "case_ids": [
+      "gpt25-2105619699820044329"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105307477197594872",
+    "tweet_id": "2105307477197594872",
+    "case_ids": [
+      "gpt25-2105307488744571211"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2105256768595193986",
+    "tweet_id": "2105256768595193986",
+    "case_ids": [
+      "gpt25-2105256780565492165"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2104944740114239758",
+    "tweet_id": "2104944740114239758",
+    "case_ids": [
+      "gpt25-2104944751766065348"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2104896360722076082",
+    "tweet_id": "2104896360722076082",
+    "case_ids": [
+      "gpt25-2104896373321507030"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2104623023365992855",
+    "tweet_id": "2104623023365992855",
+    "case_ids": [
+      "gpt25-2104623035009347974"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2104534772240326693",
+    "tweet_id": "2104534772240326693",
+    "case_ids": [
+      "gpt25-2104534785011974532"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2104216387472224688",
+    "tweet_id": "2104216387472224688",
+    "case_ids": [
+      "gpt25-2104216397387624745"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/GeekCatX/status/2104135719140937766",
+    "tweet_id": "2104135719140937766",
+    "case_ids": [
+      "gpt25-2104135797280752081"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2103902016024334766",
+    "tweet_id": "2103902016024334766",
+    "case_ids": [
+      "gpt25-2103902027218592010"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2103852759443206178",
+    "tweet_id": "2103852759443206178",
+    "case_ids": [
+      "gpt25-2103852769605992813"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2103805464525811854",
+    "tweet_id": "2103805464525811854",
+    "case_ids": [
+      "gpt25-2103805475116532149"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2103492747986354468",
+    "tweet_id": "2103492747986354468",
+    "case_ids": [
+      "gpt25-2103492759357174060"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2103172393027912126",
+    "tweet_id": "2103172393027912126",
+    "case_ids": [
+      "gpt25-2103172404537143403"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2102777679267189173",
+    "tweet_id": "2102777679267189173",
+    "case_ids": [
+      "gpt25-2102777689434120432"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2102719668570013957",
+    "tweet_id": "2102719668570013957",
+    "case_ids": [
+      "gpt25-2102719679642943870"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2102398927056052479",
+    "tweet_id": "2102398927056052479",
+    "case_ids": [
+      "gpt25-2102398939290816708"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2102350375076626738",
+    "tweet_id": "2102350375076626738",
+    "case_ids": [
+      "gpt25-2102350378633420971"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2102234488562655721",
+    "tweet_id": "2102234488562655721",
+    "case_ids": [
+      "gpt25-2102234492761243885"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2102089379925639553",
+    "tweet_id": "2102089379925639553",
+    "case_ids": [
+      "gpt25-2102089391153860926"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2102040612501328063",
+    "tweet_id": "2102040612501328063",
+    "case_ids": [
+      "gpt25-2102040622857134127"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2101991375806038065",
+    "tweet_id": "2101991375806038065",
+    "case_ids": [
+      "gpt25-2101991381413892150"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2101869345093873968",
+    "tweet_id": "2101869345093873968",
+    "case_ids": [
+      "gpt25-2101869350366191729"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2101678764358762621",
+    "tweet_id": "2101678764358762621",
+    "case_ids": [
+      "gpt25-2101678773703754189"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2101629641559580789",
+    "tweet_id": "2101629641559580789",
+    "case_ids": [
+      "gpt25-2101629652741624268"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2101266482931900715",
+    "tweet_id": "2101266482931900715",
+    "case_ids": [
+      "gpt25-2101266498266313185"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100955478582788566",
+    "tweet_id": "2100955478582788566",
+    "case_ids": [
+      "gpt25-2100955490674987274"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100907098510938282",
+    "tweet_id": "2100907098510938282",
+    "case_ids": [
+      "gpt25-2100907108573024578"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100548626942451859",
+    "tweet_id": "2100548626942451859",
+    "case_ids": [
+      "gpt25-2100548638413930687"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100278569268047953",
+    "tweet_id": "2100278569268047953",
+    "case_ids": [
+      "gpt25-2100278579464417333"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100226084524458190",
+    "tweet_id": "2100226084524458190",
+    "case_ids": [
+      "gpt25-2100226095320580331"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2100177103991787826",
+    "tweet_id": "2100177103991787826",
+    "case_ids": [
+      "gpt25-2100177122916454655"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099865490789142721",
+    "tweet_id": "2099865490789142721",
+    "case_ids": [
+      "gpt25-2099865500746485837"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/itsPixieVerse/status/2099712704940568739",
+    "tweet_id": "2099712704940568739",
+    "case_ids": [
+      "gpt25-2099712708908319052"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099502862799638678",
+    "tweet_id": "2099502862799638678",
+    "case_ids": [
+      "gpt25-2099502876166947252"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099460129833783779",
+    "tweet_id": "2099460129833783779",
+    "case_ids": [
+      "gpt25-2099460145449185433"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099188491561189738",
+    "tweet_id": "2099188491561189738",
+    "case_ids": [
+      "gpt25-2099188504416936155"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099139883524616693",
+    "tweet_id": "2099139883524616693",
+    "case_ids": [
+      "gpt25-2099139896438919623"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2099095636792561773",
+    "tweet_id": "2099095636792561773",
+    "case_ids": [
+      "gpt25-2099095652638581123"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2098779170658546154",
+    "tweet_id": "2098779170658546154",
+    "case_ids": [
+      "gpt25-2098779184550002853"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/TechieBySA/status/2098731874801619048",
+    "tweet_id": "2098731874801619048",
+    "case_ids": [
+      "gpt25-2098731888617689164"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2108558447663071286",
+    "tweet_id": "2108558447663071286",
+    "case_ids": [
+      "gpt25-2108558447663071286"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Shorelyn_/status/2108532094796533952",
+    "tweet_id": "2108532094796533952",
+    "case_ids": [
+      "gpt25-2108532094796533952"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/hey_am_cherry/status/2108424213132697763",
+    "tweet_id": "2108424213132697763",
+    "case_ids": [
+      "gpt25-2108424213132697763"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2108194229193461879",
+    "tweet_id": "2108194229193461879",
+    "case_ids": [
+      "gpt25-2108194229193461879"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/yourPlugAI/status/2108136293477536077",
+    "tweet_id": "2108136293477536077",
+    "case_ids": [
+      "gpt25-2108136293477536077"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2108112844239892599",
+    "tweet_id": "2108112844239892599",
+    "case_ids": [
+      "gpt25-2108112844239892599"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MrGafish/status/2108104473235341588",
+    "tweet_id": "2108104473235341588",
+    "case_ids": [
+      "gpt25-2108104473235341588"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2108048878234673467",
+    "tweet_id": "2108048878234673467",
+    "case_ids": [
+      "gpt25-2108048878234673467"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MrLarus/status/2107862758939336819",
+    "tweet_id": "2107862758939336819",
+    "case_ids": [
+      "gpt25-2107862794469302424"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2107803591281168600",
+    "tweet_id": "2107803591281168600",
+    "case_ids": [
+      "gpt25-2107803596477944202"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2107690033688056029",
+    "tweet_id": "2107690033688056029",
+    "case_ids": [
+      "gpt25-2107690033688056029"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/hey_am_cherry/status/2107687505248256083",
+    "tweet_id": "2107687505248256083",
+    "case_ids": [
+      "gpt25-2107687505248256083"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865",
+    "tweet_id": "2107617855906975865",
+    "case_ids": [
+      "gpt25-2107617855906975865"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/churvikv/status/2107542566191419650",
+    "tweet_id": "2107542566191419650",
+    "case_ids": [
+      "gpt25-2107542566191419650"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/hakmgpt/status/2107535382183387282",
+    "tweet_id": "2107535382183387282",
+    "case_ids": [
+      "gpt25-2107535382183387282"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2107410819294343507",
+    "tweet_id": "2107410819294343507",
+    "case_ids": [
+      "gpt25-2107410819294343507"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2107369025366016200",
+    "tweet_id": "2107369025366016200",
+    "case_ids": [
+      "gpt25-2107369025366016200"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/harboriis/status/2107346549542203400",
+    "tweet_id": "2107346549542203400",
+    "case_ids": [
+      "gpt25-2107346549542203400"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2106765651952140743",
+    "tweet_id": "2106765651952140743",
+    "case_ids": [
+      "gpt25-2106765651952140743"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2106691951810789674",
+    "tweet_id": "2106691951810789674",
+    "case_ids": [
+      "gpt25-2106691981275721881"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/hey_am_cherry/status/2106245541508382774",
+    "tweet_id": "2106245541508382774",
+    "case_ids": [
+      "gpt25-2106245541508382774"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2106233142994481153",
+    "tweet_id": "2106233142994481153",
+    "case_ids": [
+      "gpt25-2106233142994481153"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2105951924742983747",
+    "tweet_id": "2105951924742983747",
+    "case_ids": [
+      "gpt25-2105951925640589394"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arina_hoqe/status/2104426552972980328",
+    "tweet_id": "2104426552972980328",
+    "case_ids": [
+      "gpt25-2104426560631775589"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2104162118262214933",
+    "tweet_id": "2104162118262214933",
+    "case_ids": [
+      "gpt25-2104162122435580191"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arina_hoqe/status/2103714792347464034",
+    "tweet_id": "2103714792347464034",
+    "case_ids": [
+      "gpt25-2103714798324125892"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2103672434822156794",
+    "tweet_id": "2103672434822156794",
+    "case_ids": [
+      "gpt25-2103672438798360854"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2102960952266432853",
+    "tweet_id": "2102960952266432853",
+    "case_ids": [
+      "gpt25-2102960956280299535"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2102597090534649952",
+    "tweet_id": "2102597090534649952",
+    "case_ids": [
+      "gpt25-2102597096545071243"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2102594437448950188",
+    "tweet_id": "2102594437448950188",
+    "case_ids": [
+      "gpt25-2102594441760620756"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2102244433047744650",
+    "tweet_id": "2102244433047744650",
+    "case_ids": [
+      "gpt25-2102244437032354046"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/icreatelife/status/2101353488408006830",
+    "tweet_id": "2101353488408006830",
+    "case_ids": [
+      "gpt25-2101353512210710690"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2101262037963903115",
+    "tweet_id": "2101262037963903115",
+    "case_ids": [
+      "gpt25-2101262041533313249"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2100900339453149339",
+    "tweet_id": "2100900339453149339",
+    "case_ids": [
+      "gpt25-2100900343358030040"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2100539257173750204",
+    "tweet_id": "2100539257173750204",
+    "case_ids": [
+      "gpt25-2100539261628080282"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2100427348789363114",
+    "tweet_id": "2100427348789363114",
+    "case_ids": [
+      "gpt25-2100427354216841263"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2100423480348946448",
+    "tweet_id": "2100423480348946448",
+    "case_ids": [
+      "gpt25-2100423487601123731"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2100412893309362669",
+    "tweet_id": "2100412893309362669",
+    "case_ids": [
+      "gpt25-2100412898363547998"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2100063686324883725",
+    "tweet_id": "2100063686324883725",
+    "case_ids": [
+      "gpt25-2100063691198669194"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2100063240105435328",
+    "tweet_id": "2100063240105435328",
+    "case_ids": [
+      "gpt25-2100063244324889037"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2099864459531669576",
+    "tweet_id": "2099864459531669576",
+    "case_ids": [
+      "gpt25-2099864465013629192"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/icreatelife/status/2099343607492702258",
+    "tweet_id": "2099343607492702258",
+    "case_ids": [
+      "gpt25-2099343611389219254"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/lukfan/status/2098582975567061183",
+    "tweet_id": "2098582975567061183",
+    "case_ids": [
+      "gpt25-2098582975567061183-alt-0"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2108555814604812483",
+    "tweet_id": "2108555814604812483",
+    "case_ids": [
+      "gpt25-2108555814604812483"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2107784613708136595",
+    "tweet_id": "2107784613708136595",
+    "case_ids": [
+      "gpt25-2107784613708136595"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MonetizationDon/status/2107388608260825597",
+    "tweet_id": "2107388608260825597",
+    "case_ids": [
+      "gpt25-2107388611301687675"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Shorelyn_/status/2107353999796326889",
+    "tweet_id": "2107353999796326889",
+    "case_ids": [
+      "gpt25-2107353999796326889"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2107334172633379213",
+    "tweet_id": "2107334172633379213",
+    "case_ids": [
+      "gpt25-2107334172633379213"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2107026522842542418",
+    "tweet_id": "2107026522842542418",
+    "case_ids": [
+      "gpt25-2107026522842542418"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/miratechtool/status/2106410612024639516",
+    "tweet_id": "2106410612024639516",
+    "case_ids": [
+      "gpt25-2106410612024639516"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/aziz4ai/status/2106384235443687889",
+    "tweet_id": "2106384235443687889",
+    "case_ids": [
+      "gpt25-2106384240422031684"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2106344728837136616",
+    "tweet_id": "2106344728837136616",
+    "case_ids": [
+      "gpt25-2106344728837136616"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2104159264185127226",
+    "tweet_id": "2104159264185127226",
+    "case_ids": [
+      "gpt25-2104159506460811390"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/HaniaAi12/status/2104020618366816590",
+    "tweet_id": "2104020618366816590",
+    "case_ids": [
+      "gpt25-2104020631251828877"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2103429083652821045",
+    "tweet_id": "2103429083652821045",
+    "case_ids": [
+      "gpt25-2103429083652821045"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/husky__create/status/2103422112312541342",
+    "tweet_id": "2103422112312541342",
+    "case_ids": [
+      "gpt25-2103422116876222566"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2103354336848072903",
+    "tweet_id": "2103354336848072903",
+    "case_ids": [
+      "gpt25-2103354342279393708"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arzoo12sh/status/2102710718302966229",
+    "tweet_id": "2102710718302966229",
+    "case_ids": [
+      "gpt25-2102710721633198208"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/husky__create/status/2102337226311180568",
+    "tweet_id": "2102337226311180568",
+    "case_ids": [
+      "gpt25-2102337239443522023"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2100899630896816165",
+    "tweet_id": "2100899630896816165",
+    "case_ids": [
+      "gpt25-2100899807061827797"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2100585834357702696",
+    "tweet_id": "2100585834357702696",
+    "case_ids": [
+      "gpt25-2100585884802494544"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/husky__create/status/2100519237131395288",
+    "tweet_id": "2100519237131395288",
+    "case_ids": [
+      "gpt25-2100519240306684202"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/husky__create/status/2100162861045817624",
+    "tweet_id": "2100162861045817624",
+    "case_ids": [
+      "gpt25-2100162874132087109"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2099851373470945551",
+    "tweet_id": "2099851373470945551",
+    "case_ids": [
+      "gpt25-2099851680380838194"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Diplomeme/status/2099417551411494936",
+    "tweet_id": "2099417551411494936",
+    "case_ids": [
+      "gpt25-2099417664863228204"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/weiinberg/status/2108471613536739652",
+    "tweet_id": "2108471613536739652",
+    "case_ids": [
+      "gpt25-2108471613536739652"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2108403968372306010",
+    "tweet_id": "2108403968372306010",
+    "case_ids": [
+      "gpt25-2108403968372306010"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2108199004546933097",
+    "tweet_id": "2108199004546933097",
+    "case_ids": [
+      "gpt25-2108199004546933097"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2107760212962898088",
+    "tweet_id": "2107760212962898088",
+    "case_ids": [
+      "gpt25-2107760212962898088"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2107675234858131544",
+    "tweet_id": "2107675234858131544",
+    "case_ids": [
+      "gpt25-2107675234858131544"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/ozansihay/status/2107544398531637407",
+    "tweet_id": "2107544398531637407",
+    "case_ids": [
+      "gpt25-2107544398531637407"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2107035883669176664",
+    "tweet_id": "2107035883669176664",
+    "case_ids": [
+      "gpt25-2107035889461588289"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2106906919697006662",
+    "tweet_id": "2106906919697006662",
+    "case_ids": [
+      "gpt25-2106906926726717843"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiwithLariab/status/2106607115733553225",
+    "tweet_id": "2106607115733553225",
+    "case_ids": [
+      "gpt25-2106607115733553225"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2106416152364863790",
+    "tweet_id": "2106416152364863790",
+    "case_ids": [
+      "gpt25-2106416165241418042"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2106326229146353778",
+    "tweet_id": "2106326229146353778",
+    "case_ids": [
+      "gpt25-2106326234322059308"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2105858119423414421",
+    "tweet_id": "2105858119423414421",
+    "case_ids": [
+      "gpt25-2105858125752623434"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2105086975317573835",
+    "tweet_id": "2105086975317573835",
+    "case_ids": [
+      "gpt25-2105086976022188110"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2104524087997641022",
+    "tweet_id": "2104524087997641022",
+    "case_ids": [
+      "gpt25-2104524093173428713"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2104369636678779378",
+    "tweet_id": "2104369636678779378",
+    "case_ids": [
+      "gpt25-2104369643146346759"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2104183967255761115",
+    "tweet_id": "2104183967255761115",
+    "case_ids": [
+      "gpt25-2104183973991817236"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2104135869313777911",
+    "tweet_id": "2104135869313777911",
+    "case_ids": [
+      "gpt25-2104135877220028666"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Kubra_286/status/2104065780002455829",
+    "tweet_id": "2104065780002455829",
+    "case_ids": [
+      "gpt25-2104065786142916926"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arina_hoqe/status/2104060103704150362",
+    "tweet_id": "2104060103704150362",
+    "case_ids": [
+      "gpt25-2104060109211255230"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103999055118454900",
+    "tweet_id": "2103999055118454900",
+    "case_ids": [
+      "gpt25-2103999062068355211"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103772386600644846",
+    "tweet_id": "2103772386600644846",
+    "case_ids": [
+      "gpt25-2103772396486308259"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/novaXsignals/status/2103717919825768537",
+    "tweet_id": "2103717919825768537",
+    "case_ids": [
+      "gpt25-2103717928634122598"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Arina_hoqe/status/2103696195000709627",
+    "tweet_id": "2103696195000709627",
+    "case_ids": [
+      "gpt25-2103696199488520632"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/AiWithTariq/status/2103695256445477234",
+    "tweet_id": "2103695256445477234",
+    "case_ids": [
+      "gpt25-2103695262522696075"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103635953097363741",
+    "tweet_id": "2103635953097363741",
+    "case_ids": [
+      "gpt25-2103635959153938466"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103515135021384063",
+    "tweet_id": "2103515135021384063",
+    "case_ids": [
+      "gpt25-2103515142495551767"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103154450999189741",
+    "tweet_id": "2103154450999189741",
+    "case_ids": [
+      "gpt25-2103154458876162236"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2103100540943220815",
+    "tweet_id": "2103100540943220815",
+    "case_ids": [
+      "gpt25-2103100544957223253"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2103079957484429450",
+    "tweet_id": "2103079957484429450",
+    "case_ids": [
+      "gpt25-2103079961490075859"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2103047854205886949",
+    "tweet_id": "2103047854205886949",
+    "case_ids": [
+      "gpt25-2103047859281019130"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2102793005837242737",
+    "tweet_id": "2102793005837242737",
+    "case_ids": [
+      "gpt25-2102793013143412829"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2102714815793992093",
+    "tweet_id": "2102714815793992093",
+    "case_ids": [
+      "gpt25-2102714822030934488"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2102691221764477093",
+    "tweet_id": "2102691221764477093",
+    "case_ids": [
+      "gpt25-2102691226902552591"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2102550122752311623",
+    "tweet_id": "2102550122752311623",
+    "case_ids": [
+      "gpt25-2102550128985002216"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2101634982728888507",
+    "tweet_id": "2101634982728888507",
+    "case_ids": [
+      "gpt25-2101634984020750560"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2101546096153797041",
+    "tweet_id": "2101546096153797041",
+    "case_ids": [
+      "gpt25-2101546101228646430"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/KrishnaBio1/status/2101465886213484588",
+    "tweet_id": "2101465886213484588",
+    "case_ids": [
+      "gpt25-2101465897814962381",
+      "gpt25-2101465893293392100"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2101257724579463584",
+    "tweet_id": "2101257724579463584",
+    "case_ids": [
+      "gpt25-2101257730472419754"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2101255283897139628",
+    "tweet_id": "2101255283897139628",
+    "case_ids": [
+      "gpt25-2101255289333031047"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2101138720204484734",
+    "tweet_id": "2101138720204484734",
+    "case_ids": [
+      "gpt25-2101138725820588393"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2100787007811362831",
+    "tweet_id": "2100787007811362831",
+    "case_ids": [
+      "gpt25-2100787012529975424"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2100057353249051067",
+    "tweet_id": "2100057353249051067",
+    "case_ids": [
+      "gpt25-2100057357376192992"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Alina_with_Ai/status/2098962792904798297",
+    "tweet_id": "2098962792904798297",
+    "case_ids": [
+      "gpt25-2098962796893651067"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MrGafish/status/2108382775191757286",
+    "tweet_id": "2108382775191757286",
+    "case_ids": [
+      "gpt25-2108382775191757286"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/magu_ai_h/status/2108123006807785725",
+    "tweet_id": "2108123006807785725",
+    "case_ids": [
+      "gpt25-2108123043042316585"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/mehwishkiran07/status/2102352501085487422",
+    "tweet_id": "2102352501085487422",
+    "case_ids": [
+      "gpt25-2102352505405583379"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/agi_aibusi/status/2100004003237204394",
+    "tweet_id": "2100004003237204394",
+    "case_ids": [
+      "gpt25-2100004006219362741"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Mayz1169/status/2104568171378405519",
+    "tweet_id": "2104568171378405519",
+    "case_ids": [
+      "gpt25-2104568538694611150"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2101132921209856362",
+    "tweet_id": "2101132921209856362",
+    "case_ids": [
+      "gpt25-2101132922560430481"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2100184573376381181",
+    "tweet_id": "2100184573376381181",
+    "case_ids": [
+      "gpt25-2100184573376381181"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2100172521664573551",
+    "tweet_id": "2100172521664573551",
+    "case_ids": [
+      "gpt25-2100172521664573551"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Mayz1169/status/2100135954032087346",
+    "tweet_id": "2100135954032087346",
+    "case_ids": [
+      "gpt25-2100136174446936508"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/Scenario_gg/status/2099797670516695385",
+    "tweet_id": "2099797670516695385",
+    "case_ids": [
+      "gpt25-2099797798388482395"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2099684732950958440",
+    "tweet_id": "2099684732950958440",
+    "case_ids": [
+      "gpt25-2099684732950958440"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2099481521983995971",
+    "tweet_id": "2099481521983995971",
+    "case_ids": [
+      "gpt25-2099481521983995971"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/MahnoorAi12/status/2099099830236684757",
+    "tweet_id": "2099099830236684757",
+    "case_ids": [
+      "gpt25-2099099834867134695"
+    ],
+    "ingested_at": "2026-10-26"
+  },
+  {
+    "tweet_url": "https://x.com/renoiseai/status/2097958941070430477",
+    "tweet_id": "2097958941070430477",
+    "case_ids": [
+      "gpt25-2097959984265130436"
+    ],
+    "ingested_at": "2026-10-26"
+  }
+]

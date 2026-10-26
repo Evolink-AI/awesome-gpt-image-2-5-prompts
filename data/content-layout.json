@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "layout": "split-category",
+  "categories": [
+    "portraits",
+    "character-sheets",
+    "illustration",
+    "advertising",
+    "travel-journals",
+    "editing",
+    "sequential-art"
+  ]
+}

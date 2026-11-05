@@ -1,6 +1,6 @@
 # ポートレート・写真
 
-[← 全250件のプロンプト](../../README_ja.md)
+[← 全254件のプロンプト](../../README_ja.md)
 
 ケースを選ぶと、作者が公開した画像・動画とプロンプトの原文全文を確認できます。プロンプトは元の言語のまま掲載しています。
 
@@ -74,6 +74,8 @@ Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:1
 Negative prompt: front-facing body, standing pose, incorrect crossed legs, wrong hand placement, short top, distorted hands, bad anatomy, artificial water, plastic skin, text, watermark.
 ```
 
+---
+
 <a id="portraits-case-2"></a>
 ### ケース 2: [落としたスマートフォンの視点で捉える自然な一瞬](https://x.com/DeepBlueX0/status/2108629489295266035) (投稿者 [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -95,6 +97,8 @@ Negative prompt: front-facing body, standing pose, incorrect crossed legs, wrong
 iPhone 原生视频随机截帧，避免摆拍姿势、完美对称构图、过度锐化与人为颗粒。
 ```
 
+---
+
 <a id="portraits-case-3"></a>
 ### ケース 3: [高いポニーテールの夜間フラッシュポートレート](https://x.com/TaliaAariz/status/2108458612662128684) (投稿者 [@TaliaAariz](https://x.com/TaliaAariz))
 
@@ -114,6 +118,8 @@ iPhone 原生视频随机截帧，避免摆拍姿势、完美对称构图、过�
 ```
 Ultra-photorealistic candid night portrait of an adult woman with fair porcelain glass skin, luminous dewy complexion, soft natural rosy blush, softly defined brows, subtle brown eyeshadow, natural lashes, and peachy-nude glossy lips. Extremely long, thick espresso brown hair in a high messy ponytail with loose curls strands blowing across her face. Wearing a delicate white spaghetti-strap dress, backless, thick gold hoop earrings, subtle piercings and gold rings. She gently holds a huge bouquet of white daisies with yellow centers close to her face, partially covering her mouth and lower face, gazing softly toward the camera with a dreamy candid expression. Dark outdoor nighttime background with warm distant bokeh lights, direct on-camera flash, slight motion blur, subtle film grain, intimate 35mm analog-camera aesthetic, cinematic low-light atmosphere, ultra-detailed. Add a small handwriting watermark written dev at the bottom left. Ar 3:4.
 ```
+
+---
 
 <a id="portraits-case-4"></a>
 ### ケース 4: [秋の田園と柵を背景にしたポートレート](https://x.com/mehvishs25/status/2108207834815230156) (投稿者 [@mehvishs25](https://x.com/mehvishs25))
@@ -144,6 +150,8 @@ Make the image look like an authentic high-end outdoor photograph captured with 
 Avoid beauty filters, artificial skin, excessive sharpness, HDR effects, CGI, 3D rendering, painterly textures, plastic appearance, facial distortion, excessive blur, or an AI-generated look. The final result should feel like a real candid autumn fashion photograph captured in the countryside.
 ```
 
+---
+
 <a id="portraits-case-5"></a>
 ### ケース 5: [邸宅の廊下で見上げるカップル](https://x.com/johnAGI168/status/2108051379243647303) (投稿者 [@johnAGI168](https://x.com/johnAGI168))
 
@@ -167,6 +175,8 @@ The low-angle perspective looks straight up past them toward an ornate, towering
 Lit with dramatic cinematic chiaroscuro: directional overhead key light sculpts their jawlines and shoulders, casting deep cinematic contrast and revealing the tactile warmth of the man's hands grasping her midriff. Shot on an anamorphic 35mm cinema lens at T1.8, ISO 250, 1/120s, rendering authentic skin micro-texture, natural fabric folds, and palpable cinematic physical chemistry.
 ```
 
+---
+
 <a id="portraits-case-6"></a>
 ### ケース 6: [逆光のフレアを生かしたスナップ写真](https://x.com/DeepBlueX0/status/2107865780146893027) (投稿者 [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -186,6 +196,8 @@ Lit with dramatic cinematic chiaroscuro: directional overhead key light sculpts 
 ```
 雷电将军 × 【拍摄设备】 × 逆光抓拍 × 光学失控
 ```
+
+---
 
 <a id="portraits-case-7"></a>
 ### ケース 7: [ローキー照明の映画的なクローズアップ](https://x.com/john_my07/status/2107801411711123546) (投稿者 [@john_my07](https://x.com/john_my07))
@@ -214,6 +226,8 @@ Capture extremely realistic skin with visible pores, fine facial texture, subtle
 Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft optical falloff, realistic tonal range, subtle analog film grain, and premium editorial photography quality. The final image should feel like an authentic photograph captured in a professional studio — sophisticated, raw, atmospheric, and completely photorealistic, with no obvious AI-generated appearance.
 ```
 
+---
+
 <a id="portraits-case-8"></a>
 ### ケース 8: [力士の塩まきを捉えたドキュメンタリー写真](https://x.com/techhalla/status/2107599021976285395/photo/4) (投稿者 [@techhalla](https://x.com/techhalla))
 
@@ -229,6 +243,8 @@ Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft 
 a sumo wrestler throwing a big handful of salt high into the air before his bout, the salt cloud glowing in the lights, his face calm and focused, inside a sumo tournament arena in Tokyo, raised clay ring with straw bales under a suspended shrine-style roof, hard overhead lights, dark crowd behind, documentary photograph, 35mm color film, grain
 ```
 
+---
+
 <a id="portraits-case-9"></a>
 ### ケース 9: [マンハッタンを舞台にした時代衣装の映画風ポートレート](https://x.com/techhalla/status/2107599021976285395/photo/3) (投稿者 [@techhalla](https://x.com/techhalla))
 
@@ -243,6 +259,8 @@ a sumo wrestler throwing a big handful of salt high into the air before his bout
 ```
 a woman wearing an extravagant eighteenth-century inspired silk gown and a tall powdered wig standing still in front of an ornate cast-iron facade in old Manhattan, full-length, 1970s color photograph, soft daylight, grain, slightly faded colors
 ```
+
+---
 
 <a id="portraits-case-10"></a>
 ### ケース 10: [日本の夜の街で撮るスマートフォン風ポートレート](https://x.com/MissDelulu9/status/2107464677978726696) (投稿者 [@MissDelulu9](https://x.com/MissDelulu9))
@@ -262,6 +280,8 @@ a woman wearing an extravagant eighteenth-century inspired silk gown and a tall 
 ```
 Candid cinematic iPhone night street portrait of a young woman in Japan, long wavy dark-brown hair with a thin side braid, natural makeup and a subtle smile. She wears a fitted burgundy sleeveless tank top, light-wash loose straight-leg jeans, and a black leather shoulder bag. Quiet Japanese city street with tiled walls, crosswalks, utility poles, glowing signs, apartment buildings, and soft streetlights. Warm ambient lighting mixed with cool city lights, natural skin texture and realistic pores, shallow depth of field, soft bokeh, realistic shadows, slight digital grain, authentic low-light smartphone photography, documentary lifestyle aesthetic, spontaneous candid feeling, natural proportions, realistic hair strands, 35mm equivalent look, ultra-realistic, vertical 9:16.
 ```
+
+---
 
 <a id="portraits-case-11"></a>
 ### ケース 11: [田舎の牧場で撮る自然なポートレート](https://x.com/j_smeaton99/status/2107384596837158947) (投稿者 [@j_smeaton99](https://x.com/j_smeaton99))
@@ -287,6 +307,8 @@ Aim for the look of an authentic professional outdoor photograph rather than an 
 
 Muted seasonal colors, subtle contrast, realistic exposure, authentic photographic depth, and a slightly editorial countryside aesthetic. Absolutely no artificial skin smoothing, waxy or plastic appearance, excessive sharpening, CGI look, 3D rendering, painterly effects, or blurry/mushy details.
 ```
+
+---
 
 <a id="portraits-case-12"></a>
 ### ケース 12: [クラシックカーのミラーを使ったファッション写真](https://x.com/hey_am_cherry/status/2107334467161641240) (投稿者 [@hey_am_cherry](https://x.com/hey_am_cherry))
@@ -340,6 +362,8 @@ Muted seasonal colors, subtle contrast, realistic exposure, authentic photograph
 }
 ```
 
+---
+
 <a id="portraits-case-13"></a>
 ### ケース 13: [ヴィンテージサングラスとフラッシュのクローズアップ](https://x.com/Diplomeme/status/2107149162022375869) (投稿者 [@Diplomeme](https://x.com/Diplomeme))
 
@@ -354,6 +378,8 @@ Muted seasonal colors, subtle contrast, realistic exposure, authentic photograph
 ```
 Close up shot looking down at a girl with long straight dark hair parted in the middle, wearing oversized narrow oval black sunglasses with thick vintage frames, leaning forward and looking directly at the camera. She wears a white tank top with faded text ‘NOT YOUR ANGEL’ printed across the chest, layered silver necklaces, glossy lips. Muted cool teal cyan film grain lighting, deep soft shadows cast on the plain wall behind, late 90s flash photography aesthetic, grainy digicam look, slight motion blur.
 ```
+
+---
 
 <a id="portraits-case-14"></a>
 ### ケース 14: [露出を抑えた夜のセルフィー](https://x.com/mehvishs25/status/2107051837799194967) (投稿者 [@mehvishs25](https://x.com/mehvishs25))
@@ -373,6 +399,8 @@ The girl sits relaxed, leaning back. Her head is slightly tilted and thrown back
 
 A dark background with no extra detail. Warm side light illuminates her face and hair, leaving deep shadows. Muted colors, low exposure, light grain, and natural skin texture. No HDR, filters, or artificial gloss.
 ```
+
+---
 
 <a id="portraits-case-15"></a>
 ### ケース 15: [暖かな室内でのセーターポートレート](https://x.com/mehwishkiran07/status/2106932651936682033) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -407,6 +435,8 @@ Style: ultra-photorealistic live-action photography combined with a charming hig
 Keep the overall composition natural and believable. No extra fingers, no distorted hands, no duplicate characters, no deformed anatomy, no text, no watermark.
 ```
 
+---
+
 <a id="portraits-case-16"></a>
 ### ケース 16: [日差しの入る螺旋階段のCCD風ポートレート](https://x.com/liyue_ai/status/2106612527983468685) (投稿者 [@liyue_ai](https://x.com/liyue_ai))
 
@@ -435,6 +465,8 @@ Keep the overall composition natural and believable. No extra fingers, no distor
 补充要求：薄荷蓝绿保持鲜亮，不灰不雾；楼梯形成明显空间纵深；短款Polo露出腰腹和肚脐，整体像城市建筑随手拍
 ```
 
+---
+
 <a id="portraits-case-17"></a>
 ### ケース 17: [黒いスタジオでのグループポートレート](https://x.com/mehwishkiran07/status/2106570540622500013) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -462,6 +494,8 @@ Dramatic cinematic studio lighting, warm golden spotlight from the flashlight, s
 Important: Keep the adult woman's identity consistent with the uploaded reference image. Do not alter her facial structure or recognizable features. Keep both characters clearly visible and maintain the same overall composition and pose.
 ```
 
+---
+
 <a id="portraits-case-18"></a>
 ### ケース 18: [ロゼシャンパンと夜のCCD風ポートレート](https://x.com/liyue_ai/status/2106404865144738233) (投稿者 [@liyue_ai](https://x.com/liyue_ai))
 
@@ -476,6 +510,8 @@ Important: Keep the adult woman's identity consistent with the uploaded referenc
 ```
 玫瑰香槟粉 CCD 夜间直闪，一位年轻成年东亚女性，清甜成年感鹅蛋脸，穿烟玫瑰色方领修身短礼裙和高跟鞋。她坐在丝绒沙发边，一腿交叠，一手拿票卡放在膝上，一手搭在沙发扶手。9:16 近全身，突出上围、腰线和腿部。
 ```
+
+---
 
 <a id="portraits-case-19"></a>
 ### ケース 19: [ウェーブしたファーコートの日常ファッションポートレート](https://x.com/TaliaAariz/status/2106304668796109249) (投稿者 [@TaliaAariz](https://x.com/TaliaAariz))
@@ -496,6 +532,8 @@ Important: Keep the adult woman's identity consistent with the uploaded referenc
 ```
 Keep the facial features, nose shape, eye shape, and cheekbone structure absolutely unchanged. Do not attempt to enhance or stylize the face; ensure a 100% accurate portrait likeness. A lifestyle, waist-up portrait of an elegant, young, slender woman with slightly tanned skin. She is wearing a form-fitting, strapless black corset top and a voluminous, fluffy white long-pile wavy-fur coat draped over her shoulders; the coat is stylishly slipped down to reveal her graceful collarbones.Her long hair is styled in a neat high updo, with a few fine strands framing her face beautifully. Makeup: even skin tone; soft contouring on the cheekbones, bridge of the nose, and jawline; brown eyeshadow with dark blending; winged eyeliner extending toward the temples; long, voluminous lash extensions; defined, gel-set brows; and matte burgundy lipstick. She wears a diamond chain necklace, a diamond ring, and silver diamond stud earrings; her manicure features short, glossy dark-red nails.The setting is a clean, minimalist studio environment with a plain light-gray background. Captured in a three-quarter view, she has turned her head to the side in profile with a mysterious gaze, gracefully raising one hand to the coat's collar and lightly touching the soft fur with her fingers. Her head is tilted back, and her lips are slightly parted. Soft studio lighting directed from the side, creating deep, expressive shadows that accentuate the sculpted contours of the face, the neckline,and the voluminous fur. Close-up shot from a slightly low angle. Shot on an iPhone 17 Pro; the image has the feel of a candid unposed photo, featuring digital noise and pronounced film grain. Realistic look with natural skin texture—avoiding excessive retouching or a "plastic mask" effect. Darkened exposure and moody color grading; Instagram-style aesthetic. High level of detail capturing every curl of the fur, the metallic sheen of the chain, and the natural micro-texture of the skin. --ar 2:3.
 ```
+
+---
 
 <a id="portraits-case-20"></a>
 ### ケース 20: [路面電車の停留所でのCCD風スナップ](https://x.com/liyue_ai/status/2106253411494568367) (投稿者 [@liyue_ai](https://x.com/liyue_ai))
@@ -524,6 +562,8 @@ Keep the facial features, nose shape, eye shape, and cheekbone structure absolut
 画幅比例：9:16
 补充要求：红色鲜亮但不荧光；人物保持真实通勤生活感，不像交通广告；胸线和腰线清楚但自然
 ```
+
+---
 
 <a id="portraits-case-21"></a>
 ### ケース 21: [同じ人物の人生の思い出をまとめたコラージュ](https://x.com/mehwishkiran07/status/2106208041758830652) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -578,6 +618,8 @@ Warm natural indoor lighting, soft cinematic depth of field, realistic skin text
 Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.
 ```
 
+---
+
 <a id="portraits-case-22"></a>
 ### ケース 22: [夕暮れをローアングルで捉えたフィルム風ポートレート](https://x.com/chatgptpaglu/status/2105219509791678731) (投稿者 [@chatgptpaglu](https://x.com/chatgptpaglu))
 
@@ -592,6 +634,8 @@ Important: Use my uploaded image as the identity reference. Preserve my face exa
 ```
 A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
 ```
+
+---
 
 <a id="portraits-case-23"></a>
 ### ケース 23: [本人らしさを保った雑誌風コラージュ](https://x.com/FutureVibesAi/status/2104874695275467016) (投稿者 [@FutureVibesAi](https://x.com/FutureVibesAi))
@@ -642,6 +686,8 @@ STRICT CONSISTENCY: every woman shown is the exact same person. Maintain identic
 NO TEXT. NO TYPOGRAPHY. NO LETTERS. NO LOGOS. NO BRAND NAMES. NO WATERMARKS. NO RANDOM SYMBOLS.
 ```
 
+---
+
 <a id="portraits-case-24"></a>
 ### ケース 24: [2枚の参照ポートレートを使った合成](https://x.com/mehwishkiran07/status/2104755850778992779) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -690,6 +736,8 @@ Match the reference images as closely as possible in composition, framing, propo
 No text, no logos, no watermark, no additional people, no extra objects, no face distortion, no duplicated facial features, no anatomy errors.
 ```
 
+---
+
 <a id="portraits-case-25"></a>
 ### ケース 25: [大小2つのスケールで見せるファッションポートレート](https://x.com/mehwishkiran07/status/2104396563447701567) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -728,6 +776,8 @@ Vertical 9:16 composition, ultra-high resolution, photorealistic, crisp details,
 Do not add any text, letters, logos, captions, watermarks, or typography anywhere in the image.
 ```
 
+---
+
 <a id="portraits-case-26"></a>
 ### ケース 26: [グリーンベルベットのダブルポートレート](https://x.com/AiWithTariq/status/2104056998107181221) (投稿者 [@AiWithTariq](https://x.com/AiWithTariq))
 
@@ -750,6 +800,8 @@ Create a creative double-portrait composition: a full-body fashion portrait stan
 
 Use a rich emerald-green, black, and champagne color palette, sophisticated luxury studio background, cinematic rim lighting, subtle atmospheric haze, realistic shadows, high-end magazine fashion photography, ultra-realistic skin texture, highly detailed, 4K, vertical 4:5.
 ```
+
+---
 
 <a id="portraits-case-27"></a>
 ### ケース 27: [海辺の夕景を使ったポートレート合成](https://x.com/mehwishkiran07/status/2104046033517081024) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -781,6 +833,8 @@ Use cinematic photography, ultra-realistic details, natural skin texture, realis
 
 Vertical 9:16 composition, balanced poster-like framing, large close-up portrait in the upper section and full-body walking subject in the lower section, seamless artistic integration between both elements, premium cinematic aesthetic, photorealistic, no text, no watermark.
 ```
+
+---
 
 <a id="portraits-case-28"></a>
 ### ケース 28: [同じ人物の日常を描くポートレート集](https://x.com/mehwishkiran07/status/2103802303686099026) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -824,6 +878,8 @@ Vertical 4:5 composition.
 IMPORTANT: Do not generate any text, words, letters, quotes, signs, captions, logos, symbols, or typography anywhere in the image. Leave clean empty areas around the composition so I can add my own text later.
 ```
 
+---
+
 <a id="portraits-case-29"></a>
 ### ケース 29: [23歳の誕生日ポートレート](https://x.com/HaniaAi12/status/2103789528888525224) (投稿者 [@HaniaAi12](https://x.com/HaniaAi12))
 
@@ -843,6 +899,8 @@ IMPORTANT: Do not generate any text, words, letters, quotes, signs, captions, lo
 A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and soft glam makeup — rosy lips and subtle eye makeup — sits elegantly atop a large 3D sculptural number "23" rendered in creamy white with a warm golden inner frame. The hollow interiors of both digits are filled with clusters of metallic balloons in champagne gold, pearl white, and blush pink, along with delicate pink roses and soft cherry blossom branches. She wears a sophisticated dark chocolate brown pinstripe sleeveless wide-leg jumpsuit with a neat self-tie bow at the waist, paired with matching dark brown pointed-toe ankle-strap stiletto heels. Her pose is confident and relaxed — one leg crossed, hand resting gently beside her. The background is a clean warm cream/off-white with soft diagonal light streaks creating a luxurious sun-ray shadow effect. The overall mood is chic, celebratory, and editorial — a birthday or milestone portrait with a fashion-forward aesthetic.
 ```
 
+---
+
 <a id="portraits-case-30"></a>
 ### ケース 30: [ピンクの誕生日ケーキとポートレート](https://x.com/HaniaAi12/status/2103789264802594874) (投稿者 [@HaniaAi12](https://x.com/HaniaAi12))
 
@@ -858,6 +916,8 @@ A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and so
 A beautiful Southeast Asian woman with short, voluminous wavy chestnut-brown bob hair and bold glam makeup — defined brows, smoky eye liner, and full glossy pink lips — poses gracefully in a crouching sit on a confetti-scattered pink floor. She wears a modest blush pink satin midi dress with a high neckline and cap sleeves, a delicate silver pendant necklace, a crystal tennis bracelet, and silver rings, paired with strappy blush pink heeled sandals. Beside her stands an ornate white Roman-style column pedestal topped with a beautiful three-tiered pink rosette birthday cake decorated with swirling cream roses. The background is a solid deep blush pink wall adorned with clusters of pink latex balloons and shiny metallic rose-gold heart-shaped foil balloons floating on both sides. Scattered gold and silver confetti pieces cover the floor. A large black letter prop is partially visible at the top. The studio lighting is soft and even, creating a celebratory, feminine, and luxurious birthday party editorial atmosphere.
 ```
 
+---
+
 <a id="portraits-case-31"></a>
 ### ケース 31: [カレンダーから飛び出す誕生日ポートレート](https://x.com/HaniaAi12/status/2103789243500027917) (投稿者 [@HaniaAi12](https://x.com/HaniaAi12))
 
@@ -872,6 +932,8 @@ A beautiful Southeast Asian woman with short, voluminous wavy chestnut-brown bob
 ```
 A cheerful and radiant Southeast Asian woman with short chestnut-brown hair styled in a messy updo bun bursts through a large torn hole in a giant oversized wall calendar. The calendar header features a bold magenta banner with glittery silver text reading "HAPPY BIRTHDAY" and spiral binding at the top, with weekday labels (Mon, Tue, Thu, Fri) and dates (3, 7, 12, 17, 22, 24, 29, 30) visible on the white grid. She wears a charming magenta/fuchsia puff-sleeve tiered baby doll mini dress with a round neckline, paired with pale pink sheer tights decorated with small pink satin bow prints. Her makeup is festive — rosy pink eyeshadow, flushed cheeks, and a bright smile. Colorful pastel balloons in pink, purple, blue, yellow, and green float behind her in the torn opening, with gold and multicolored confetti scattered all around. Her arms are spread wide in a joyful, celebratory pose. The overall mood is playful, vibrant, and fun — a creative birthday concept with a pop-through calendar visual effect.
 ```
+
+---
 
 <a id="portraits-case-32"></a>
 ### ケース 32: [夕方の黄金色の光が差す古い部屋のポートレート](https://x.com/Alina_with_Ai/status/2103456509745340476) (投稿者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -904,6 +966,8 @@ Shot on a 35mm film camera, vintage analog photography, soft Kodak film grain, c
 No text, no watermark, no logo, no artificial-looking skin, no excessive makeup, no CGI appearance.
 ```
 
+---
+
 <a id="portraits-case-33"></a>
 ### ケース 33: [静かな街角のファッションポートレート](https://x.com/AiWithTariq/status/2103326654290698454) (投稿者 [@AiWithTariq](https://x.com/AiWithTariq))
 
@@ -923,6 +987,8 @@ She sits relaxed on the pavement with one knee raised and one leg extended towar
 Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, blurry face, distorted anatomy, extra fingers, malformed hands, duplicate person, bad shoes, unnatural pose, oversaturated colors, low quality.
 ```
 
+---
+
 <a id="portraits-case-34"></a>
 ### ケース 34: [ネオン文字と革張りの椅子のポートレート](https://x.com/Arzoo12sh/status/2103084009496727641) (投稿者 [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -941,6 +1007,8 @@ Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, blurry f
 ```
 A professional portrait of a stylish young woman sitting casually in a luxurious black leather Eames lounge chair with her hands behind her head, smiling at the camera. She has long brown hair and is wearing a sleek black suit jacket, white shirt, black trousers, and high-heeled black boots. In the background, large glowing 3D golden neon letters spell out the name "EMAD". Inside each letter, there is a different portrait photo of the same woman wearing various outfits and poses. Set in a dark, luxury studio environment with glossy reflective marble floors and warm ambient cinematic lighting. Ultra-realistic, 8k resolution, high quality.
 ```
+
+---
 
 <a id="portraits-case-35"></a>
 ### ケース 35: [同じ人物を3つのスケールで描くポスター](https://x.com/mehwishkiran07/status/2102714999772950626) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1015,6 +1083,8 @@ Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign,
 Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
 ```
 
+---
+
 <a id="portraits-case-36"></a>
 ### ケース 36: [参照ポートレートを使ったフィルム風ファッション撮影](https://x.com/MahnoorAi12/status/2102368463713149360) (投稿者 [@MahnoorAi12](https://x.com/MahnoorAi12))
 
@@ -1067,6 +1137,8 @@ Keep the woman's identity consistent and recognizable throughout the entire imag
 High-resolution photography, natural lighting, realistic skin texture, detailed clothing, realistic hands, authentic shadows, premium editorial composition, subtle analog film texture, soft focus falloff, photorealistic.
 ```
 
+---
+
 <a id="portraits-case-37"></a>
 ### ケース 37: [同じ人物のヴィンテージ写真ウォール](https://x.com/Alina_with_Ai/status/2102358957222416439) (投稿者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1112,6 +1184,8 @@ Composition should feel like a creative Instagram editorial photoshoot / scrapbo
 Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.
 ```
 
+---
+
 <a id="portraits-case-38"></a>
 ### ケース 38: [背の高い草に囲まれた女性のファッションポートレート](https://x.com/MahnoorAi12/status/2101997369860493566) (投稿者 [@MahnoorAi12](https://x.com/MahnoorAi12))
 
@@ -1130,6 +1204,8 @@ Wind moves through the grass with subtle motion blur, while the subject remains 
 Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around her, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
 ```
 
+---
+
 <a id="portraits-case-39"></a>
 ### ケース 39: [背の高い草に囲まれた男性のファッションポートレート](https://x.com/MahnoorAi12/status/2101997368866402391) (投稿者 [@MahnoorAi12](https://x.com/MahnoorAi12))
 
@@ -1147,6 +1223,8 @@ His black hair appears slightly damp, naturally tousled by the wind, with delica
 Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering.
 Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around him, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
 ```
+
+---
 
 <a id="portraits-case-40"></a>
 ### ケース 40: [2人のスタジオファッションポートレート](https://x.com/mehwishkiran07/status/2101984819047498202) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1173,6 +1251,8 @@ Composition: vertical full-body fashion poster, balanced spacing, clean negative
 Quality: photorealistic, ultra-detailed skin texture, realistic hair strands, natural fabric texture, accurate hands and fingers, realistic anatomy, high dynamic range, cinematic soft lighting, professional studio photography, 8K detail.
 Important: Do not change their identities. Do not merge their faces. Do not make them look like the same person. Keep the male and female facial features clearly distinct. Preserve the reference hairstyles and natural facial characteristics. No text, no logos, no watermark, no extra people.
 ```
+
+---
 
 <a id="portraits-case-41"></a>
 ### ケース 41: [男性の3ポーズをまとめた雑誌風コラージュ](https://x.com/mehwishkiran07/status/2101870527879209255) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1201,6 +1281,8 @@ Overall aesthetic: modern AI editorial poster, premium fashion campaign, vibrant
 Important: Keep all three versions of the same person visually consistent. Do not change the face, hairstyle, clothing style, or identity between poses. Preserve realistic anatomy, natural hands, realistic eyes, and accurate proportions. No extra people, no duplicated limbs, no distorted face, no unwanted text, no watermark.
 ```
 
+---
+
 <a id="portraits-case-42"></a>
 ### ケース 42: [屋上の夕景と煙に溶け込むポートレート](https://x.com/AiWithTariq/status/2101869471346667906) (投稿者 [@AiWithTariq](https://x.com/AiWithTariq))
 
@@ -1219,6 +1301,8 @@ Apply a dramatic disintegration effect where the left side of his body transform
 
 Make the smoke highly detailed, volumetric, and realistic, with cinematic lighting, soft depth of field, high contrast, and photorealistic textures. The final image should have an epic fantasy-action mood, ultra-detailed 8K quality, and a seamless smoke-to-human transition effect.
 ```
+
+---
 
 <a id="portraits-case-43"></a>
 ### ケース 43: [ミニマルなスタジオでのカジュアルファッションポートレート](https://x.com/mehwishkiran07/status/2101514985822151034) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1245,6 +1329,8 @@ Around her, several blurred versions of the same woman are walking quickly from 
 Warm beige monochromatic studio background, matching beige floor and pedestal, soft cinematic lighting, subtle shadows, natural skin texture, realistic fabric details, authentic denim texture, realistic hair strands, shallow depth of field, professional fashion photography, editorial street-style aesthetic, balanced composition, soft warm color grading, highly detailed, photorealistic, 8K resolution, HDR, realistic proportions, natural pose, cinematic depth, no text, no watermark.
 ```
 
+---
+
 <a id="portraits-case-44"></a>
 ### ケース 44: [金色のアビエーターサングラスのポートレート](https://x.com/Kubra_286/status/2101514411240472588) (投稿者 [@Kubra_286](https://x.com/Kubra_286))
 
@@ -1261,6 +1347,8 @@ Warm beige monochromatic studio background, matching beige floor and pedestal, s
 ```
 A stylish young woman with long, wavy chestnut brown hair streaked with warm caramel highlights, standing in a three-quarter pose with her head slightly tilted, gazing off to the side with a confident, composed expression. She wears oversized aviator-style sunglasses with a light gold metal frame and gradient smoke-tinted lenses, bold matte red lipstick, and a delicate layered gold necklace with two small pendant charms resting against her collarbone. Her outfit combines an off-the-shoulder black camisole top with a slightly oversized cream knit cardigan draped over her shoulders, buttoned partway, giving a relaxed yet elevated evening look. The composition is a close cropped waist-up portrait, camera positioned at eye level with a slight low angle to add presence and elegance, shot as if captured with an 85mm portrait lens at a wide aperture for soft background separation and creamy bokeh. The background is a moody, atmospheric blend of deep amber and warm gold tones, with soft billowing smoke or fog curling around the lower left of the frame and a scattering of fine glowing particles and light flares drifting through the air, evoking a cinematic, almost celestial glow. A warm horizontal light flare glows low across the bottom of the frame, suggesting a setting sun or stage light just out of view, casting long warm highlights across her hair and skin while leaving soft shadow along the jawline and neck for dimension. The lighting is warm, directional, and golden hour in quality, wrapping around her face and hair to create glowing rim light along the edges of her hair strands, with a soft key light illuminating her face from one side. The overall mood is glamorous, mysterious, and self-assured, blending high fashion editorial styling with a dreamy, almost fantastical atmosphere. Color palette centers on warm ambers, golds, deep browns, and blacks, punctuated by the cool metallic glint of the sunglasses frame and jewelry. The image should feel polished and hyper-detailed, with sharp focus on the face and softly blurred, glowing surroundings, suitable for a luxury fashion or lifestyle brand campaign. Adapt lighting terminology and lens references as needed for Midjourney, ChatGPT image generation, or Leonardo AI, keeping the golden atmospheric mood and portrait framing consistent across platforms., aspect ratio 4:5
 ```
+
+---
 
 <a id="portraits-case-45"></a>
 ### ケース 45: [青い夜を背景に複数のポートレートを重ねたポスター](https://x.com/Arzoo12sh/status/2101503445748617658) (投稿者 [@Arzoo12sh](https://x.com/Arzoo12sh))
@@ -1281,6 +1369,8 @@ A stylish young woman with long, wavy chestnut brown hair streaked with warm car
 Create a cinematic vertical fashion poster featuring the same young woman in a dramatic blue nighttime atmosphere. Show three layered versions of the woman: a large soft close-up portrait on the left looking toward the camera, a large side-profile portrait on the right wearing black sunglasses and looking sideways, and a full-body version in the center walking confidently toward the camera. She has long, smooth dark-brown hair, natural glamorous makeup, defined eyeliner, soft pink lips, and delicate facial features.
 Outfit: fitted black sleeveless top, cropped black denim jacket with rolled-up sleeves, loose black cargo pants with multiple utility pockets, clean white sneakers, a black wristwatch, and minimal accessories. Keep the outfit completely black and casual streetwear style.Background: dark blue nighttime city environment with thick swirling blue smoke/fog, wet reflective pavement, soft streetlights, cinematic bokeh lights, atmospheric mist, and dramatic blue rim lighting. The large portraits should blend naturally into the smoky background with a soft double-exposure effect. Ultra-realistic photography, high detail. realistic skin texture, sharp facialfeatures,professional fashion editorial photography, cinematic lighting, depth of field, glossy finish, 9:16 vertical composition, no text, no watermark.
 ```
+
+---
 
 <a id="portraits-case-46"></a>
 ### ケース 46: [広場で撮るピンクのストリートウェアポートレート](https://x.com/Alina_with_Ai/status/2100904096727515244) (投稿者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1306,6 +1396,8 @@ Shot from a slightly elevated angle, cinematic composition, warm natural dayligh
 
 Important: Keep the central subject clearly visible and sharp. Make every duplicate look like the same person, with consistent facial features, hairstyle, clothing and body proportions. No distorted faces, extra limbs, duplicated body parts, warped clothing, or unnatural poses. Vertical 4:5 composition.
 ```
+
+---
 
 <a id="portraits-case-47"></a>
 ### ケース 47: [夜の寝室兼アートスタジオのポートレート](https://x.com/mehwishkiran07/status/2100903738592674281) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1362,6 +1454,8 @@ Style: photorealistic, cinematic, cozy Pinterest aesthetic, premium lifestyle ph
 Aspect ratio: 2:3 vertical poster composition.
 ```
 
+---
+
 <a id="portraits-case-48"></a>
 ### ケース 48: [ベースボールキャップとワークジャケットのポートレート](https://x.com/Alina_with_Ai/status/2100578368077042117) (投稿者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1382,6 +1476,8 @@ Ultra-realistic fashion portrait of a stylish young woman with long, voluminous 
 
 Close-up street-style fashion photography, slightly turned pose, soft natural daylight, neutral beige background, muted earthy color palette, realistic skin texture, detailed fabric texture, cinematic depth of field, subtle shadows, luxury fashion editorial aesthetic, 85mm lens, shallow depth of field, photorealistic, high detail, 8K, Instagram fashion photography, vertical 4:5 composition.
 ```
+
+---
 
 <a id="portraits-case-49"></a>
 ### ケース 49: [花に囲まれたブックカフェのポートレート](https://x.com/mehwishkiran07/status/2100411941944791171) (投稿者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1416,6 +1512,8 @@ Use warm golden-hour sunlight, soft natural shadows, cinematic depth of field, r
 Full-body composition, vertical 9:16 portrait, realistic proportions, eye-level camera, 50mm lens, shallow depth of field, cinematic photography, highly detailed and believable.
 ```
 
+---
+
 <a id="portraits-case-50"></a>
 ### ケース 50: [実験的なレンズ表現で雰囲気を作るポートレート](https://x.com/DeepBlueX0/status/2100065803072897507) (投稿者 [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -1430,6 +1528,8 @@ Full-body composition, vertical 9:16 portrait, realistic proportions, eye-level 
 ```
 初恋脸女友 × 暧昧私密 × 非常规实验镜头 × 反差OOTD × 奶凶娇嗔神态
 ```
+
+---
 
 <a id="portraits-case-51"></a>
 ### ケース 51: [金属製の文字Zの彫刻とポートレート](https://x.com/Arina_hoqe/status/2099860837083345200) (投稿者 [@Arina_hoqe](https://x.com/Arina_hoqe))
@@ -1453,3 +1553,5 @@ Composition: full-body vertical portrait, elegant editorial photography, balance
 
 Add minimal elegant typography: “LETTER” at the top and “PORTRAIT” near the bottom, widely spaced thin serif letters. No extra text, no distortion, no artificial face, no exaggerated beauty filter.
 ```
+
+---

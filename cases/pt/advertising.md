@@ -1,6 +1,6 @@
 # Publicidade e conceitos de produtos
 
-[← Todos os 250 prompts](../../README_pt.md)
+[← Todos os 254 prompts](../../README_pt.md)
 
 Escolha um caso para ver as imagens ou os vídeos do criador e o prompt original completo. Os prompts permanecem no idioma original.
 
@@ -86,6 +86,8 @@ FORMAT:
 3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
 ```
 
+---
+
 <a id="advertising-case-172"></a>
 ### Caso 172: [Campanha de moda da H&M em vermelho e preto](https://x.com/Diplomeme/status/2107784613708136595) (por [@Diplomeme](https://x.com/Diplomeme))
 
@@ -104,6 +106,8 @@ FORMAT:
 ```
 PROMPT — H&M “NEW UNIFORM” FORMAT Ultra-Premium H&M Fashion SMM Promotional Poster Vertical 4:5 Instagram Hero Creative Global Fashion Retail Campaign Contemporary Fashion Advertising Commercial Fashion Graphic Design Agency-Level Art Direction Behance Front Page Quality 8K UHD Hyper-Realistic Fashion × Graphic Design × Street Culture Fusion High-Impact Visual Communication Zero AI Slop Zero Generic Fast-Fashion Advertising Zero Catalogue Aesthetic Zero Luxury-Copycat Aesthetic ⸻ CORE STRATEGY This is not simply a clothing advertisement. This is H&M turned into a visual statement. The campaign should communicate: fashion moves fast. culture moves faster. H&M should feel: accessible + expressive + contemporary + youthful + global + confident. The visual language should combine: H&M fashion campaign × editorial magazine × street-culture poster × high-fashion graphic design × digital-first social advertising The result should feel unmistakably H&M, not Zara, Mango, COS or a generic luxury fashion brand. H&M’s own published style direction emphasizes dramatic contrast and in-the-moment photography, so the photography should feel alive rather than static. ⸻ CAMPAIGN IDEA “NEW UNIFORM” Forget traditional uniforms. This is: THE UNIFORM OF NOW. The clothes represent the constantly changing identity of a new generation. One day: minimal. Next day: street. Next: tailored. Next: experimental. H&M becomes the wardrobe that keeps up. The campaign message: THE UNIFORM CHANGES. YOU DON’T HAVE TO. ⸻ MASTER VISUAL Create an enormous typographic structure reading: H&M The typography should occupy approximately 60–70% of the entire composition. But unlike the MANGO concept, the H&M typography should feel: bold compressed graphic energetic slightly disruptive The giant H&M lettering can be: partially cropped, stacked, repeated, layered, hidden behind the model, intersected by red graphic blocks, cut by diagonal photographic frames, and pushed beyond the canvas. The typography should feel like a physical poster installation, not simple text. ⸻ HERO SUBJECT Young female fashion model. Contemporary global fashion appearance. Natural skin texture. Strong expressive face. Minimal but polished makeup. Confident expression. No artificial influencer smile. No exaggerated luxury pose. The model should feel like someone who actually belongs in the city. Youthful. Self-assured. Energetic. Culturally aware. ⸻ WARDROBE Create a contemporary H&M fashion look. HERO LOOK Oversized black leather-effect bomber jacket. Crisp white fitted tank. Relaxed wide-leg grey trousers. Chunky black footwear. Small silver jewelry. Structured mini shoulder bag. Subtle red accessory detail. Layered styling. The clothing should feel: accessible fashion elevated through styling. Not couture. Not runway costume. Not quiet luxury. Not excessive branding. The clothes should look genuinely wearable. ⸻ POSE / MOVEMENT The model is captured mid-stride. One foot forward. Jacket moving naturally. Hair slightly moving. Body turned approximately 15 degrees. Direct eye contact. One hand adjusting the jacket. Other hand relaxed. The image should feel like a moment captured rather than a pose performed. This directly aligns with H&M’s published preference for dramatic, in-the-moment/action-oriented imagery. ⸻ COMPOSITION TYPOGRAPHY 60–70% MODEL 20–25% GRAPHIC / PROMOTIONAL INFORMATION 10–15% Visual hierarchy: H&M ↓ NEW UNIFORM ↓ MODEL ↓ COLLECTION INFORMATION ↓ CTA Create strong visual tension between the model and typography. The model should partially cover the giant letters. ⸻ H&M COLOR SYSTEM PRIMARY H&M RED Strong saturated red. Use approximately: #E50010 as the primary visual reference. BLACK #000000 Used for: typography, fashion, graphic blocks, borders, micro typography. WHITE #FFFFFF Used for: negative space, copy, graphic panels, background areas. The recognizable H&M visual palette is strongly associated with red, black and white. ⸻ COLOR RATIO 60% White / light neutral 20% Black 15% H&M Red 5% photographic natural tones The red should be strategic, not flooding the entire poster. Use red as a visual trigger. Red graphic rectangle. Red typography. Red edge strip. Red accessory. Red CTA. The eye should naturally travel toward the red elements. ⸻ BACKGROUND Create a contemporary urban studio environment. White architectural walls. Concrete floor. Large geometric panels. Sharp sunlight. Hard shadows. One massive H&M red architectural block. Black graphic planes. Subtle paper/poster texture. The environment should feel halfway between: fashion studio and urban billboard installation. No recognizable city. No distracting scenery. No luxury hotel. No generic streetwear alley. The graphic environment itself should create the H&M world. ⸻ GRAPHIC DESIGN SYSTEM Create an aggressive but controlled editorial grid. Use: bold horizontal rules, vertical lines, red rectangles, black blocks, oversized numerals, micro typography, cropped type, collection codes, thin borders, small directional arrows, photographic crop windows. Introduce a subtle poster-within-poster system. For example: a small secondary campaign image appears inside a red frame. Beside it: 01 / 04 NEW SEASON H&M WOMEN This gives the composition the feeling of a sophisticated global fashion campaign rather than a basic Instagram advertisement. ⸻ TYPOGRAPHY SYSTEM Use H&M’s established typographic character rather than generic fashion fonts. PRIMARY HEADLINE Condensed, uppercase, bold display typography inspired by H&M’s headline system. Extremely large scale. Tight leading. Minimal tracking. Hard geometric presence. H&M’s published style guide identifies a condensed caps-only headline typeface for high-impact headlines, while IBM Plex Sans is used for longer supporting copy. SUPPORTING COPY Clean grotesk / sans-serif. IBM Plex Sans-style characteristics. Highly readable. Neutral. Modern. ⸻ TOP LEFT Small official-style H&M logo placement. Below: FASHION FOR EVERYONE Very small. Do not compete with the hero typography. Preserve generous clear space around the logo. H&M’s published logo guidance stresses maintaining clear space and avoiding distortion or unsuitable treatment. ⸻ GIANT CENTER TYPOGRAPHY Massive: H&M Then layered behind it: NEW UNIFORM The giant H&M lettering should extend outside the frame. Crop: left side, top, right side. The typography should physically interact with the model. ⸻ CAMPAIGN TITLE Lower-left: NEW UNIFORM Use extremely bold condensed uppercase typography. Make UNIFORM substantially larger than NEW. Add a small red underline. ⸻ SUPPORTING COPY THE UNIFORM OF NOW. Secondary line: Designed for whatever comes next. Keep it short. No paragraph. No unnecessary marketing copy. ⸻ COLLECTION INFORMATION Small structured block: H&M WOMEN AUTUMN / WINTER 2026 COLLECTION 01 NEW SEASON FASHION / ESSENTIALS / STREET Use micro typography. ⸻ PROMOTIONAL STRIP Create a thin H&M red horizontal block containing: NEW ARRIVALS TRENDING NOW ONLINE EXCLUSIVE MEMBERS FIRST ACCESS White uppercase typography. The strip should feel integrated into the grid. Not like a sale banner. ⸻ CTA Bottom-right: SHOP NOW → Black rectangular button. White typography. Underneath: Explore the new collection Keep the button compact. ⸻ PRICE Bottom-right corner: FROM ₹999 Large enough to be commercially readable. But secondary to the fashion statement. Do not make the poster look like a discount advertisement. ⸻ BOTTOM FEATURE STRIP Thin black rule. Then: WOMEN / MEN / KIDS / DENIM / TRENDING / NEW ARRIVALS Centered beneath: ⸻ VERTICAL EDGE TEXT Right edge: H&M / AW26 Rotated vertically. Small. Precise. ⸻ RED GRAPHIC DEVICE Create one enormous H&M-red rectangle behind the model. Inside the rectangle: 02 Large black number. Underneath: THE NEW EVERYDAY This becomes the campaign’s visual signature. The red block should feel almost like a piece of Swiss graphic design translated into contemporary fashion advertising. ⸻ PHOTOGRAPHIC STYLE High-energy fashion photography. Dramatic contrast. Sharp moment. Natural movement. Hard directional light. Deep shadows. Bright whites. Saturated H&M red. Natural skin. Realistic fabric. Subtle motion in clothing. H&M’s published style guide specifically calls for dramatic contrast and captivating in-the-moment imagery, with action shots as the primary photographic direction. ⸻ LIGHTING Large directional studio source. Strong side lighting. Controlled hard shadows. Bright white highlights. Deep black clothing separation. Red surfaces receiving rich saturated light. Natural skin exposure. No beauty-dish glamour. No soft luxury haze. No excessive bloom. No artificial neon. ⸻ CAMERA ARRI Alexa Mini LF 50mm fashion/editorial lens Slightly low camera angle. Full-body composition. Fast-fashion campaign energy. Moderate depth of field. Extremely sharp clothing texture. Natural movement. High dynamic range. Premium commercial fashion photography. ⸻ POST-PRODUCTION Contemporary global fashion campaign grading. Clean whites. Deep blacks. Highly saturated controlled red. Natural skin tones. Subtle film grain. Visible textile texture. Crisp typography. Sharp graphic edges. Controlled contrast. No excessive retouching. No plastic skin. No artificial HDR. No fake luxury glow. No cinematic teal-orange grade. No excessive grain. ⸻ BRAND SAFETY / CONSISTENCY The final visual must immediately read as: H&M without relying solely on the logo. Brand recognition should come from: red / black / white bold condensed typography dramatic in-motion photography accessible contemporary styling graphic campaign language youthful global fashion energy strong commercial communication Do not make it resemble: ZARA’s restrained editorial minimalism. MANGO’s Mediterranean warmth. COS’s architectural minimalism. Prada’s intellectual luxury. Louis Vuitton’s heritage luxury. The visual identity must remain H&M. ⸻ FINAL FEEL If: H&M × a global fashion magazine × a contemporary graphic design studio × street culture × a giant urban billboard created one campaign together. Not a catalogue. Not a generic fast-fashion ad. Not a luxury fashion imitation. Not a simple red-and-white poster. A high-impact H&M campaign where typography, movement, fashion and graphic design become one visual system. Vertical 4:5 — 8K UHD — hyper-realistic — dramatic in-the-moment fashion photography — H&M red/black/white palette — oversized condensed typography — precise editorial grid — realistic human anatomy — natural skin — detailed fabrics — accurate H&M branding treatment — crisp readable typography — premium commercial photography — agency-level art direction — Instagram hero creative — Behance front-page quality — print-ready.
 ```
+
+---
 
 <a id="advertising-case-173"></a>
 ### Caso 173: [Anúncio de frango frito em oito quadros](https://x.com/MonetizationDon/status/2107388611301687675) (por [@MonetizationDon](https://x.com/MonetizationDon))
@@ -163,6 +167,8 @@ Clean, premium branded packaging shot. Centered composition with the product cle
 
 Style: hyper-realistic food photography, premium fast-food commercial, cinematic lighting, ultra-detailed textures, realistic steam, shallow depth of field, high saturation, crisp typography, 4K-quality detail, viral social-media food advertising aesthetic.
 ```
+
+---
 
 <a id="advertising-case-174"></a>
 ### Caso 174: [Pôster dividido com foto de referência](https://x.com/Shorelyn_/status/2107353999796326889) (por [@Shorelyn_](https://x.com/Ziha_ai))
@@ -288,6 +294,8 @@ Museum-quality visual finish.
 Avoid complex backgrounds, excessive photographic details, realistic duplication, decorative clutter, excessive text, rigid template layouts, filled compositions, heavy colors, old-fashioned brown tones, and unnecessary visual elements.
 ```
 
+---
+
 <a id="advertising-case-175"></a>
 ### Caso 175: [Paisagens de países em embalagens de salgadinhos](https://x.com/Naiknelofar788/status/2107334172633379213) (por [@Naiknelofar788](https://x.com/Naiknelofar788))
 
@@ -306,6 +314,8 @@ Avoid complex backgrounds, excessive photographic details, realistic duplication
 ```
 A striking top-down art photograph of a famous packaged food/snack from [COUNTRY], placed on a clean white sheet of paper. At the very top of the paper, write “[COUNTRY NAME]” in large, bold, beautiful typography. Directly underneath, place a realistic, colorful packet of “[FAMOUS FOOD/SNACK]” from that country. The packet is creatively split/opened down the center, and the inside artwork transforms into a vibrant miniature illustration of the country — featuring its most iconic landmark, architecture, landscape, cultural elements and recognizable local details. Keep the original food packet highly realistic with authentic-looking folds, crinkles, printed graphics and vivid colors, while the emerging country illustration uses expressive colored-pencil and wax-crayon strokes. White paper background, overhead composition, playful handmade imperfections, rich saturated colors, premium editorial art photography, extremely detailed, visually satisfying, viral social-media aesthetic.
 ```
+
+---
 
 <a id="advertising-case-176"></a>
 ### Caso 176: [Colagem digital esportiva da Nike](https://x.com/Diplomeme/status/2107026522842542418) (por [@Diplomeme](https://x.com/Diplomeme))
@@ -327,6 +337,8 @@ A striking top-down art photograph of a famous packaged food/snack from [COUNTRY
 BRAND NAME = NIKE Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges high-performance running photography with graphic design chaos. This is controlled athletic rebellion — a composition that feels spontaneous, explosive, and expressive while maintaining strong Nike brand coherence. Aesthetic direction: * Anti-polished * Raw textures * Layered imperfections * Youth-driven visual noise * High confidence, high movement energy Visual language: Torn edges, aggressive brush strokes, grain overlays, hand-drawn running marks, directional arrows, speed lines, and bold Nike-inspired color blocking. PHASE 2: MODEL & PHOTOGRAPHY * Subject: One elite adult runner, age 20–30 * Pose Energy: 80% attitude, 20% natural (full sprint, explosive stride, leaning forward, airborne transition — NEVER static) * Outfit: Performance running apparel aligned with NIKE * Hero Product: One key Nike running shoe, clearly visible as the visual anchor * Photography Style: Editorial sports photography cutout * Background Removal: Clean, sharp extraction * Camera Angle: Slight low angle (hero perspective) * Crop: Full body or 3/4 body, with running shoe clearly visible PHASE 3: COLOR BLOCKING FOUNDATION * Primary Color Blob: Large organic Nike-inspired shape (40–60% of frame) * Color Selection: 1 dominant Nike-inspired high-energy accent color — vivid electric red/orange * Shape Style: Irregular, hand-painted / torn paper (NO perfect geometry) * Texture: Brush grain / noise (15–25% opacity) * Placement: Behind or wrapping around runner (must frame, not hide the runner or shoe) PHASE 4: GRAPHIC ELEMENTS LAYER Add 3–5 abstract elements: Element types: * Hand-drawn speed marks * Directional arrows * Running trajectory lines * Circular impact marks * Texture overlays (dust, grain, fabric, noise) * Minimal athletic measurement symbols Rules: * Colors: 2–3 total (black + off-white + electric red/orange accent) * Placement: Asymmetric (top-left + bottom-right bias) * Scale: Small (5%) + medium (15%) * Avoid center clutter * Keep imperfect, handmade feel PHASE 5: TYPOGRAPHY INTEGRATION * Logo: Upper-left or upper-right (10–15% width) * Slogan/Headline: “RUN THE DISTANCE.” * Supporting Copy: “NO FINISH LINE. JUST FORWARD.” * Type Style: Bold condensed sans-serif / grotesk / athletic editorial typography * Treatment: Mix straight + slight rotation (2–5°) * Hierarchy: Nike Swoosh → Headline → Supporting copy PHASE 6: TEXTURE & BACKGROUND * Base Layer: Off-white / light grey (NOT pure white) * Color Range: RGB 245–250 (warm neutral) * Texture Options: Paper grain / fabric texture / subtle noise * Rule: Texture should be FELT, not dominant PHASE 7: COMPOSITION RULES * Layout: Asymmetric balance (runner off-center) * Breathing Room: 15–20% negative space * Layering Order: Background → Color blob → Graphics → Runner → Typography * Focal Point: Runner + Nike shoe = 60% Graphics = 40% support * Movement: Strong diagonal flow (top-left → bottom-right OR reverse) The runner must visually travel through the composition rather than simply stand inside it. PHASE 8: BRAND INTELLIGENCE (AUTO-ADAPT) Adapt energy based on NIKE’s sportswear identity: → Sportswear Bold contrast, aggressive motion, louder graphics → Running Explosive movement, aerodynamic visual language, speed lines, performance-driven composition → Youth Culture Raw textures, asymmetric layouts, expressive typography and controlled visual noise → Performance Sharp product visibility, dynamic low-angle photography, athletic realism and strong directional composition The final visual should communicate movement, determination, performance and Nike’s “just do it” attitude without becoming a generic running advertisement. PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) * Bottom strip (8–10% height) * Light neutral background * Minimal Nike branding * Small campaign descriptor: “RUN THE DISTANCE.” * Clean grid layout * Keep minimal (contrast to collage) TECHNICAL SPECS: * Aspect Ratio: 4:5 (primary) or 1:1 * Resolution: 2400x3000px+ * Color Mode: sRGB (Instagram optimized) * Sharpness: High detail, slight grain allowed * Output Style: Digital collage mimicking analog craft * Photography Base (before cutout): 85mm lens, f/2.8, shallow depth of field FINAL IMAGE: A premium Nike running campaign poster combining an explosive editorial runner photograph, a hero Nike running shoe, bold athletic typography, raw paper textures, aggressive directional graphics and asymmetric color blocking. The finished artwork should feel like a contemporary Nike campaign discovered on Behance — highly art-directed, energetic, editorial, imperfect, youth-driven and immediately recognizable as Nike.
 ```
 
+---
+
 <a id="advertising-case-177"></a>
 ### Caso 177: [Pôster de marca de moda com linhas de construção](https://x.com/miratechtool/status/2106410612024639516) (por [@miratechtool](https://x.com/miratechtool))
 
@@ -341,6 +353,8 @@ BRAND NAME = NIKE Act as a Social Media Art Director and Digital Collage Artist 
 ```
 Vertical clothing-brand poster of a girl in her early twenties wearing an ivory wool overcoat by MIRA ATELIER, shown in a still front three-quarter stance, full outfit readable, hands in pockets. The body is treated as a pattern: thin construction lines mark center front, shoulder seam, hem, and sleeve length, aligned to the garment. Behind her, a flat color-field system of fabric plates in ivory, oxblood, and charcoal, each plate a solid cloth color, not a photo of fabric. No animals, no crowd, no street clutter. Studio light from upper left. Palette: ivory wool, oxblood, charcoal, bone. Brand title "MIRA ATELIER" in the upper register. Garment label "overcoat · wool · size 36" at the base in condensed type.
 ```
+
+---
 
 <a id="advertising-case-178"></a>
 ### Caso 178: [Conceito publicitário de geometria de produto](https://x.com/aziz4ai/status/2106384240422031684) (por [@aziz4ai](https://x.com/aziz4ai))
@@ -366,6 +380,8 @@ Use ONE hero, ONE geometric rule, ONE environment, refined negative space, premi
 
 No collage, duplication, giant product, logo repetition, random VFX, floating graphics, miniature world, or unnecessary text. Output ONE image only.
 ```
+
+---
 
 <a id="advertising-case-179"></a>
 ### Caso 179: [Campanha de lançamento de bolsa de tecido da Zara](https://x.com/Diplomeme/status/2106344728837136616) (por [@Diplomeme](https://x.com/Diplomeme))
@@ -635,6 +651,8 @@ FINAL RESULT:
 A visually arresting ZARA tote-bag MERCH DROP poster that could plausibly function as a premium fashion campaign hero image, editorial spread, outdoor fashion billboard or Behance featured project.
 ```
 
+---
+
 <a id="advertising-case-180"></a>
 ### Caso 180: [Campanha de moda da Zara com arquitetura colorida](https://x.com/Diplomeme/status/2104159506460811390) (por [@Diplomeme](https://x.com/Diplomeme))
 
@@ -749,6 +767,8 @@ No cyberpunk aesthetic, no neon signs, no CGI architecture, no fantasy city, no 
 ZARA × bold color blocking × monumental urban environment × contemporary fashion photography.
 ```
 
+---
+
 <a id="advertising-case-181"></a>
 ### Caso 181: [Colagem de atmosfera de moda em tons de champanhe](https://x.com/HaniaAi12/status/2104020631251828877) (por [@HaniaAi12](https://x.com/HaniaAi12))
 
@@ -765,6 +785,8 @@ ZARA × bold color blocking × monumental urban environment × contemporary fash
 ```
 Editorial luxury mood board collage, Southeast Asian woman, dark wavy hair curtain bangs, green-hazel eyes, freckles, glossy nude-pink lips, rosy mauve gold eyeshadow, warm luminous skin, modest ivory champagne draped silk turtleneck gown, fur coat over shoulders, second look modest cream sleeveless maxi with gold belt fur wrap, multi-panel parchment cream layout, hero portrait + eye crop + lip macro + side profile + eye detail + perfume flatlay + full body shot panels, embedded music player UI card "The Silent Hour" playlist, typography overlays "BEAUTY IN SILENCE" "QUIET IS THE NEW LUXURY" serif editorial, date stamps, silent luxury aesthetic, K-beauty editorial, candlelit warm champagne tones, photorealistic ultra detailed --ar 9:16 --stylize 750 --v 6
 ```
+
+---
 
 <a id="advertising-case-182"></a>
 ### Caso 182: [Campanha tipográfica de fones de ouvido JBL](https://x.com/Diplomeme/status/2103429083652821045) (por [@Diplomeme](https://x.com/Diplomeme))
@@ -956,6 +978,8 @@ REAL PRODUCT.
 PHYSICAL SOUND.
 MAXIMUM COMMERCIAL IMPACT.
 ```
+
+---
 
 <a id="advertising-case-183"></a>
 ### Caso 183: [Storyboard de marca de alimentos agrícolas](https://x.com/husky__create/status/2103422116876222566) (por [@husky__create](https://x.com/husky__create))
@@ -1156,6 +1180,8 @@ AVOID
 Malformed hands or fingers, extra limbs, duplicated or fused tomatoes, inconsistent faces, changing wardrobe, plastic-looking food, excessive saturation, heavy orange color grading, artificial CGI glow, fantasy effects, unhygienic food handling, unsafe knife positions, futuristic holograms, object morphing, split screens inside individual panels, unwanted text, extra logos and watermarks.
 ```
 
+---
+
 <a id="advertising-case-184"></a>
 ### Caso 184: [Pôster de quatro pessoas com roupa urbana marrom](https://x.com/mehwishkiran07/status/2103354342279393708) (por [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -1187,6 +1213,8 @@ Create a second version of the same composition using a sophisticated mixed-medi
 Maintain strong character consistency across both scenes. Keep the brown-and-cream color palette consistent, preserve the exact outfit design, matching caps, coffee cups, cargo pants, varsity jackets, and sneakers. Premium fashion campaign, contemporary streetwear editorial, highly detailed, cinematic composition, realistic-to-illustrated transition, sophisticated visual storytelling, 4K quality.
 ```
 
+---
+
 <a id="advertising-case-185"></a>
 ### Caso 185: [Anúncio de moda com celular em noite chuvosa de Milão](https://x.com/Arzoo12sh/status/2102710721633198208) (por [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -1205,6 +1233,8 @@ Maintain strong character consistency across both scenes. Keep the brown-and-cre
 ```
 A cinematic ultra-realistic fashion campaign in Piazza del Duomo, Milan, during heavy rain. A beautiful young woman wearing an all-black oversized streetwear outfit, black cargo pants, black sweatshirt and clean white sneakers, confidently posing in the center with one arm raised toward a floating blue iPhone. Multiple identical blue smartphones are dramatically floating and falling from the stormy sky around her. Wet reflective pavement, realistic rain droplets, dramatic dark cloudy sky, Milan Cathedral clearly visible in the background, crowded tourists with umbrellas, several duplicate versions of the same woman naturally positioned in the background, premium luxury advertising aesthetic, dynamic fashion photography, realistic skin texture, natural anatomy, cinematic lighting, sharp details, depth of field, photorealistic, high-end commercial campaign, vertical composition.
 ```
+
+---
 
 <a id="advertising-case-186"></a>
 ### Caso 186: [Storyboard de nove quadros para marca de construção](https://x.com/husky__create/status/2102337239443522023) (por [@husky__create](https://x.com/husky__create))
@@ -1272,6 +1302,8 @@ All construction activity must be physically believable. Correct PPE, fall prote
 AVOID
 Magical construction, object morphing, teleporting materials, instant trees, collapsing structures, demolition, unsafe workers, missing helmets, floating beams, bent cranes, impossible machinery, inconsistent architecture, changing façade colors, duplicate people, malformed hands, CGI-plastic surfaces, miniature-diorama appearance, cartoon styling, futuristic fantasy cities, extra logos, unreadable text or panels other than 01–09.
 ```
+
+---
 
 <a id="advertising-case-187"></a>
 ### Caso 187: [Conceito de anúncio minimalista de Apple Watch](https://x.com/Diplomeme/status/2100899807061827797) (por [@Diplomeme](https://x.com/Diplomeme))
@@ -1389,6 +1421,8 @@ The final image must look like a real Apple global advertising campaign photogra
 Clean. Precise. Bold. Product-first. Zero visual clutter.
 ```
 
+---
+
 <a id="advertising-case-188"></a>
 ### Caso 188: [Pôster esportivo laranja da Nike](https://x.com/Diplomeme/status/2100585884802494544) (por [@Diplomeme](https://x.com/Diplomeme))
 
@@ -1447,6 +1481,8 @@ BOTTOM FEATURE STRIP:
 * Engineered Grip
 * Built For Motion
 ```
+
+---
 
 <a id="advertising-case-189"></a>
 ### Caso 189: [Storyboard de fabricação de precisão em nove quadros](https://x.com/husky__create/status/2100519240306684202) (por [@husky__create](https://x.com/husky__create))
@@ -1549,6 +1585,8 @@ CNC工作機械、測定室、設計用PC、金属部品、図面、工具。
 【禁止事項】
 大量の火花、汚れた危険な工場、誤った保護具、SF的なロボット工場、過剰な青色加工、合成感の強い人物、破綻した測定器、余分なコピー、透かし、指定外のロゴを入れない。
 ```
+
+---
 
 <a id="advertising-case-190"></a>
 ### Caso 190: [Storyboard de pousada termal em nove quadros](https://x.com/husky__create/status/2100162874132087109) (por [@husky__create](https://x.com/husky__create))
@@ -1657,6 +1695,8 @@ CNC工作機械、測定室、設計用PC、金属部品、図面、工具。
 【禁止事項】
 アニメ、イラスト、CG感の強い表現、過度なオレンジ加工、強い霞、非現実的な豪華さ、人物の顔の変化、手指の破綻、余分な人物、指定外のコピー、透かし、余分なロゴを入れない。
 ```
+
+---
 
 <a id="advertising-case-191"></a>
 ### Caso 191: [Pôster de bebida refrescante 7UP](https://x.com/Diplomeme/status/2099851680380838194) (por [@Diplomeme](https://x.com/Diplomeme))
@@ -2171,6 +2211,8 @@ A high-impact 7UP campaign where one sip sends an impossible wave of freshness t
 Vertical 4:5 — 8K UHD — hyper-realistic — surreal urban summer environment — giant transparent freshness wave — lemon-lime visual language — fresh green/lime/white palette — hero chilled 7UP product — realistic condensation — carbonation and liquid physics — oversized contemporary typography — precise editorial grid — natural human anatomy — authentic summer styling — detailed glass and ice — physically believable surrealism — accurate 7UP branding treatment — crisp readable typography — premium commercial photography — agency-level art direction — Instagram hero creative — Behance front-page quality — print-ready.
 ```
 
+---
+
 <a id="advertising-case-192"></a>
 ### Caso 192: [Campanha esportiva surreal da Nike](https://x.com/Diplomeme/status/2099417664863228204) (por [@Diplomeme](https://x.com/Diplomeme))
 
@@ -2653,3 +2695,5 @@ Not an AI fantasy image.
 A high-impact Nike campaign where athletic movement literally bends reality.
 Vertical 4:5 — 8K UHD — hyper-realistic — surreal architectural environment — dramatic action photography — black/white/red-orange palette — oversized condensed typography — precise editorial grid — realistic human anatomy — natural skin — detailed performance fabrics — physically believable surrealism — realistic Nike footwear — crisp readable typography — premium commercial photography — agency-level art direction — Instagram hero creative — Behance front-page quality — print-ready.
 ```
+
+---

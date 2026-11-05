@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="608" viewBox="0 0 1520 608" role="img" aria-labelledby="title desc">
+<title id="title">GPT Image 2.6 + 2.5 — 254 complete prompts</title>
+<desc id="desc">Latest GPT Image 2.6 prompts and examples, with the original 250 GPT Image 2.5 prompts preserved. Blue EvoLink collection banner.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061b3d"/><stop offset="1" stop-color="#123b73"/></linearGradient><linearGradient id="card" x2="1" y2="1"><stop stop-color="#45c7ff"/><stop offset="1" stop-color="#0878ee"/></linearGradient></defs>
+<rect width="1520" height="608" rx="28" fill="url(#bg)"/>
+<g stroke="#80c6ff" stroke-opacity=".12" fill="none"><path d="M0 122H1520M0 244H1520M0 366H1520M0 488H1520M152 0V608M304 0V608M456 0V608M608 0V608M760 0V608M912 0V608M1064 0V608M1216 0V608M1368 0V608"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="80" y="80" fill="#85d9ff" font-size="22" letter-spacing="4">THE CREATOR PROMPT COLLECTION</text>
+<text x="76" y="199" fill="#fff" font-size="91" font-weight="700">GPT Image 2.6</text>
+<text x="80" y="258" fill="#c9e4ff" font-size="31">Sunburst + Flare · Latest prompts and examples</text>
+<rect x="80" y="302" width="855" height="2" fill="#63bbff" opacity=".4"/>
+<text x="80" y="354" fill="#fff" font-size="29" font-weight="700">GIF ANIMATION  /  PRECISE EDITS  /  SVG</text>
+<text x="80" y="401" fill="#c9e4ff" font-size="25">4 new 2.6 cases + 250 original 2.5 prompts</text>
+<text x="80" y="444" fill="#a7caeb" font-size="22">Original prompts. Clear sources. 11 languages.</text>
+<text x="80" y="550" fill="#fff" font-size="30" font-weight="700">EvoLink</text>
+<text x="218" y="550" fill="#85d9ff" font-size="23">evolink.ai</text>
+<g transform="translate(1113 115) rotate(6 138 175)">
+<rect x="-15" y="18" width="280" height="355" rx="24" fill="#04162e" opacity=".6"/>
+<rect width="280" height="355" rx="24" fill="url(#card)"/>
+<text x="27" y="61" font-size="16" fill="#062951" letter-spacing="1.2">COPY · ADAPT · CREATE</text>
+<text x="25" y="202" font-size="116" fill="#fff" font-weight="700">254</text>
+<text x="29" y="253" fill="#fff" font-size="21">COMPLETE PROMPTS</text>
+<path d="M29 283H251" stroke="#fff" opacity=".5"/>
+<text x="29" y="321" fill="#062951" font-size="18" font-weight="700">2.6 LATEST + 2.5 ARCHIVE</text>
+</g></g></svg>

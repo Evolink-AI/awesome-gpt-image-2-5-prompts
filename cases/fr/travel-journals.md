@@ -1,6 +1,6 @@
 # Carnets de voyage et mises en page
 
-[← Les 250 prompts](../../README_fr.md)
+[← Les 254 prompts](../../README_fr.md)
 
 Choisissez un cas pour voir les images ou vidéos du créateur et le prompt original complet. Les prompts restent dans leur langue d’origine.
 
@@ -71,6 +71,8 @@ Use a single horizontal geometric color field sampled from the landscape. Let th
 Keep the background most white with muted tones derived from the original image. Avoid saturated colors.
 The result should resemble a limited-edition museum travel poster rather than a conventional photo collage.
 ```
+
+---
 
 <a id="travel-journals-case-194"></a>
 ### Cas 194: [Carnet de voyage automnal à l’aquarelle](https://x.com/Goodmanprotocol/status/2108403968372306010) (par [@Goodmanprotocol](https://x.com/Goodmanprotocol))
@@ -143,6 +145,8 @@ OUTPUT:
 4:5 vertical portrait, exact 50/50 left-right composition, realistic generated destination scene on the left, watercolor travel-journal illustration on the right, ultra-high definition.
 ```
 
+---
+
 <a id="travel-journals-case-195"></a>
 ### Cas 195: [Double page de magazine de voyage à l’aquarelle](https://x.com/Goodmanprotocol/status/2108199004546933097) (par [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
@@ -214,6 +218,8 @@ FORMAT:
 4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
 ```
 
+---
+
 <a id="travel-journals-case-196"></a>
 ### Cas 196: [Photo de voyage et carnet ouvert](https://x.com/Goodmanprotocol/status/2107760212962898088) (par [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
@@ -281,6 +287,8 @@ FORMAT
 3:4 vertical, two equal halves, premium editorial photography, realistic open-book construction, refined typography, cohesive travel-journal aesthetic.
 ```
 
+---
+
 <a id="travel-journals-case-197"></a>
 ### Cas 197: [Paysage de voyage et diorama miniature](https://x.com/Goodmanprotocol/status/2107675234858131544) (par [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
@@ -341,6 +349,8 @@ FORMAT
 3:4 vertical, two stacked halves, no gap, upper photorealistic destination scene, lower isometric miniature diorama, premium editorial finish.
 ```
 
+---
+
 <a id="travel-journals-case-198"></a>
 ### Cas 198: [Stand de cuisine nocturne sur le Bosphore](https://x.com/ozansihay/status/2107544398531637407) (par [@ozansihay](https://x.com/ozansihay))
 
@@ -360,6 +370,8 @@ FORMAT
 ```
 Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall, slightly battered metal sides, steam rising. Hand-painted neon-style rickety sign reading “Köfteci Buğra Usta” in Turkish, glowing uneven cyan and warm amber, wires and brackets visibly DIY. Inside the open caravan, the usta grilling köfte over charcoal, orange ember glow on his face and apron. One waiter in a simple dark shirt stands in front of the stall; the same “Köfteci Buğra Usta” lettering is printed on the back of his shirt. Plastic stools and small low tables outside, a few locals eating, soft conversation. A plastic water jug (damacana) near the counter. Behind them, dark Bosphorus water with distant city lights and a faint ferry silhouette. Wet asphalt reflections, streetlamp spill, shallow depth of field, natural film grain, shot on 35mm f/1.8, candid documentary look, no CGI look, no text errors on signs.
 ```
+
+---
 
 <a id="travel-journals-case-199"></a>
 ### Cas 199: [Affiche artistique de voyage dans un désert doré](https://x.com/KrishnaBio1/status/2107035889461588289) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -385,6 +397,8 @@ Keep the watercolor artwork surrounded by clean cream-colored negative space. At
 
 Minimal luxury travel-journal aesthetic, peaceful and atmospheric mood, refined composition, realistic-to-watercolor transformation, sophisticated earthy palette, artistic yet natural, high-end editorial travel poster, no extra text, no watermark.
 ```
+
+---
 
 <a id="travel-journals-case-200"></a>
 ### Cas 200: [Côte italienne et domaine français](https://x.com/KrishnaBio1/status/2106906926726717843) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -414,6 +428,8 @@ and beneath it in smaller elegant lettering:
 Minimal, sophisticated, timeless travel-journal aesthetic, no clutter, no distorted buildings, no unnecessary text.
 ```
 
+---
+
 <a id="travel-journals-case-201"></a>
 ### Cas 201: [Silhouette de voyage en double exposition](https://x.com/AiwithLariab/status/2106607115733553225) (par [@AiwithLariab](https://x.com/AiwithLariab))
 
@@ -436,6 +452,8 @@ The desert landscape forms an artistic human-profile silhouette on the left side
 Background: clean warm ivory/cream paper texture with large negative space on the right and lower area. High-end tourism campaign poster, artistic commercial photography, photorealistic desert details, realistic fabric texture, cinematic depth, refined composition, premium magazine advertising style.
 Composition: vertical 4:5, full-body woman on the right, desert silhouette dominating the left, balanced negative space, clean edges, no text, no logo, no watermark, ultra-detailed, high resolution.
 ```
+
+---
 
 <a id="travel-journals-case-202"></a>
 ### Cas 202: [Art des sources thermales de Kinosaki et Hakone](https://x.com/KrishnaBio1/status/2106416165241418042) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -461,6 +479,8 @@ Add refined handwritten-style typography at the bottom:
 “HAKONE — QUIET ONSEN STREETS”
 Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening mood, editorial composition, 8K detail, realistic photography blended with refined watercolor illustration, no clutter, no distorted architecture, no extra text.
 ```
+
+---
 
 <a id="travel-journals-case-203"></a>
 ### Cas 203: [Aquarelles d’Istanbul et de Venise](https://x.com/KrishnaBio1/status/2106326234322059308) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -488,6 +508,8 @@ and underneath in smaller elegant script:
 Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
 ```
 
+---
+
 <a id="travel-journals-case-204"></a>
 ### Cas 204: [Carnet de voyage d’un bassin naturel](https://x.com/KrishnaBio1/status/2105858125752623434) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -507,6 +529,8 @@ Overall look: luxury vintage travel poster, European travel journal, premium wat
 ```
 Create a premium travel journal poster combining a realistic photograph with a delicate hand-painted watercolor version of the same scene. Show a crystal-clear turquoise natural swimming pool surrounded by rugged Mediterranean rocks, viewed from above, with several people peacefully swimming and floating in the water. Keep the natural rock formations, deep blue water, sunlight reflections and human positions consistent between the photo and watercolor section. Use warm textured vintage paper, torn-paper edges, soft watercolor washes, subtle paint splashes and an elegant handmade travel-book aesthetic. Place the realistic image in the upper section and a beautifully painted watercolor interpretation below, blending them naturally. Add refined handwritten typography at the bottom reading “summer days in greece”. Sophisticated, nostalgic, artistic, realistic details, soft natural lighting, high-end travel editorial design, vertical composition.
 ```
+
+---
 
 <a id="travel-journals-case-205"></a>
 ### Cas 205: [Art de voyage avec métro et lac de montagne](https://x.com/KrishnaBio1/status/2105086976022188110) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -537,6 +561,8 @@ and a smaller subtitle:
 
 Vertical 4:5 composition, high detail, photorealistic + watercolor fusion, premium travel magazine aesthetic, balanced layout, clean typography, no unnecessary objects, no distorted people, no extra text.
 ```
+
+---
 
 <a id="travel-journals-case-206"></a>
 ### Cas 206: [Portrait de couple au couchant dans l’Égypte antique](https://x.com/mehwishkiran07/status/2104524093173428713) (par [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -600,6 +626,8 @@ Do not distort hands, fingers, feet, or body proportions.
 No artificial plastic skin, no excessive beauty retouching, no cartoon appearance, no CGI look, no text, no watermark, no logos.
 ```
 
+---
+
 <a id="travel-journals-case-207"></a>
 ### Cas 207: [Art de voyage d’un canal d’Amsterdam](https://x.com/KrishnaBio1/status/2104369643146346759) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -626,6 +654,8 @@ Keep the composition clean with warm off-white paper margins. Add elegant handwr
 with a thin minimal line underneath.
 Photorealistic upper image + soft watercolor lower illustration, sophisticated European travel poster, premium editorial design, highly detailed.
 ```
+
+---
 
 <a id="travel-journals-case-208"></a>
 ### Cas 208: [Voyageur masculin en double exposition](https://x.com/AiWithTariq/status/2104183973991817236) (par [@AiWithTariq](https://x.com/AiWithTariq))
@@ -668,6 +698,8 @@ Ultra-detailed, sharp subject, realistic skin texture, realistic fabric texture,
 NEGATIVE PROMPT:
 blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, feminine facial features, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin, deformed hands, distorted clothing, poorly contained double exposure.
 ```
+
+---
 
 <a id="travel-journals-case-209"></a>
 ### Cas 209: [Série de livres d’art avec trois photos](https://x.com/KrishnaBio1/status/2104135877220028666) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -748,6 +780,8 @@ Most important requirement:
 Preserve the original visual identity and composition of ALL THREE uploaded images with maximum fidelity. Do not change the recognizable scenes, objects, architecture, roses, drinks, café tables, streets, landmarks, perspectives, or spatial relationships. The final result should feel like a premium handcrafted editorial art-book interpretation of the SAME three original photographs, not a newly invented scene.
 ```
 
+---
+
 <a id="travel-journals-case-210"></a>
 ### Cas 210: [Voyage en Égypte antique en double exposition](https://x.com/Kubra_286/status/2104065786142916926) (par [@Kubra_286](https://x.com/Kubra_286))
 
@@ -790,6 +824,8 @@ NEGATIVE PROMPT:
 blurry, low resolution, distorted face, different person, duplicate person, extra limbs, extra fingers, bad anatomy, masculine features, cartoon, anime, 3D render, unrealistic pyramids, oversaturated colors, messy composition, desert outside silhouette, poorly contained double exposure, warped clothing, watermark, logo, excessive text.
 ```
 
+---
+
 <a id="travel-journals-case-211"></a>
 ### Cas 211: [Portrait de voyage en double exposition](https://x.com/Arina_hoqe/status/2104060109211255230) (par [@Arina_hoqe](https://x.com/Arina_hoqe))
 
@@ -812,6 +848,8 @@ Clean white background, seamless photo blending, cinematic sunset glow, realisti
 
 No cartoon, no anime, no illustration, no distorted face, no duplicate person, no extra limbs, no artificial-looking skin, no identity change.
 ```
+
+---
 
 <a id="travel-journals-case-212"></a>
 ### Cas 212: [Affiche de livre d’art de la tour de Galata](https://x.com/KrishnaBio1/status/2103999062068355211) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -857,6 +895,8 @@ Most important requirement:
 The TOP HALF must remain an extremely faithful reproduction of the uploaded original photograph. Do not change the original Istanbul street scene, Galata Tower, people, cats, architecture, perspective, or spatial arrangement.
 ```
 
+---
+
 <a id="travel-journals-case-213"></a>
 ### Cas 213: [Carnet de voyage à l’aquarelle en trois scènes](https://x.com/KrishnaBio1/status/2103772396486308259) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -887,6 +927,8 @@ Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contempo
 Portrait orientation, high-end travel magazine quality, cinematic realism, detailed watercolor rendering, cohesive storytelling, balanced vertical composition, preserve the exact major elements and relative placement of the three reference scenes, no duplicated people
 ```
 
+---
+
 <a id="travel-journals-case-214"></a>
 ### Cas 214: [Affiche de voyage mêlant photo et aquarelle](https://x.com/novaXsignals/status/2103717928634122598) (par [@novaXsignals](https://x.com/novaXsignals))
 
@@ -910,6 +952,8 @@ Leave generous warm ivory/off-white textured paper space surrounding the waterco
 Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
 Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
 ```
+
+---
 
 <a id="travel-journals-case-215"></a>
 ### Cas 215: [Voyageuse en double exposition](https://x.com/Arina_hoqe/status/2103696199488520632) (par [@Arina_hoqe](https://x.com/Arina_hoqe))
@@ -941,6 +985,8 @@ Negative Prompt:
 blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin.
 ```
 
+---
+
 <a id="travel-journals-case-216"></a>
 ### Cas 216: [Voyage en double exposition vers le ciel](https://x.com/AiWithTariq/status/2103695262522696075) (par [@AiWithTariq](https://x.com/AiWithTariq))
 
@@ -959,6 +1005,8 @@ blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy,
 ```
 A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.
 ```
+
+---
 
 <a id="travel-journals-case-217"></a>
 ### Cas 217: [Affiche artistique de banc sous la pluie et de chien](https://x.com/KrishnaBio1/status/2103635959153938466) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -1004,6 +1052,8 @@ Most important requirement:
 The TOP HALF must remain an extremely faithful reproduction of the uploaded original image. Do not change the original scene.
 ```
 
+---
+
 <a id="travel-journals-case-218"></a>
 ### Cas 218: [Carnet de voyage d’un bassin d’eau limpide](https://x.com/KrishnaBio1/status/2103515142495551767) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -1032,6 +1082,8 @@ Overall aesthetic: luxury summer travel journal, fine-art watercolor postcard, c
 
 Portrait orientation, balanced vertical layout, realistic-to-watercolor transformation, highly detailed photography, delicate artistic watercolor rendering, natural proportions, premium travel magazine quality.
 ```
+
+---
 
 <a id="travel-journals-case-219"></a>
 ### Cas 219: [Livre d’art avec photos et papier artisanal](https://x.com/KrishnaBio1/status/2103154458876162236) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -1122,6 +1174,8 @@ changed facial features
 The final image should look like a carefully designed contemporary art-book cover where the original photograph and its tiny handmade interpretation coexist in a restrained 50/50 editorial composition.
 ```
 
+---
+
 <a id="travel-journals-case-220"></a>
 ### Cas 220: [Plage tropicale au soleil et sous la pluie](https://x.com/mehwishkiran07/status/2103100544957223253) (par [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -1141,6 +1195,8 @@ The final image should look like a carefully designed contemporary art-book cove
 A breathtaking tropical beach at sunset, with a dramatic split-weather sky. On the left, a warm golden sunset glows over the horizon, casting shimmering reflections across the calm turquoise ocean, with a small sailboat silhouetted near the sun. On the right, enormous dark storm clouds build over the ocean, with heavy rain falling in the distance and bright lightning striking beneath the clouds. Powerful ocean waves crash onto a sandy tropical beach, creating detailed white foam and reflections. Tall coconut palm trees frame both sides of the composition, with tropical vegetation, scattered rocks, driftwood, and a colorful beach kite on the right shoreline. Cinematic lighting, dramatic contrast between warm sunset and cool storm, ultra-realistic, highly detailed, photorealistic, vibrant colors, atmospheric depth, 8K.
 Below, recreate the exact same beach scene as a beautiful hand-painted watercolor and ink artwork on warm off-white textured paper. Preserve the same composition, sunset, storm clouds, lightning, ocean waves, palm trees, sailboat, beach, rocks, driftwood, and kite. Use delicate watercolor washes, expressive brush strokes, subtle ink outlines, natural color blending, visible paper texture, and irregular watercolor edges with artistic paint splashes around the border. Elegant traditional watercolor aesthetic, highly detailed, no text, no watermark.
 ```
+
+---
 
 <a id="travel-journals-case-221"></a>
 ### Cas 221: [Album éditorial de collages photographiques](https://x.com/Alina_with_Ai/status/2103079961490075859) (par [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1167,6 +1223,8 @@ The lower watercolor version should have natural watercolor washes, visible pape
 At the bottom, add tasteful handwritten-style text reading “Fiery Sunset”, with a thin horizontal line on each side and a small heart underneath. Warm cinematic lighting, highly detailed, realistic upper photo, artistic watercolor lower image, sophisticated Instagram editorial design, vertical 4:5 composition.
 ```
 
+---
+
 <a id="travel-journals-case-222"></a>
 ### Cas 222: [Carnet de souvenirs d’un café japonais](https://x.com/KrishnaBio1/status/2103047859281019130) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -1185,6 +1243,8 @@ At the bottom, add tasteful handwritten-style text reading “Fiery Sunset”, w
 ```
 Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a Japanese café scene, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist hand-painted watercolor/colored-pencil illustration recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the location, item number, short memory keywords, and year, such as “Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026”. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark.
 ```
+
+---
 
 <a id="travel-journals-case-223"></a>
 ### Cas 223: [Carnet de voyage à l’aquarelle en quatre parties](https://x.com/KrishnaBio1/status/2102793013143412829) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -1216,6 +1276,8 @@ Overall aesthetic: luxury travel journal, fine-art watercolor postcard, cinemati
 Portrait orientation, premium editorial layout, cohesive visual storytelling, realistic-to-watercolor transformation, sophisticated travel magazine quality, high detail.
 ```
 
+---
+
 <a id="travel-journals-case-224"></a>
 ### Cas 224: [Carnet avec photo originale et aquarelle](https://x.com/Alina_with_Ai/status/2102714822030934488) (par [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1244,6 +1306,8 @@ Add elegant handwritten text at the bottom: “slow mornings”, followed by a t
 
 Cozy editorial scrapbook aesthetic, premium travel-journal design, realistic photograph + matching watercolor illustration, soft natural tones, authentic handmade paper texture, subtle watercolor splatters, clean composition, vertical 4:5 poster.
 ```
+
+---
 
 <a id="travel-journals-case-225"></a>
 ### Cas 225: [Récit de voyage dans trois villes](https://x.com/KrishnaBio1/status/2102691226902552591) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -1278,6 +1342,8 @@ Add a tasteful handwritten-style title near the bottom:
 
 Make the final image feel like one beautiful international travel story rather than three unrelated pictures.
 ```
+
+---
 
 <a id="travel-journals-case-226"></a>
 ### Cas 226: [Collage de voyage préservant l’identité](https://x.com/KrishnaBio1/status/2102550128985002216) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
@@ -1330,6 +1396,8 @@ Negative Prompt:
 different face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions.
 ```
 
+---
+
 <a id="travel-journals-case-227"></a>
 ### Cas 227: [Art de voyage rétro avec personne et alpaga](https://x.com/MahnoorAi12/status/2101634984020750560) (par [@MahnoorAi12](https://x.com/MahnoorAi12))
 
@@ -1366,6 +1434,8 @@ The final image should feel premium, nostalgic, elegant, artistic, and collectib
 
 4:5 vertical composition, balanced layout, generous negative space, sophisticated typography, detailed hand illustration, warm natural lighting, no photorealistic background, no excessive visual clutter.
 ```
+
+---
 
 <a id="travel-journals-case-228"></a>
 ### Cas 228: [Carnet d’observations de voyage aux tampons en caoutchouc](https://x.com/MahnoorAi12/status/2101546101228646430) (par [@MahnoorAi12](https://x.com/MahnoorAi12))
@@ -1429,6 +1499,8 @@ The overall vibe is like field notes kept by an architect, travel writer, or nat
 Avoid: Obvious central dividing lines, circular seals, Chinese red stamps, postage stamp perforations, wax seals, sticker collages, tourist souvenir templates, smooth vector logos, generic city icons, full replication of all architecture, dense detailing, childlike craftiness, cartoon style, 3D rendering, plastic textures, glossy digital gradients, oversaturation, excessive text, decorative clutter, and redrawing or altering the left-side original photo.
 ```
 
+---
+
 <a id="travel-journals-case-229"></a>
 ### Cas 229: [Carnet de voyage à Paris à l’aquarelle](https://x.com/KrishnaBio1/status/2101465897814962381) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -1446,6 +1518,8 @@ On the right side, place the same beautiful young woman with long, thick, natura
 Use a warm aged-paper background with pastel blue, cream, beige and subtle pink watercolor washes. Decorate the edges with hand-painted flowers, leaves, small hearts, stars, birds, paper tape, clouds, a paper airplane, compass and delicate travel doodles. At the top center write “Paris • 2025” in elegant handwritten calligraphy. Bottom text should include “Eiffel Tower • Paris • 2025”, “Dreamy Paris afternoon”, “posing by the Seine”, “soft cozy day”, and “memories made”. Add a vintage postage-stamp label in the lower-right reading “PARIS • FRANCE • 2025”. Premium travel scrapbook, nostalgic handmade postcard, soft dreamy watercolor, realistic woman, detailed landmarks, elegant composition, high-resolution, 16:9 landscape.
 ```
 
+---
+
 <a id="travel-journals-case-230"></a>
 ### Cas 230: [Carnet de voyage à Dubaï à l’aquarelle](https://x.com/KrishnaBio1/status/2101465893293392100) (par [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -1461,6 +1535,8 @@ Use a warm aged-paper background with pastel blue, cream, beige and subtle pink 
 Create a high-quality vintage watercolor travel scrapbook poster for Dubai, UAE, 2025, in a soft dreamy luxury travel-journal aesthetic. On the left side, show a beautiful detailed Dubai skyline featuring the Burj Khalifa, surrounding modern skyscrapers, Dubai Mall area, elegant architecture, turquoise fountain/water canal and palm trees, painted with realistic yet artistic watercolor textures. On the right side, place a beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan over a cream/white top and a flowing beige pleated skirt. She has a soft natural smile, delicate facial features, minimal elegant makeup and a relaxed travel-photo pose, looking slightly toward the left. Keep her realistic and naturally integrated with the watercolor artwork.
 Use an aged cream paper background with subtle paper texture, pastel blue and warm beige watercolor washes, hand-painted flowers, leaves, tiny stars, hearts, birds, clouds, paper-tape elements, compass and small travel scrapbook decorations around the borders. At the top center write “Dubai • 2025” in elegant handwritten calligraphy. At the bottom include tasteful travel-journal text such as “Burj Khalifa • Dubai • 2025”, “Dreamy desert afternoon”, “golden city lights”, “unforgettable memories”, and “posing by the fountain”. Add a small vintage postage-stamp style label reading “DUBAI • UAE • 2025” in the bottom-right corner. Balanced composition, premium travel postcard, soft pastel colors, detailed watercolor illustration mixed with realistic portrait photography, elegant feminine aesthetic, nostalgic handmade scrapbook look, high detail, clean typography, 16:9 landscape.
 ```
+
+---
 
 <a id="travel-journals-case-231"></a>
 ### Cas 231: [Reflet au bord de l’eau au coucher du soleil](https://x.com/mehwishkiran07/status/2101257730472419754) (par [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1503,6 +1579,8 @@ Avoid all unwanted elements: no split image, no collage, no two separate scenes,
 
 The final result must look like a high-budget cinematic photograph captured at golden hour, with the woman and the broken glowing portal as the main visual focus and their natural reflection seamlessly integrated into the same scene.
 ```
+
+---
 
 <a id="travel-journals-case-232"></a>
 ### Cas 232: [Affiche à l’aquarelle d’un voyageur assis](https://x.com/Alina_with_Ai/status/2101255289333031047) (par [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1570,6 +1648,8 @@ Luxury editorial watercolor poster, sophisticated fashion illustration, handmade
 NEGATIVE PROMPT:
 Do not copy the first poster’s pose, no waving hand, no standing pose, no raised arm, no photorealistic background, no 3D CGI, no cartoon appearance, no excessive colors, no clutter, no extra people, no distorted face, no extra fingers, no malformed hands, no duplicated limbs, no unnatural anatomy, no harsh outlines, no plastic skin, no AI-looking facial features, no incorrect text, no random logos.
 ```
+
+---
 
 <a id="travel-journals-case-233"></a>
 ### Cas 233: [Album de collages de photographies de voyage](https://x.com/mehwishkiran07/status/2101138725820588393) (par [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1654,6 +1734,8 @@ The final image should feel like a luxurious nostalgic travel journal / Pinteres
 Important: Keep the woman’s appearance consistent across every photograph. Maintain the same hairstyle, facial features, clothing, and overall identity in all frames. No distorted hands, no extra fingers, no duplicate body parts, no unnatural facial features, no cartoon appearance, no plastic skin.
 ```
 
+---
+
 <a id="travel-journals-case-234"></a>
 ### Cas 234: [Affiche de randonnée en montagne avec effet de dissolution](https://x.com/mehwishkiran07/status/2100787012529975424) (par [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -1671,6 +1753,8 @@ Create a dramatic disintegration effect on the right side of her body, where her
 On the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality.
 Create a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME.
 ```
+
+---
 
 <a id="travel-journals-case-235"></a>
 ### Cas 235: [Portrait artistique de voyage à Paris](https://x.com/Alina_with_Ai/status/2100057357376192992) (par [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1702,6 +1786,8 @@ Add tasteful minimal typography such as:
 
 The lower scene should feel artistic and motivational rather than photorealistic, clearly different from the realistic photograph above. Premium editorial composition, balanced layout, beautiful visual storytelling, vertical poster format, no watermark.
 ```
+
+---
 
 <a id="travel-journals-case-236"></a>
 ### Cas 236: [Photo de New York et carte postale de voyage](https://x.com/Alina_with_Ai/status/2098962796893651067) (par [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1756,3 +1842,5 @@ The watercolor should clearly correspond to the photograph.
 Use a vertical 4:5 composition.
 No people as the main subject.
 ```
+
+---

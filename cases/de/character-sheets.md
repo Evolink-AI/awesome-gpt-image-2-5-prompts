@@ -1,6 +1,6 @@
 # Charakterbögen und Figurengestaltung
 
-[← Alle 250 Prompts](../../README_de.md)
+[← Alle 254 Prompts](../../README_de.md)
 
 Wähle einen Fall, um die Bilder oder Videos des Urhebers und den vollständigen Originalprompt zu sehen. Die Prompts bleiben in ihrer ursprünglichen Sprache.
 
@@ -105,6 +105,8 @@ COLOR PALETTE: Deep navy, volcanic red, white.
 OVERALL: Clean white background, deep navy and volcanic red watercolor explosion radiating behind both characters, faint dinosaur silhouettes in background, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-53"></a>
 ### Fall 53: [Charakterbogen von Mr Bean und Conor McGregor](https://x.com/TechieBySA/status/2108521171800973435) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -131,6 +133,8 @@ RIGHT SIDE — MCGREGOR: Bold dramatic emerald green watercolor splash radiating
 BOTTOM CENTER: Bold text THE BEAN VS THE NOTORIOUS in emerald green. Tagline: ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER BEEN IN ONE. SAME RESULT.
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic emerald green watercolor explosion right side, dramatic green center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-54"></a>
 ### Fall 54: [Charakterbogen von Mira](https://x.com/mehwishkiran07/status/2108378073498571029) (von [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -244,6 +248,8 @@ Important:
 The woman must be the EXACT SAME PERSON in every panel. Preserve identical face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle and overall identity across all expressions, angles, close-ups and outfit references. No duplicate faces, no distorted features, no extra fingers, no extra limbs, no text errors, no watermark.
 ```
 
+---
+
 <a id="character-sheets-case-55"></a>
 ### Fall 55: [Charakterbogen von Ben 10](https://x.com/TechieBySA/status/2108250248879788117) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -272,6 +278,8 @@ BOTTOM CENTER: Bold large text in dark green. Tagline: ONE WATCH. TEN ALIENS. IN
 OVERALL: Clean white background, unified bright green and dark green watercolor explosion behind both characters, thin white outline around the young boy so he pops clearly against the green background, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-56"></a>
 ### Fall 56: [Charakterbogen von Popeye und King Kong](https://x.com/TechieBySA/status/2108211811421925617) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -299,6 +307,8 @@ BOTTOM CENTER: Bold text POPEYE VS KING KONG in deep navy. Tagline: SIZE DOESN'T
 OVERALL: Clean white background, bold dramatic deep navy watercolor explosion left side, bold dramatic dark brown watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-57"></a>
 ### Fall 57: [Charakterbogen von Mr Bean und der Maske](https://x.com/TechieBySA/status/2108156271048130705) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -325,6 +335,8 @@ RIGHT SIDE — THE MASK: Bold dramatic bright yellow watercolor splash radiating
 BOTTOM CENTER: Bold text THE BEAN VS THE MASK in bright yellow. Tagline: ONE IS COMPLETELY OBLIVIOUS. ONE IS COMPLETELY UNHINGED. SAME RESULT.
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic bright yellow watercolor explosion right side, dramatic yellow center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-58"></a>
 ### Fall 58: [Charakterbogen von Faizan](https://x.com/mehwishkiran07/status/2108024895804481648) (von [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -472,6 +484,8 @@ Photorealistic live-action character photography, cinematic realism, premium Hol
 IMPORTANT:
 The same character must appear in every panel. Preserve exact facial identity, hairstyle, eye color, skin tone, facial structure, body proportions, clothing, and overall appearance across all views and expressions. No identity changes, no different person, no duplicate variations.
 ```
+
+---
 
 <a id="character-sheets-case-59"></a>
 ### Fall 59: [Charakterbogen von Mehwish](https://x.com/mehwishkiran07/status/2108024891471761791) (von [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -653,6 +667,8 @@ No visible tattoos or scars.
 Keep the character highly consistent across all views, expressions, poses, and details.
 ```
 
+---
+
 <a id="character-sheets-case-60"></a>
 ### Fall 60: [Charakterbogen von Popeye](https://x.com/TechieBySA/status/2107893068770767068) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -681,6 +697,8 @@ COLOR PALETTE: Deep red, dark navy, white.
 OVERALL: Clean white background, deep red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-61"></a>
 ### Fall 61: [Charakterbogen von Atom und Charlie](https://x.com/TechieBySA/status/2107853186438427065) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -707,6 +725,8 @@ CHARACTERS: Atom on the left — heavily battle scarred gunmetal grey robot, squ
 BOTTOM CENTER: Bold large text REAL STEEL in deep blue industrial font. Below smaller text: THE ARENA. THE FIGHT. Below that tagline: HE BELIEVED IN THE MACHINE. THE MACHINE BELIEVED BACK.
 OVERALL: Clean white background, bold dramatic blue and grey watercolor splash radiating behind both characters, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-62"></a>
 ### Fall 62: [Charakterbogen von Mr Bean und Jackie Chan](https://x.com/TechieBySA/status/2107794864586756308) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -735,6 +755,8 @@ BOTTOM CENTER: Bold text THE BEAN VS THE MASTER in deep gold. Tagline: ONE USES 
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic deep gold watercolor explosion right side, dramatic gold center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-63"></a>
 ### Fall 63: [Charakterbogen von Ip Man und Mike Tyson](https://x.com/TechieBySA/status/2107523538718499051) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -761,6 +783,8 @@ RIGHT SIDE — MIKE TYSON: Bold dramatic crisp white watercolor splash radiating
 BOTTOM CENTER: Bold text WING CHUN VS BOXING in deep red. Tagline: THREE MINUTES. THAT'S ALL HE ASKED FOR.
 OVERALL: Clean white background, bold dramatic deep black watercolor explosion left side, bold dramatic crisp white watercolor explosion right side outlined in black, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-64"></a>
 ### Fall 64: [Charakterbogen von Rama](https://x.com/TechieBySA/status/2107486202647462305) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -791,6 +815,8 @@ COLOR PALETTE: Deep red, deep black, white.
 OVERALL: Clean white background, deep red and deep black watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-65"></a>
 ### Fall 65: [Charakterbogen von John Wick und Mr Bean](https://x.com/TechieBySA/status/2107432291785945480) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -820,6 +846,8 @@ BELOW THAT: Smaller text tagline — ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER B
 COLOR PALETTE: Deep red, deep black, white.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion behind both characters, New York skyline left, London skyline and Mini right, characters large and dominant filling most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-66"></a>
 ### Fall 66: [Charakterbogen von Achilles](https://x.com/TechieBySA/status/2107171765944242546) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -856,6 +884,8 @@ COLOR PALETTE: Deep gold, burnt orange, silver, white.
 OVERALL: Clean white background, deep gold and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-67"></a>
 ### Fall 67: [Charakterbogen von Jackie Chan und Jet Li](https://x.com/TechieBySA/status/2107128238719852852) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -882,6 +912,8 @@ RIGHT SIDE — JET LI: Bold dramatic deep black watercolor splash radiating behi
 BOTTOM CENTER: Bold text HONG KONG VS BEIJING in deep black. Tagline: ONE FIGHTS WITH EVERYTHING AROUND HIM. ONE NEEDS NOTHING.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion left side, bold dramatic deep black watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, no outlines or strokes around any text, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-68"></a>
 ### Fall 68: [Referenzbogen für zwei Figuren](https://x.com/TechieBySA/status/2107073058280276339) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -910,6 +942,8 @@ BOTTOM CENTER: Bold text THE CHEF VS THE BEAN in bright red. Tagline: ONE MICHEL
 OVERALL: Clean white background, bold dramatic crisp white watercolor explosion left side, bold dramatic bright red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-69"></a>
 ### Fall 69: [Charakterbogen nach einem Referenzfoto](https://x.com/1banana2546/status/2106866959300092369) (von [@1banana2546](https://x.com/1banana2546))
 
@@ -924,6 +958,8 @@ OVERALL: Clean white background, bold dramatic crisp white watercolor explosion 
 ```
 画像1のキャラで画像2みたいなリファレンスシートを作って
 ```
+
+---
 
 <a id="character-sheets-case-70"></a>
 ### Fall 70: [Charakterbogen von Marcus Fenix](https://x.com/TechieBySA/status/2106804071512617020) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -953,6 +989,8 @@ COLOR PALETTE: Dark grey, blood red, brown, white.
 OVERALL: Clean white background, dark grey and blood red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-71"></a>
 ### Fall 71: [Charakterbogen von Mr Bean](https://x.com/TechieBySA/status/2106770926847107507) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -981,6 +1019,8 @@ COLOR PALETTE: Bright red, black, white, checkered.
 OVERALL: Clean white background, bright red watercolor explosion left side fading into black and white checkered flag pattern right side, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-72"></a>
 ### Fall 72: [Charakterbogen von Bruce Lee und Mr Bean](https://x.com/TechieBySA/status/2106702675253383494) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1008,6 +1048,8 @@ BOTTOM CENTER: Bold text THE DRAGON VS THE BEAN in bright yellow. Tagline: ONE O
 OVERALL: Clean white background, bold dramatic bright yellow watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-73"></a>
 ### Fall 73: [Charakterbogen von Gordon Ramsay in der Küche](https://x.com/TechieBySA/status/2106437712337113577) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1034,6 +1076,8 @@ RIGHT SIDE — THE FOUR: Bold dramatic deep red watercolor splash radiating behi
 BOTTOM CENTER: Bold text NOT. GOOD. ENOUGH. in deep red. Tagline: HE FACED THE MOST DANGEROUS MEN ALIVE. NONE OF THEM COULD COOK.
 OVERALL: Clean white background, bold dramatic crisp white watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-74"></a>
 ### Fall 74: [Charakterbogen von John Creasy](https://x.com/TechieBySA/status/2106395410327564512) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1063,6 +1107,8 @@ COLOR PALETTE: Deep grey, burnt orange, white.
 OVERALL: Clean white background, deep grey and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-75"></a>
 ### Fall 75: [Referenzbogen von John Wick und Mr Bean](https://x.com/TechieBySA/status/2106342387698036839) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1089,6 +1135,8 @@ RIGHT SIDE — MR BEAN: Bold dramatic bright red watercolor splash radiating beh
 BOTTOM CENTER: Bold text THE BOOGEYMAN VS THE BEAN in bright red. Tagline: ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER BEEN IN ONE.
 OVERALL: Clean white background, bold dramatic deep black watercolor explosion left side, bold dramatic bright red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-76"></a>
 ### Fall 76: [Charakterbogen von Selene](https://x.com/TechieBySA/status/2106077907969851743) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1118,6 +1166,8 @@ COLOR PALETTE: Deep black, electric blue, white.
 OVERALL: Clean white background, deep black and electric blue watercolor splash radiating behind her, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-77"></a>
 ### Fall 77: [Charakterbogen von Alfred Borden](https://x.com/TechieBySA/status/2106032316220895460) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1146,6 +1196,8 @@ COLOR PALETTE: Deep navy, deep black, white.
 OVERALL: Clean white background, deep navy and deep black watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-78"></a>
 ### Fall 78: [Charakterbogen von Bruce Lee und Jackie Chan](https://x.com/TechieBySA/status/2105987097504989297) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1172,6 +1224,8 @@ RIGHT SIDE — JACKIE CHAN: Bold dramatic deep red watercolor splash radiating b
 BOTTOM CENTER: Bold text THE DRAGON VS THE MASTER in deep red. Tagline: ONE FIGHTS WITH PRECISION. ONE FIGHTS WITH EVERYTHING ELSE.
 OVERALL: Clean white background, bold dramatic bright yellow watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-79"></a>
 ### Fall 79: [Charakterbogen von Gerry Lane](https://x.com/TechieBySA/status/2105711388224032919) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1201,6 +1255,8 @@ COLOR PALETTE: Deep navy blue, burnt orange, khaki, white.
 OVERALL: Clean white background, deep navy blue and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-80"></a>
 ### Fall 80: [Charakterbogen von James Bond](https://x.com/TechieBySA/status/2105668470583050602) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1229,6 +1285,8 @@ COLOR PALETTE: Deep black, deep gold, white.
 OVERALL: Clean white background, deep black and deep gold watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-81"></a>
 ### Fall 81: [Charakterbogen von Neo und John Wick](https://x.com/TechieBySA/status/2105619699820044329) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1255,6 +1313,8 @@ RIGHT SIDE — JOHN WICK: Bold dramatic deep red watercolor splash radiating beh
 BOTTOM CENTER: Bold text ONE BENDS REALITY. ONE DOESN'T NEED TO. in deep red.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion right side, bold dramatic falling green Matrix digital code left side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-82"></a>
 ### Fall 82: [Charakterbogen des T-800](https://x.com/TechieBySA/status/2105307488744571211) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1284,6 +1344,8 @@ COLOR PALETTE: Deep black, deep red, silver, white.
 OVERALL: Clean white background, deep black and deep red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-83"></a>
 ### Fall 83: [Charakterbogen von Bruce Lee und John Wick](https://x.com/TechieBySA/status/2105256780565492165) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1310,6 +1372,8 @@ RIGHT SIDE — JOHN WICK: Deep black watercolor splash behind him fading into ce
 BOTTOM CENTER: Color palette — bright yellow, black, white. Tagline: THE FASTEST HANDS ALIVE VS THE DEADLIEST MAN ALIVE.
 OVERALL: Clean white background, bright yellow watercolor left, deep black watercolor right, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-84"></a>
 ### Fall 84: [Charakterbogen von Tyler Rake](https://x.com/TechieBySA/status/2104944751766065348) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1340,6 +1404,8 @@ COLOR PALETTE: Warm gold, deep olive green, black, white.
 OVERALL: Clean white background, warm golden and deep olive green watercolor splash centered behind Tyler radiating outward, deep olive green and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-85"></a>
 ### Fall 85: [Charakterbogen der Expendables](https://x.com/TechieBySA/status/2104896373321507030) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1366,6 +1432,8 @@ BOTTOM CENTER: Tagline centered in deep blood red: WHEN YOU ABSOLUTELY HAVE TO D
 COLOR PALETTE: Deep black, blood red, white.
 OVERALL: Clean white background, deep black and blood red watercolor splash behind all five characters together radiating outward, blood red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-86"></a>
 ### Fall 86: [Charakterbogen von Neo und Morpheus](https://x.com/TechieBySA/status/2104623035009347974) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1400,6 +1468,8 @@ BOTTOM CENTER: Color palette — deep matrix green, deep navy blue, black, white
 OVERALL: Clean white background, falling Matrix digital code in deep muted green behind Neo on the left, deep navy blue watercolor behind Morpheus on the right, bold dramatic THE MATRIX text center, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-87"></a>
 ### Fall 87: [Charakterbogen von Chon und Roy](https://x.com/TechieBySA/status/2104534785011974532) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1432,6 +1502,8 @@ BOTTOM CENTER: Color palette — deep red, brown, sky blue, tan, white. Tagline 
 
 OVERALL: Clean white background, deep red and brown watercolor left side, sky blue and tan watercolor right side, bold dramatic SHANGHAI NOON text center, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-88"></a>
 ### Fall 88: [Charakterbogen von Maximus](https://x.com/TechieBySA/status/2104216397387624745) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1476,6 +1548,8 @@ COLOR PALETTE: Deep gold, deep crimson red, black, white.
 
 OVERALL: Clean white background, deep gold and deep crimson red watercolor splash centered behind Maximus radiating outward, deep crimson red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-89"></a>
 ### Fall 89: [Anpassbarer Charakterbogen im Realfilmstil](https://x.com/GeekCatX/status/2104135797280752081) (von [@GeekCatX](https://x.com/GeekCatX))
@@ -1546,6 +1620,8 @@ OVERALL: Clean white background, deep gold and deep crimson red watercolor splas
 所有模块中的角色必须为同一人物，五官、髮型、肤色、身材、服装、鞋靴、配饰、光影、材质完全一致，不得出现角色漂移或视图差异。
 ```
 
+---
+
 <a id="character-sheets-case-90"></a>
 ### Fall 90: [Charakterbogen von Jackie](https://x.com/TechieBySA/status/2103902027218592010) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1588,6 +1664,8 @@ COLOR PALETTE: Bright red, white, black.
 
 OVERALL: Clean white background, bright red and white watercolor splash centered behind Jackie radiating outward, bright red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-91"></a>
 ### Fall 91: [Charakterbogen der Braut](https://x.com/TechieBySA/status/2103852769605992813) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1632,6 +1710,8 @@ COLOR PALETTE: Bright yellow, deep black, white.
 OVERALL: Clean white background, bright yellow and black watercolor splash centered behind her radiating outward, deep black and yellow typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-92"></a>
 ### Fall 92: [Charakterbogen von Maverick](https://x.com/TechieBySA/status/2103805475116532149) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1673,6 +1753,8 @@ COLOR PALETTE: Navy blue, warm gold, olive green, black, white.
 
 OVERALL: Clean white background, navy blue and warm gold watercolor splash centered behind Maverick radiating outward, navy blue and warm gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-93"></a>
 ### Fall 93: [Charakterbogen von Tony Montana](https://x.com/TechieBySA/status/2103492759357174060) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1717,6 +1799,8 @@ COLOR PALETTE: Crisp white, deep crimson red, gold, black.
 OVERALL: Clean white background, crisp white and deep crimson red watercolor splash centered behind Tony radiating outward, deep crimson red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-94"></a>
 ### Fall 94: [Charakterbogen von Neo und Agent Smith](https://x.com/TechieBySA/status/2103172404537143403) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1750,6 +1834,8 @@ BOTTOM CENTER: Color palette — deep matrix green, cold silver, black, white. T
 OVERALL: Clean white background, falling Matrix digital code in deep muted green behind Neo on the left, cold silver watercolor behind Agent Smith on the right, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-95"></a>
 ### Fall 95: [Charakterbogen von McClane](https://x.com/TechieBySA/status/2102777689434120432) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1780,6 +1866,8 @@ BOTTOM CENTER: Bold text DIE HARD in deep red slightly worn. Below it small text
 
 OVERALL: Clean white background, red and gold watercolor splash centered behind McClane radiating outward, deep red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-96"></a>
 ### Fall 96: [Charakterbogen von Bruce Lee und Ip Man](https://x.com/TechieBySA/status/2102719679642943870) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -1814,6 +1902,8 @@ BOTTOM CENTER: Color palette — bright yellow, black, deep charcoal, white. Tag
 OVERALL: Clean white background, bright yellow and black watercolor left side, deep charcoal watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-97"></a>
 ### Fall 97: [Charakterbogen von Bryan und Wick](https://x.com/TechieBySA/status/2102398939290816708) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1847,6 +1937,8 @@ BOTTOM CENTER: Color palette — deep charcoal, dark grey, deep crimson, black, 
 OVERALL: Clean white background, dark charcoal watercolor left side, deep crimson watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-98"></a>
 ### Fall 98: [Charakterbogen eines Mannes aus mehreren Ansichten](https://x.com/Arzoo12sh/status/2102350378633420971) (von [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -1865,6 +1957,8 @@ OVERALL: Clean white background, dark charcoal watercolor left side, deep crimso
 ```
 Create a high-resolution professional character sheet of the same young man from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. He wears a navy blue sweatshirt, black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding a clear cup of yellow iced drink. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.
 ```
+
+---
 
 <a id="character-sheets-case-99"></a>
 ### Fall 99: [Editorial-Charakterbogen mit Referenzgesicht](https://x.com/Alina_with_Ai/status/2102234492761243885) (von [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1978,6 +2072,8 @@ Add tasteful editorial typography:
 Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.
 ```
 
+---
+
 <a id="character-sheets-case-100"></a>
 ### Fall 100: [Charakterbogen von Isla](https://x.com/TechieBySA/status/2102089391153860926) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2033,6 +2129,8 @@ BOTTOM: Tagline centered — THE WALL WAS BLANK. IT WON'T BE FOR LONG.
 OVERALL: Warm off-white background, neon pink and green watercolor ink circle behind the poses, clean minimal editorial typography in deep black, neon paint splatter details throughout, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle streetwear character bible.
 ```
 
+---
+
 <a id="character-sheets-case-101"></a>
 ### Fall 101: [Charakterbogen von Frank](https://x.com/TechieBySA/status/2102040622857134127) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2063,6 +2161,8 @@ BOTTOM CENTER: Bold text THE TRANSPORTER in deep black slightly worn. Below it s
 
 OVERALL: Clean white background, crimson red and black watercolor splash centered behind Frank radiating outward, deep crimson red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-102"></a>
 ### Fall 102: [Charakterbogen von Cristiano Ronaldo](https://x.com/Alina_with_Ai/status/2101991381413892150) (von [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -2181,6 +2281,8 @@ full-body turnaround + facial expressions + football action poses + equipment de
 Make it look like an authentic high-end professional sports character bible, not a generic AI collage.
 ```
 
+---
+
 <a id="character-sheets-case-103"></a>
 ### Fall 103: [Referenzbogen einer erwachsenen Frauenfigur](https://x.com/Alina_with_Ai/status/2101869350366191729) (von [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -2275,6 +2377,8 @@ IMPORTANT:
 The same adult female character must remain visually identical throughout the entire sheet. No changes to face, facial proportions, hairstyle, hair color, body shape, age, skin tone, outfit design, or accessories between panels. Make the sheet highly detailed, organized, readable, and suitable as a character reference for future AI image and video generation.
 ```
 
+---
+
 <a id="character-sheets-case-104"></a>
 ### Fall 104: [Charakterbogen von Lucia und Jason](https://x.com/TechieBySA/status/2101678773703754189) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2307,6 +2411,8 @@ BOTTOM CENTER: Color palette — coral pink, turquoise, golden yellow, hot orang
 
 OVERALL: Clean white background, coral pink and turquoise watercolor left side, golden yellow and hot orange watercolor right side, bold dramatic GTA VI center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-105"></a>
 ### Fall 105: [Charakterbogen von J und K](https://x.com/TechieBySA/status/2101629652741624268) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -2358,6 +2464,8 @@ BOTTOM CENTER: Color palette — deep black, white, electric blue, dark grey. Ta
 OVERALL: Warm off-white background, deep black ink brush circle behind both characters, clean minimal editorial typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle character bible.
 ```
 
+---
+
 <a id="character-sheets-case-106"></a>
 ### Fall 106: [Charakterbogen von Ethan](https://x.com/TechieBySA/status/2101266498266313185) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2389,6 +2497,8 @@ BOTTOM CENTER: Movie title MISSION IMPOSSIBLE in bold dark navy slightly worn. B
 OVERALL: Clean white background, dark navy watercolor splash centered behind Ethan radiating outward, dark navy typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-107"></a>
 ### Fall 107: [Charakterbogen von Jason Bourne](https://x.com/TechieBySA/status/2100955490674987274) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2417,6 +2527,8 @@ BOTTOM CENTER: Bold dramatic JASON BOURNE in deep dark navy, slightly worn. Belo
 
 OVERALL: Clean white background, bold controlled deep dark navy watercolor splash centered behind Bourne, Bourne centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-108"></a>
 ### Fall 108: [Charakterbogen von Neiman](https://x.com/TechieBySA/status/2100907108573024578) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -2449,6 +2561,8 @@ BOTTOM CENTER: Movie title WHIPLASH in bold deep black slightly worn. Below it s
 OVERALL: Clean white background, golden yellow watercolor splash centered behind Neiman radiating outward, deep black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-109"></a>
 ### Fall 109: [Gruppencharakterbogen von Stranger Things](https://x.com/TechieBySA/status/2100548638413930687) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2480,6 +2594,8 @@ BOTTOM CENTER: Bold dramatic STRANGER THINGS in deep red, slightly worn. Below i
 OVERALL: Clean white background, deep red watercolor splash behind the entire group radiating outward, subtle gate red glow at the edges of the image, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-110"></a>
 ### Fall 110: [Charakterbogen von Jack und Sawyer](https://x.com/TechieBySA/status/2100278579464417333) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2507,6 +2623,8 @@ RIGHT SIDE — SAWYER: Green watercolor splash behind him fading into center. La
 BOTTOM CENTER: Color palette — deep blue, deep green, jungle black, white. Tagline centered: WE HAVE TO GO BACK.
 OVERALL: Clean white background, blue watercolor left side, green watercolor right side, dramatic blue center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography except the official LOST logotype in the center, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 ```
+
+---
 
 <a id="character-sheets-case-111"></a>
 ### Fall 111: [Charakterbogen von Lee und Carter](https://x.com/TechieBySA/status/2100226095320580331) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -2541,6 +2659,8 @@ BOTTOM CENTER: Color palette — deep red, deep navy, black, white, warm skin to
 OVERALL: Clean white background, deep red bold painterly brushstroke splash left side, deep navy bold painterly brushstroke splash right side, dramatic deep red center divider, bold painterly illustration style throughout matching uploaded character sheets exactly — angular geometric color blocking, hard edge shadows, visible brushwork, gouache texture, flat color planes, graphic novel quality, not photorealistic not standard anime not cartoon, minimal clean editorial typography, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-112"></a>
 ### Fall 112: [Charakterbogen von Rocky und Drago](https://x.com/TechieBySA/status/2100177122916454655) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2574,6 +2694,8 @@ BOTTOM CENTER: Color palette — bold red, white, blue, deep gold, black. Taglin
 OVERALL: Clean white background, red white and blue watercolor left side, deep gold watercolor right side, dramatic deep red center divider, size difference between Rocky and Drago dramatically visible, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-113"></a>
 ### Fall 113: [Charakterbogen von Rambo](https://x.com/TechieBySA/status/2099865500746485837) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2602,6 +2724,8 @@ BOTTOM CENTER: Bold dramatic RAMBO in deep army green, slightly worn. Below it s
 
 OVERALL: Clean white background, bold controlled deep red watercolor splash centered behind Rambo, Rambo centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-114"></a>
 ### Fall 114: [Charakterbogen der himmlischen Puppenspielerin Ophelia](https://x.com/itsPixieVerse/status/2099712708908319052) (von [@itsPixieVerse](https://x.com/itsPixieVerse))
@@ -2639,6 +2763,8 @@ Layout Composition:
 3. RIGHT PANEL: 4 dynamic pose studies (pulling gravity threads, levitating above ground, cloak billowing wide, adjusting hat) with handwritten labels. 4. BOTTOM RIGHT PANEL: 5 square detail crops (visor gold glyphs, orbital halo sphere, black prosthetic hand/strings, gown drape, platform heels).
 ```
 
+---
+
 <a id="character-sheets-case-115"></a>
 ### Fall 115: [Charakterbogen von John Wick](https://x.com/TechieBySA/status/2099502876166947252) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2667,6 +2793,8 @@ BOTTOM CENTER: Bold dramatic JOHN WICK in deep black, slightly worn. Below it sm
 
 OVERALL: Clean white background, bold controlled deep red watercolor splash centered behind John, John centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-116"></a>
 ### Fall 116: [Charakterbogen des Kochs und der Katze](https://x.com/TechieBySA/status/2099460145449185433) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -2701,6 +2829,8 @@ BOTTOM CENTER: Color palette — clean white, warm orange, deep red, black. Tagl
 OVERALL: Clean white background, white watercolor left side, warm orange watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-117"></a>
 ### Fall 117: [Charakterbogen zweier Kämpfer](https://x.com/TechieBySA/status/2099188504416936155) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2734,6 +2864,8 @@ BOTTOM CENTER: Color palette — electric blue, jet black, deep red, white. Tagl
 OVERALL: Clean white background, electric blue watercolor left side, jet black watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-118"></a>
 ### Fall 118: [Charakterbogen von Bryan Mills](https://x.com/TechieBySA/status/2099139896438919623) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2763,6 +2895,8 @@ BOTTOM CENTER: Bold dramatic TAKEN in deep red, slightly worn. Below it small te
 OVERALL: Clean white background, deep red watercolor splash behind Bryan, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-119"></a>
 ### Fall 119: [Charakterbogen von Robert und Sam](https://x.com/TechieBySA/status/2099095652638581123) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2789,6 +2923,8 @@ RIGHT SIDE — SAM: Warm tan watercolor splash behind her fading into center. La
 BOTTOM CENTER: Color palette — dark grey, warm tan, blood red, white, black. Tagline centered: THE LAST OF US IS NOT ALONE.
 OVERALL: Clean white background, dark grey watercolor left side, warm tan watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-120"></a>
 ### Fall 120: [Charakterbogen von Phil, Stu und Alan](https://x.com/TechieBySA/status/2098779184550002853) (von [@TechieBySA](https://x.com/TechieBySA))
@@ -2823,6 +2959,8 @@ BOTTOM CENTER: Bold dramatic THE HANGOVER in deep red, slightly worn. Below it s
 OVERALL: Clean white background, white watercolor far left, dark navy watercolor center, bright orange watercolor far right, bold dramatic dividing elements between each character, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-121"></a>
 ### Fall 121: [Charakterbogen von Rick und Daryl](https://x.com/TechieBySA/status/2098731888617689164) (von [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2855,3 +2993,5 @@ BOTTOM CENTER: Color palette — tan khaki, gold, dark grey, blood red, black. T
 
 OVERALL: Clean white background, tan watercolor left side, dark grey watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---

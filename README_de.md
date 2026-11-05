@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai/blog/gpt-image-2-5-flare-vs-sunburst?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-250.svg" width="760" alt="GPT Image 2.5 · 250 Prompts · EvoLink"></a>
+<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6.svg" width="760" alt="GPT Image 2.6 + 2.5 · 254 vollständige Prompts · EvoLink"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.5 im Browser ausprobieren](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![250 vollständige Prompts](https://img.shields.io/badge/Prompts-250-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.5 im Browser ausprobieren](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![254 vollständige Prompts](https://img.shields.io/badge/Prompts-254-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,23 +11,41 @@
 <a id="introduction"></a>
 ## 🍌 Einführung
 
-**250 vollständige Prompts für GPT Image 2.5, geordnet nach sieben kreativen Aufgaben.** Entdecke Porträts, Charakterbögen, Illustrationen, Werbung, Reisetagebücher, Bildbearbeitung und Bildgeschichten. Jeder Fall enthält den Originalprompt, die Urheberangabe und die zugehörigen Medien.
+**Neuigkeiten zu GPT Image 2.6 und 254 vollständige Prompts: vier neue Fälle für 2.6 sowie die ursprünglichen 250 Prompts für GPT Image 2.5 zu sieben kreativen Aufgaben.** Entdecke Porträts, Charakterbögen, Illustrationen, Werbung, Reisetagebücher, Bildbearbeitung und Bildgeschichten. Jeder Fall enthält den Originalprompt, die Urheberangabe und die zugehörigen Medien.
 
-Die Sammlung stammt aus 238 öffentlichen X-Beiträgen von 52 Kreativen. Die Modellzuordnung folgt den Angaben der Urheber; die Beispiele wurden nicht unabhängig nachgeneriert. Referenzbilder, Einstellungen und spätere Bearbeitungen können die Ergebnisse beeinflussen.
+Die ursprüngliche Sammlung mit 250 Prompts stammt aus 238 öffentlichen X-Beiträgen von 52 Kreativen. Bei den neuen Fällen für 2.6 werden offizielle Dokumentationsbeispiele und Angaben der Urheber getrennt ausgewiesen; frühere Beispiele für 2.5 behalten ihre ursprüngliche Modellzuordnung. Die Modellzuordnung folgt den Angaben der Urheber; die Beispiele wurden nicht unabhängig nachgeneriert. Referenzbilder, Einstellungen und spätere Bearbeitungen können die Ergebnisse beeinflussen.
 
 Beispiele mit Marken, Figuren und Prominenten sind Konzepte der Urheber, keine offiziellen Kampagnen oder Empfehlungen. Die Rechte an den Originalprompts und Medien verbleiben bei den jeweiligen Rechteinhabern.
 
 <a id="quick-start"></a>
 ## ⚡ Schnellstart
 
-1. Wähle eine Kategorie im Inhaltsverzeichnis und öffne einen Fall.
+1. Beginne mit den [neuen Fällen für GPT Image 2.6](cases/de/gpt-image-2-6.md) oder wähle im Inhaltsverzeichnis eine Kategorie für GPT Image 2.5.
 2. Lies den Hinweis zum Ausgangsmaterial und kopiere den vollständigen Prompt aus seinem Codeblock.
 3. Füge das angeforderte Referenzbild hinzu, passe bearbeitbare Details an und probiere den Prompt in der Testoberfläche des Modells aus.
 
-[GPT Image 2.5 im Browser ausprobieren](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[Images 2.6 in ChatGPT ausprobieren](https://chatgpt.com/images) · [GPT Image 2.5 im Browser ausprobieren](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 Neuigkeiten
+
+- **2026-11-05:** Vier vollständige Prompt-Fälle für 2.6 und die unten gezeigten offiziellen SVG-Beispiele ergänzt. Die 250 früheren Prompts bleiben GPT Image 2.5 zugeordnet.
+- **2026-11-04:** OpenAI hat GPT Image 2.6 Sunburst und Flare veröffentlicht. Sunburst ist auf hohe Detailtreue und den Erhalt unveränderter Bildbereiche ausgelegt; Flare auf schnellere Überarbeitungen. Beide unterstützen die Steuerung der Komplexität, Bearbeitungen anhand von Markierungen sowie SVG- und GIF-Ausgaben. Komplexität und Darstellungsqualität werden getrennt gesteuert; mehr Planungsaufwand kann auch die Wartezeit und unerwünschte Änderungen erhöhen. [Offizielle Versionshinweise lesen](https://developers.openai.com/api/docs/changelog) und [aktuellen Prompt-Leitfaden lesen](https://developers.openai.com/api/docs/guides/image-prompting).
+
+**Mit den neuesten vollständigen Prompts beginnen**
+
+| Animation | Präzise Bearbeitung |
+| --- | --- |
+| [Umrundung des Weißen Hauses](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-251)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118295303778615296.jpg" width="300" alt="Vorschau der Animation um das Weiße Haus"> | [Blume entfernen](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-252)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-no-flower-gpt-image-2-6-sunburst.webp" width="300" alt="Offizielles Ergebnis der Blumenentfernung mit 2.6"> |
+| [Werbetafel im verschneiten Abendlicht](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-253) | [Teeporträt im Vergleich: 2.6 / 2.5](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-254) |
+
+**Offizielle SVG-Beispiele — nicht in der Prompt-Anzahl enthalten**
+
+Diese Bäckerei-Logos sind veröffentlichte 2.6-Ergebnisse aus OpenAIs SVG-Demonstration. [Offizielles Beispiel und vollständigen Aufbau ansehen](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). Die Beispiele erhöhen die Anzahl der Prompt-Fälle nicht.
+
+<table>
+<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="Offizielles Bäckerei-Logo als SVG von Flare"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="Offizielles Bäckerei-Logo als SVG von Sunburst"></td></tr>
+</table>
 
 - **2026-10-26:** Erste Sammlung: 250 vollständige Prompts in sieben Kategorien mit Originalquellen und Medien der Urheber.
 
@@ -38,6 +56,11 @@ Beispiele mit Marken, Figuren und Prominenten sind Konzepte der Urheber, keine o
 - [⚡ Schnellstart](#quick-start)
 - [📰 Neuigkeiten](#news)
 
+- **[GPT Image 2.6 — Aktuell](cases/de/gpt-image-2-6.md)** · 4
+  - [Fall 251: Animation um das Weiße Haus](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-251)
+  - [Fall 252: Blume entfernen und Szene bewahren](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-252)
+  - [Fall 253: Werbetafel im verschneiten Abendlicht](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-253)
+  - [Fall 254: Teeporträt im Versionsvergleich](cases/de/gpt-image-2-6.md#gpt-image-2-6-case-254)
 - **[Porträts und Fotografie](cases/de/portraits.md)** · 51
   - [Fall 1: Porträt im weißen Hemd vor einem Wasserfall](cases/de/portraits.md#portraits-case-1)
   - [Fall 2: Spontane Perspektive eines heruntergefallenen Handys](cases/de/portraits.md#portraits-case-2)
@@ -308,6 +331,6 @@ Beispiele mit Marken, Figuren und Prominenten sind Konzepte der Urheber, keine o
 <a id="acknowledge"></a>
 ## 🙏 Danksagung
 
-Vielen Dank an die Kreativen, die diese Prompts und Beispiele geteilt haben: [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
+Vielen Dank an die Kreativen, die diese Prompts und Beispiele geteilt haben: [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_).
 
 Die Urheberangaben folgen den verfügbaren öffentlichen Quellen und müssen gegebenenfalls korrigiert werden. Öffne ein Issue für Quellenkorrekturen, Wünsche zur Namensnennung oder Löschanfragen; siehe [Mitwirken](CONTRIBUTING.md).

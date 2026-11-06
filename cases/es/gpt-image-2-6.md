@@ -1,8 +1,8 @@
 # GPT Image 2.6 — Casos nuevos con prompt
 
-[← Los 254 prompts](../../README_es.md)
+[← Los 259 prompts](../../README_es.md)
 
-Cuatro prompts públicos completos: dos ejemplos oficiales de edición, una animación de un creador y una comparación de versiones publicada por un creador. Los 250 casos originales de GPT Image 2.5 conservan sus números.
+Nueve prompts públicos completos: dos ejemplos oficiales de edición y siete prompts atribuidos a creadores sobre animación, edición, carteles y una comparación de versiones. Los 250 casos originales de GPT Image 2.5 conservan sus números.
 
 ## Índice
 
@@ -10,6 +10,11 @@ Cuatro prompts públicos completos: dos ejemplos oficiales de edición, una anim
   - [Caso 252: Eliminación de una flor conservando la escena](#gpt-image-2-6-case-252)
   - [Caso 253: Edición de una valla publicitaria en una tarde nevada](#gpt-image-2-6-case-253)
   - [Caso 254: Comparación de versiones: retrato con té](#gpt-image-2-6-case-254)
+  - [Caso 255: Carteles invernales con marco barroco](#gpt-image-2-6-case-255)
+  - [Caso 256: Animación limpia de un personaje estirándose](#gpt-image-2-6-case-256)
+  - [Caso 257: Pegatina de un personaje comiendo arroz](#gpt-image-2-6-case-257)
+  - [Caso 258: Edición festiva de personaje guiada por círculos](#gpt-image-2-6-case-258)
+  - [Caso 259: Animación de personaje parpadeando y balanceándose](#gpt-image-2-6-case-259)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Caso 251: [Animación orbital de la Casa Blanca](https://x.com/nima2qisi2/status/2118295936606798006) (por [@nima2qisi2](https://x.com/nima2qisi2))
@@ -101,6 +106,117 @@ El creador identifica la primera imagen como GPT Image 2.6 y la segunda como GPT
 
 ```
 a realistic photo of a woman holding a cup of tea inside her home
+```
+
+---
+
+<a id="gpt-image-2-6-case-255"></a>
+### Caso 255: [Carteles invernales con marco barroco](https://x.com/Goodmanprotocol/status/2118193088128745875) (por [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**Entrada:** Sube una imagen de una escena que tengas permiso para usar; no se facilitan las imágenes originales por separado.
+
+El creador atribuye estos resultados a GPT Image 2.6. Ambos carteles son resultados e incluyen una pequeña miniatura de referencia; no se facilitaron las imágenes originales por separado. Sube una imagen de tu propia escena que tengas permiso para usar. No se indicaron la variante, los ajustes ni los reintentos.
+
+| Resultado | Resultado 2 |
+| --- | --- |
+| <strong>Cartel de galería con muñeco de nieve</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="320" alt="Cartel de galería con muñeco de nieve"> | <strong>Cartel de galería con pueblo invernal</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193073935245312.jpg" width="320" alt="Cartel de galería con pueblo invernal"> |
+
+**Prompt:**
+
+```
+PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
+```
+
+---
+
+<a id="gpt-image-2-6-case-256"></a>
+### Caso 256: [Animación limpia de un personaje estirándose](https://x.com/MiraMusic_AI/status/2118168013618987298) (por [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+
+**Entrada:** Usa una referencia de personaje que tengas permiso para utilizar.
+
+El creador publica este prompt de animación completo en japonés junto con una ficha de personaje y la animación resultante. Usa una referencia de personaje que tengas permiso para utilizar. No se indicaron la variante, los ajustes ni los reintentos. X sirve el GIF solicitado como MP4; abre la animación enlazada para ver el movimiento.
+
+| Entrada | Resultado |
+| --- | --- |
+| <strong>Ficha de personaje del creador</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167991833759744.jpg" width="320" alt="Ficha de personaje del creador"> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4"><strong>Vista previa de la animación de estiramientos</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="320" alt="Vista previa de la animación de estiramientos"></a> |
+
+[Reproducir la animación de estiramientos del creador](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4)
+
+**Prompt:**
+
+```
+ストレッチをしているGIFを製作してください。
+仕上げはフラットでクリーンに。
+複雑な微細テクスチャ、過剰な細密描写、粒状ノイズ、ザラつき、斜めグリッド状の模様なし
+```
+
+---
+
+<a id="gpt-image-2-6-case-257"></a>
+### Caso 257: [Pegatina de un personaje comiendo arroz](https://x.com/Gorden_Sun/status/2118166046175908016) (por [@Gorden_Sun](https://x.com/Gorden_Sun))
+
+**Entrada:** Usa una referencia de personaje que tengas permiso para utilizar.
+
+El creador identifica expresamente el primer archivo adjunto como el GIF generado y el segundo como su referencia de personaje. El prompt en chino pide el texto 真香！ dentro de la imagen. Usa una referencia de personaje que tengas permiso para utilizar. No se indicaron la variante, los ajustes ni los reintentos; X sirve la animación como MP4.
+
+| Entrada | Resultado |
+| --- | --- |
+| <strong>Referencia de personaje del creador</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg" width="320" alt="Referencia de personaje del creador"> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4"><strong>Vista previa de la animación comiendo arroz</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.jpg" width="320" alt="Vista previa de la animación comiendo arroz"></a> |
+
+[Reproducir la animación del creador comiendo arroz](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4)
+
+**Prompt:**
+
+```
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+---
+
+<a id="gpt-image-2-6-case-258"></a>
+### Caso 258: [Edición festiva de personaje guiada por círculos](https://x.com/IHayato/status/2118151619212890291) (por [@IHayato](https://x.com/IHayato))
+
+**Entrada:** Proporciona una imagen de personaje con marcas rojas y azules que indiquen las ediciones solicitadas.
+
+Este es el prompt completo de edición posterior en japonés citado por el creador: añadir un gorro de Papá Noel en el círculo rojo y sustituir el libro del círculo azul por un regalo. La composición de la fuente muestra juntas la entrada marcada y la imagen editada; no se facilita una entrada sin marcas por separado. Usa tu propia imagen de personaje marcada. El creador atribuye la edición a GPT Image 2.6 sin indicar una variante.
+
+| Resultado |
+| --- |
+| <strong>Composición del creador: entrada marcada y edición festiva</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151559322419200.jpg" width="640" alt="Composición del creador: entrada marcada y edición festiva"> |
+
+**Prompt:**
+
+```
+赤丸にサンタ帽、青丸の本はプレゼントに
+```
+
+---
+
+<a id="gpt-image-2-6-case-259"></a>
+### Caso 259: [Animación de personaje parpadeando y balanceándose](https://x.com/IHayato/status/2118151619212890291) (por [@IHayato](https://x.com/IHayato))
+
+**Entrada:** Usa una referencia de personaje que tengas permiso para utilizar.
+
+Este es el prompt completo de animación posterior en japonés citado por el creador. Aporta una referencia de personaje que tengas permiso para usar; no se facilitó la entrada independiente de esta animación. La publicación también contiene una edición festiva y un gráfico de precios independientes; ninguno se usa aquí como entrada de la animación. El creador atribuye el resultado a GPT Image 2.6 sin indicar una variante. X sirve la animación como MP4.
+
+| Resultado |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4"><strong>Vista previa de la animación de parpadeo</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.jpg" width="320" alt="Vista previa de la animación de parpadeo"></a> |
+
+[Reproducir la animación de parpadeo del creador](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4)
+
+**Prompt:**
+
+```
+まばたきして、ふわっと揺れて
 ```
 
 ---

@@ -1,8 +1,8 @@
 # GPT Image 2.6 — Latest Prompt Cases
 
-[← All 254 prompts](../README.md)
+[← All 259 prompts](../README.md)
 
-Four complete public prompts: two official editing examples, one creator animation and one creator version comparison. The original 250 GPT Image 2.5 cases retain their numbers.
+Nine complete public prompts: two official editing examples and seven creator-attributed prompts covering animation, editing, posters and a version comparison. The original 250 GPT Image 2.5 cases retain their numbers.
 
 ## Menu
 
@@ -10,6 +10,12 @@ Four complete public prompts: two official editing examples, one creator animati
   - [Case 252: Flower Removal with Scene Preservation](#gpt-image-2-6-case-252)
   - [Case 253: Snowy Evening Billboard Edit](#gpt-image-2-6-case-253)
   - [Case 254: Tea Portrait Version Comparison](#gpt-image-2-6-case-254)
+
+  - [Case 255: Baroque Winter Gallery Posters](#gpt-image-2-6-case-255)
+  - [Case 256: Clean Character Stretching Animation](#gpt-image-2-6-case-256)
+  - [Case 257: Rice Bowl Character Sticker](#gpt-image-2-6-case-257)
+  - [Case 258: Circle-Guided Holiday Character Edit](#gpt-image-2-6-case-258)
+  - [Case 259: Blinking and Swaying Character Animation](#gpt-image-2-6-case-259)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Case 251: [White House Orbit Animation](https://x.com/nima2qisi2/status/2118295936606798006) (by [@nima2qisi2](https://x.com/nima2qisi2))
@@ -101,6 +107,117 @@ The creator labels the first image GPT Image 2.6 and the second GPT Image 2.5. V
 
 ```
 a realistic photo of a woman holding a cup of tea inside her home
+```
+
+---
+
+<a id="gpt-image-2-6-case-255"></a>
+### Case 255: [Baroque Winter Gallery Posters](https://x.com/Goodmanprotocol/status/2118193088128745875) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**Input:** Upload one scene image you have permission to use; standalone source inputs are not supplied.
+
+Creator-attributed GPT Image 2.6 outputs. Both posters are results, each with a small reference thumbnail; the standalone original inputs were not supplied. Upload your own scene image that you have permission to use. Variant, settings and retries were not disclosed.
+
+| Output | Output 2 |
+| --- | --- |
+| <strong>Snowman gallery poster</strong><br/><img alt="Snowman gallery poster" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="320"/> | <strong>Winter village gallery poster</strong><br/><img alt="Winter village gallery poster" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193073935245312.jpg" width="320"/> |
+
+**Prompt:**
+
+```
+PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
+```
+
+---
+
+<a id="gpt-image-2-6-case-256"></a>
+### Case 256: [Clean Character Stretching Animation](https://x.com/MiraMusic_AI/status/2118168013618987298) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+
+**Input:** Use a character reference you have permission to use.
+
+The creator publishes this complete Japanese animation prompt with a character sheet and the resulting animation. Use a character reference you have permission to use. Variant, settings and retries were not disclosed. X serves the requested GIF as MP4; use the linked animation to view motion.
+
+| Input | Output |
+| --- | --- |
+| <strong>Creator character sheet</strong><br/><img alt="Creator character sheet" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167991833759744.jpg" width="320"/> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4"><strong>Stretching animation poster</strong><br/><img alt="Stretching animation poster" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="320"/></a> |
+
+[Play the creator’s stretching animation](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4)
+
+**Prompt:**
+
+```
+ストレッチをしているGIFを製作してください。
+仕上げはフラットでクリーンに。
+複雑な微細テクスチャ、過剰な細密描写、粒状ノイズ、ザラつき、斜めグリッド状の模様なし
+```
+
+---
+
+<a id="gpt-image-2-6-case-257"></a>
+### Case 257: [Rice Bowl Character Sticker](https://x.com/Gorden_Sun/status/2118166046175908016) (by [@Gorden_Sun](https://x.com/Gorden_Sun))
+
+**Input:** Use a character reference you have permission to use.
+
+The creator explicitly identifies the first attachment as the generated GIF and the second as its character reference. The Chinese prompt asks for the on-image text 真香！. Use a character reference you have permission to use. Variant, settings and retries were not disclosed; X serves the animation as MP4.
+
+| Input | Output |
+| --- | --- |
+| <strong>Creator character reference</strong><br/><img alt="Creator character reference" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg" width="320"/> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4"><strong>Rice bowl animation poster</strong><br/><img alt="Rice bowl animation poster" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.jpg" width="320"/></a> |
+
+[Play the creator’s rice bowl animation](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4)
+
+**Prompt:**
+
+```
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+---
+
+<a id="gpt-image-2-6-case-258"></a>
+### Case 258: [Circle-Guided Holiday Character Edit](https://x.com/IHayato/status/2118151619212890291) (by [@IHayato](https://x.com/IHayato))
+
+**Input:** Supply a character image with red and blue marks indicating the requested edits.
+
+This is the complete Japanese follow-up edit prompt quoted by the creator: add a Santa hat in the red circle and replace the book in the blue circle with a present. The source composite shows the marked input and edited result together; no separate unmarked input is supplied. Use your own marked character image. The creator attributes the edit to GPT Image 2.6 without naming a variant.
+
+| Output |
+| --- |
+| <strong>Creator composite: marked input and holiday edit</strong><br/><img alt="Creator composite: marked input and holiday edit" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151559322419200.jpg" width="640"/> |
+
+**Prompt:**
+
+```
+赤丸にサンタ帽、青丸の本はプレゼントに
+```
+
+---
+
+<a id="gpt-image-2-6-case-259"></a>
+### Case 259: [Blinking and Swaying Character Animation](https://x.com/IHayato/status/2118151619212890291) (by [@IHayato](https://x.com/IHayato))
+
+**Input:** Use a character reference you have permission to use.
+
+This is the complete Japanese follow-up animation prompt quoted by the creator. Supply a character reference you have permission to use; the standalone input for this animation was not supplied. The post also contains a separate holiday edit and pricing graphic; neither is an animation input here. The creator attributes the result to GPT Image 2.6 without naming a variant. X serves the animation as MP4.
+
+| Output |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4"><strong>Blinking character animation poster</strong><br/><img alt="Blinking character animation poster" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.jpg" width="320"/></a> |
+
+[Play the creator’s blinking animation](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4)
+
+**Prompt:**
+
+```
+まばたきして、ふわっと揺れて
 ```
 
 ---

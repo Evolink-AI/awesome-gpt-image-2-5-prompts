@@ -1,6 +1,6 @@
 # Portre ve Fotoğraf
 
-[← 254 istemin tamamı](../../README_tr.md)
+[← 259 istemin tamamı](../../README_tr.md)
 
 İçerik üreticisinin görsellerini ve özgün istemin tamamını görmek için bir örnek seçin. İstemler özgün dillerinde korunmuştur.
 

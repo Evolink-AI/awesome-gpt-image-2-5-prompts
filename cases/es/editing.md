@@ -1,6 +1,6 @@
 # Edición de imágenes
 
-[← Los 254 prompts](../../README_es.md)
+[← Los 259 prompts](../../README_es.md)
 
 Elige un caso para ver las imágenes o los vídeos del creador y el prompt original completo. Los prompts conservan su idioma original.
 

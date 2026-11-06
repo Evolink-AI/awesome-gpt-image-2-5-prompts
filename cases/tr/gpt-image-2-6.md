@@ -1,8 +1,8 @@
 # GPT Image 2.6 — En Yeni İstem Örnekleri
 
-[← Tüm 254 istem](../../README_tr.md)
+[← Tüm 259 istem](../../README_tr.md)
 
-Herkese açık dört eksiksiz istem: iki resmî düzenleme örneği, bir üretici animasyonu ve bir üretici sürüm karşılaştırması. Özgün 250 GPT Image 2.5 örneğinin numaraları korunur.
+Herkese açık dokuz eksiksiz istem: iki resmî düzenleme örneği ve animasyon, düzenleme, posterler ile bir sürüm karşılaştırmasını kapsayan, üreticilere atfedilen yedi istem. Özgün 250 GPT Image 2.5 örneğinin numaraları korunur.
 
 ## İçindekiler
 
@@ -10,6 +10,11 @@ Herkese açık dört eksiksiz istem: iki resmî düzenleme örneği, bir üretic
   - [Örnek 252: Sahneyi Koruyarak Çiçeği Kaldırma](#gpt-image-2-6-case-252)
   - [Örnek 253: Reklam Panosunu Karlı Akşama Dönüştürme](#gpt-image-2-6-case-253)
   - [Örnek 254: Çay Portresi Sürüm Karşılaştırması](#gpt-image-2-6-case-254)
+  - [Örnek 255: Barok Çerçeveli Kış Galerisi Posterleri](#gpt-image-2-6-case-255)
+  - [Örnek 256: Temiz Stilde Esneyen Karakter Animasyonu](#gpt-image-2-6-case-256)
+  - [Örnek 257: Pilav Yiyen Karakter Çıkartması](#gpt-image-2-6-case-257)
+  - [Örnek 258: Dairelerle Yönlendirilen Noel Karakter Düzenlemesi](#gpt-image-2-6-case-258)
+  - [Örnek 259: Göz Kırpan ve Sallanan Karakter Animasyonu](#gpt-image-2-6-case-259)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Örnek 251: [Beyaz Saray Çevresinde Dönüş Animasyonu](https://x.com/nima2qisi2/status/2118295936606798006) (yazan [@nima2qisi2](https://x.com/nima2qisi2))
@@ -101,6 +106,117 @@ Make it look like a winter evening with snowfall.
 
 ```
 a realistic photo of a woman holding a cup of tea inside her home
+```
+
+---
+
+<a id="gpt-image-2-6-case-255"></a>
+### Örnek 255: [Barok Çerçeveli Kış Galerisi Posterleri](https://x.com/Goodmanprotocol/status/2118193088128745875) (yazan [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**Girdi:** Kullanma izniniz olan bir sahne görseli yükleyin; özgün girdi görselleri ayrı olarak sunulmuyor.
+
+Üretici bu çıktıları GPT Image 2.6 ile ilişkilendiriyor. İki poster de sonuç görselidir ve her birinde küçük bir referans önizlemesi vardır; özgün girdi görselleri ayrı olarak sunulmamıştır. Kullanma izniniz olan kendi sahne görselinizi yükleyin. Model varyantı, ayarlar ve yeniden denemeler açıklanmamıştır.
+
+| Çıktı | Çıktı 2 |
+| --- | --- |
+| <strong>Kardan adamlı galeri posteri</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="320" alt="Kardan adamlı galeri posteri"> | <strong>Kış köyü galeri posteri</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193073935245312.jpg" width="320" alt="Kış köyü galeri posteri"> |
+
+**İstem:**
+
+```
+PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
+```
+
+---
+
+<a id="gpt-image-2-6-case-256"></a>
+### Örnek 256: [Temiz Stilde Esneyen Karakter Animasyonu](https://x.com/MiraMusic_AI/status/2118168013618987298) (yazan [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+
+**Girdi:** Kullanma izniniz olan bir karakter referansı kullanın.
+
+Üretici, Japonca eksiksiz animasyon istemini bir karakter paftası ve ortaya çıkan animasyonla birlikte yayımlıyor. Kullanma izniniz olan bir karakter referansı kullanın. Model varyantı, ayarlar ve yeniden denemeler açıklanmamıştır. X, istenen GIF’i MP4 olarak sunar; hareketi görmek için bağlantılı animasyonu açın.
+
+| Girdi | Çıktı |
+| --- | --- |
+| <strong>Üreticinin karakter paftası</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167991833759744.jpg" width="320" alt="Üreticinin karakter paftası"> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4"><strong>Esneme animasyonu önizlemesi</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="320" alt="Esneme animasyonu önizlemesi"></a> |
+
+[Üreticinin esneme animasyonunu oynatın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.mp4)
+
+**İstem:**
+
+```
+ストレッチをしているGIFを製作してください。
+仕上げはフラットでクリーンに。
+複雑な微細テクスチャ、過剰な細密描写、粒状ノイズ、ザラつき、斜めグリッド状の模様なし
+```
+
+---
+
+<a id="gpt-image-2-6-case-257"></a>
+### Örnek 257: [Pilav Yiyen Karakter Çıkartması](https://x.com/Gorden_Sun/status/2118166046175908016) (yazan [@Gorden_Sun](https://x.com/Gorden_Sun))
+
+**Girdi:** Kullanma izniniz olan bir karakter referansı kullanın.
+
+Üretici ilk eki oluşturulan GIF, ikinci eki ise karakter referansı olarak açıkça tanımlıyor. Çince istem, görselin içinde 真香！ yazısını istiyor. Kullanma izniniz olan bir karakter referansı kullanın. Model varyantı, ayarlar ve yeniden denemeler açıklanmamıştır; X animasyonu MP4 olarak sunar.
+
+| Girdi | Çıktı |
+| --- | --- |
+| <strong>Üreticinin karakter referansı</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg" width="320" alt="Üreticinin karakter referansı"> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4"><strong>Pilav animasyonu önizlemesi</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.jpg" width="320" alt="Pilav animasyonu önizlemesi"></a> |
+
+[Üreticinin pilav animasyonunu oynatın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118165970133168129.mp4)
+
+**İstem:**
+
+```
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+---
+
+<a id="gpt-image-2-6-case-258"></a>
+### Örnek 258: [Dairelerle Yönlendirilen Noel Karakter Düzenlemesi](https://x.com/IHayato/status/2118151619212890291) (yazan [@IHayato](https://x.com/IHayato))
+
+**Girdi:** İstenen düzenlemeleri gösteren kırmızı ve mavi işaretler içeren bir karakter görseli sağlayın.
+
+Bu, üreticinin alıntıladığı eksiksiz Japonca takip düzenleme istemidir: kırmızı daireye Noel Baba şapkası eklemek ve mavi dairedeki kitabı hediyeyle değiştirmek. Kaynak bileşik görsel, işaretli girdiyi ve düzenlenmiş sonucu birlikte gösterir; işaretsiz girdi ayrı olarak sunulmamıştır. Kendi işaretli karakter görselinizi kullanın. Üretici düzenlemeyi GPT Image 2.6 ile ilişkilendiriyor ancak varyant belirtmiyor.
+
+| Çıktı |
+| --- |
+| <strong>Üreticinin bileşik görseli: işaretli girdi ve Noel düzenlemesi</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151559322419200.jpg" width="640" alt="Üreticinin bileşik görseli: işaretli girdi ve Noel düzenlemesi"> |
+
+**İstem:**
+
+```
+赤丸にサンタ帽、青丸の本はプレゼントに
+```
+
+---
+
+<a id="gpt-image-2-6-case-259"></a>
+### Örnek 259: [Göz Kırpan ve Sallanan Karakter Animasyonu](https://x.com/IHayato/status/2118151619212890291) (yazan [@IHayato](https://x.com/IHayato))
+
+**Girdi:** Kullanma izniniz olan bir karakter referansı kullanın.
+
+Bu, üreticinin alıntıladığı eksiksiz Japonca takip animasyon istemidir. Kullanma izniniz olan bir karakter referansı sağlayın; bu animasyonun bağımsız girdi görseli sunulmamıştır. Paylaşımda ayrıca ayrı bir Noel düzenlemesi ve fiyat grafiği vardır; bunların hiçbiri burada animasyon girdisi değildir. Üretici sonucu GPT Image 2.6 ile ilişkilendiriyor ancak varyant belirtmiyor. X animasyonu MP4 olarak sunar.
+
+| Çıktı |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4"><strong>Göz kırpan karakter animasyonu önizlemesi</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.jpg" width="320" alt="Göz kırpan karakter animasyonu önizlemesi"></a> |
+
+[Üreticinin göz kırpma animasyonunu oynatın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.mp4)
+
+**İstem:**
+
+```
+まばたきして、ふわっと揺れて
 ```
 
 ---

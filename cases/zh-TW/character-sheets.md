@@ -1,6 +1,6 @@
 # 角色設定與設計
 
-[← 全部250條提示詞](../../README_zh-TW.md)
+[← 全部254條提示詞](../../README_zh-TW.md)
 
 選擇案例，即可查看創作者公開的圖片、影片與完整提示詞原文。提示詞保留原始語言。
 
@@ -105,6 +105,8 @@ COLOR PALETTE: Deep navy, volcanic red, white.
 OVERALL: Clean white background, deep navy and volcanic red watercolor explosion radiating behind both characters, faint dinosaur silhouettes in background, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-53"></a>
 ### 案例 53: [豆豆先生與康納麥葛瑞格角色設定表](https://x.com/TechieBySA/status/2108521171800973435) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -131,6 +133,8 @@ RIGHT SIDE — MCGREGOR: Bold dramatic emerald green watercolor splash radiating
 BOTTOM CENTER: Bold text THE BEAN VS THE NOTORIOUS in emerald green. Tagline: ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER BEEN IN ONE. SAME RESULT.
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic emerald green watercolor explosion right side, dramatic green center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-54"></a>
 ### 案例 54: [Mira角色設定表](https://x.com/mehwishkiran07/status/2108378073498571029) (作者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -244,6 +248,8 @@ Important:
 The woman must be the EXACT SAME PERSON in every panel. Preserve identical face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle and overall identity across all expressions, angles, close-ups and outfit references. No duplicate faces, no distorted features, no extra fingers, no extra limbs, no text errors, no watermark.
 ```
 
+---
+
 <a id="character-sheets-case-55"></a>
 ### 案例 55: [Ben 10角色設定表](https://x.com/TechieBySA/status/2108250248879788117) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -272,6 +278,8 @@ BOTTOM CENTER: Bold large text in dark green. Tagline: ONE WATCH. TEN ALIENS. IN
 OVERALL: Clean white background, unified bright green and dark green watercolor explosion behind both characters, thin white outline around the young boy so he pops clearly against the green background, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-56"></a>
 ### 案例 56: [卜派與金剛角色設定表](https://x.com/TechieBySA/status/2108211811421925617) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -299,6 +307,8 @@ BOTTOM CENTER: Bold text POPEYE VS KING KONG in deep navy. Tagline: SIZE DOESN'T
 OVERALL: Clean white background, bold dramatic deep navy watercolor explosion left side, bold dramatic dark brown watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-57"></a>
 ### 案例 57: [豆豆先生與摩登大聖角色設定表](https://x.com/TechieBySA/status/2108156271048130705) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -325,6 +335,8 @@ RIGHT SIDE — THE MASK: Bold dramatic bright yellow watercolor splash radiating
 BOTTOM CENTER: Bold text THE BEAN VS THE MASK in bright yellow. Tagline: ONE IS COMPLETELY OBLIVIOUS. ONE IS COMPLETELY UNHINGED. SAME RESULT.
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic bright yellow watercolor explosion right side, dramatic yellow center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-58"></a>
 ### 案例 58: [Faizan角色設定表](https://x.com/mehwishkiran07/status/2108024895804481648) (作者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -472,6 +484,8 @@ Photorealistic live-action character photography, cinematic realism, premium Hol
 IMPORTANT:
 The same character must appear in every panel. Preserve exact facial identity, hairstyle, eye color, skin tone, facial structure, body proportions, clothing, and overall appearance across all views and expressions. No identity changes, no different person, no duplicate variations.
 ```
+
+---
 
 <a id="character-sheets-case-59"></a>
 ### 案例 59: [Mehwish角色設定表](https://x.com/mehwishkiran07/status/2108024891471761791) (作者 [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -653,6 +667,8 @@ No visible tattoos or scars.
 Keep the character highly consistent across all views, expressions, poses, and details.
 ```
 
+---
+
 <a id="character-sheets-case-60"></a>
 ### 案例 60: [卜派角色設定表](https://x.com/TechieBySA/status/2107893068770767068) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -681,6 +697,8 @@ COLOR PALETTE: Deep red, dark navy, white.
 OVERALL: Clean white background, deep red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-61"></a>
 ### 案例 61: [Atom與Charlie角色設定表](https://x.com/TechieBySA/status/2107853186438427065) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -707,6 +725,8 @@ CHARACTERS: Atom on the left — heavily battle scarred gunmetal grey robot, squ
 BOTTOM CENTER: Bold large text REAL STEEL in deep blue industrial font. Below smaller text: THE ARENA. THE FIGHT. Below that tagline: HE BELIEVED IN THE MACHINE. THE MACHINE BELIEVED BACK.
 OVERALL: Clean white background, bold dramatic blue and grey watercolor splash radiating behind both characters, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-62"></a>
 ### 案例 62: [豆豆先生與成龍角色設定表](https://x.com/TechieBySA/status/2107794864586756308) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -735,6 +755,8 @@ BOTTOM CENTER: Bold text THE BEAN VS THE MASTER in deep gold. Tagline: ONE USES 
 OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic deep gold watercolor explosion right side, dramatic gold center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-63"></a>
 ### 案例 63: [葉問與麥克泰森角色設定表](https://x.com/TechieBySA/status/2107523538718499051) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -761,6 +783,8 @@ RIGHT SIDE — MIKE TYSON: Bold dramatic crisp white watercolor splash radiating
 BOTTOM CENTER: Bold text WING CHUN VS BOXING in deep red. Tagline: THREE MINUTES. THAT'S ALL HE ASKED FOR.
 OVERALL: Clean white background, bold dramatic deep black watercolor explosion left side, bold dramatic crisp white watercolor explosion right side outlined in black, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-64"></a>
 ### 案例 64: [Rama角色設定表](https://x.com/TechieBySA/status/2107486202647462305) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -791,6 +815,8 @@ COLOR PALETTE: Deep red, deep black, white.
 OVERALL: Clean white background, deep red and deep black watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-65"></a>
 ### 案例 65: [約翰維克與豆豆先生角色設定表](https://x.com/TechieBySA/status/2107432291785945480) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -820,6 +846,8 @@ BELOW THAT: Smaller text tagline — ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER B
 COLOR PALETTE: Deep red, deep black, white.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion behind both characters, New York skyline left, London skyline and Mini right, characters large and dominant filling most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-66"></a>
 ### 案例 66: [阿基里斯角色設定表](https://x.com/TechieBySA/status/2107171765944242546) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -856,6 +884,8 @@ COLOR PALETTE: Deep gold, burnt orange, silver, white.
 OVERALL: Clean white background, deep gold and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-67"></a>
 ### 案例 67: [成龍與李連杰角色設定表](https://x.com/TechieBySA/status/2107128238719852852) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -882,6 +912,8 @@ RIGHT SIDE — JET LI: Bold dramatic deep black watercolor splash radiating behi
 BOTTOM CENTER: Bold text HONG KONG VS BEIJING in deep black. Tagline: ONE FIGHTS WITH EVERYTHING AROUND HIM. ONE NEEDS NOTHING.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion left side, bold dramatic deep black watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, no outlines or strokes around any text, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-68"></a>
 ### 案例 68: [雙角色參考設定表](https://x.com/TechieBySA/status/2107073058280276339) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -910,6 +942,8 @@ BOTTOM CENTER: Bold text THE CHEF VS THE BEAN in bright red. Tagline: ONE MICHEL
 OVERALL: Clean white background, bold dramatic crisp white watercolor explosion left side, bold dramatic bright red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-69"></a>
 ### 案例 69: [參考照片角色設定表](https://x.com/1banana2546/status/2106866959300092369) (作者 [@1banana2546](https://x.com/1banana2546))
 
@@ -924,6 +958,8 @@ OVERALL: Clean white background, bold dramatic crisp white watercolor explosion 
 ```
 画像1のキャラで画像2みたいなリファレンスシートを作って
 ```
+
+---
 
 <a id="character-sheets-case-70"></a>
 ### 案例 70: [馬可斯菲尼克斯角色設定表](https://x.com/TechieBySA/status/2106804071512617020) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -953,6 +989,8 @@ COLOR PALETTE: Dark grey, blood red, brown, white.
 OVERALL: Clean white background, dark grey and blood red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-71"></a>
 ### 案例 71: [豆豆先生角色設定表](https://x.com/TechieBySA/status/2106770926847107507) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -981,6 +1019,8 @@ COLOR PALETTE: Bright red, black, white, checkered.
 OVERALL: Clean white background, bright red watercolor explosion left side fading into black and white checkered flag pattern right side, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-72"></a>
 ### 案例 72: [李小龍與豆豆先生角色設定表](https://x.com/TechieBySA/status/2106702675253383494) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1008,6 +1048,8 @@ BOTTOM CENTER: Bold text THE DRAGON VS THE BEAN in bright yellow. Tagline: ONE O
 OVERALL: Clean white background, bold dramatic bright yellow watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-73"></a>
 ### 案例 73: [高登拉姆齊廚房角色設定表](https://x.com/TechieBySA/status/2106437712337113577) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1034,6 +1076,8 @@ RIGHT SIDE — THE FOUR: Bold dramatic deep red watercolor splash radiating behi
 BOTTOM CENTER: Bold text NOT. GOOD. ENOUGH. in deep red. Tagline: HE FACED THE MOST DANGEROUS MEN ALIVE. NONE OF THEM COULD COOK.
 OVERALL: Clean white background, bold dramatic crisp white watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-74"></a>
 ### 案例 74: [約翰克里西角色設定表](https://x.com/TechieBySA/status/2106395410327564512) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1063,6 +1107,8 @@ COLOR PALETTE: Deep grey, burnt orange, white.
 OVERALL: Clean white background, deep grey and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-75"></a>
 ### 案例 75: [約翰維克與豆豆先生參考表](https://x.com/TechieBySA/status/2106342387698036839) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1089,6 +1135,8 @@ RIGHT SIDE — MR BEAN: Bold dramatic bright red watercolor splash radiating beh
 BOTTOM CENTER: Bold text THE BOOGEYMAN VS THE BEAN in bright red. Tagline: ONE HAS NEVER LOST A FIGHT. ONE HAS NEVER BEEN IN ONE.
 OVERALL: Clean white background, bold dramatic deep black watercolor explosion left side, bold dramatic bright red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-76"></a>
 ### 案例 76: [Selene角色設定表](https://x.com/TechieBySA/status/2106077907969851743) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1118,6 +1166,8 @@ COLOR PALETTE: Deep black, electric blue, white.
 OVERALL: Clean white background, deep black and electric blue watercolor splash radiating behind her, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-77"></a>
 ### 案例 77: [艾佛瑞德波登角色設定表](https://x.com/TechieBySA/status/2106032316220895460) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1146,6 +1196,8 @@ COLOR PALETTE: Deep navy, deep black, white.
 OVERALL: Clean white background, deep navy and deep black watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-78"></a>
 ### 案例 78: [李小龍與成龍角色設定表](https://x.com/TechieBySA/status/2105987097504989297) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1172,6 +1224,8 @@ RIGHT SIDE — JACKIE CHAN: Bold dramatic deep red watercolor splash radiating b
 BOTTOM CENTER: Bold text THE DRAGON VS THE MASTER in deep red. Tagline: ONE FIGHTS WITH PRECISION. ONE FIGHTS WITH EVERYTHING ELSE.
 OVERALL: Clean white background, bold dramatic bright yellow watercolor explosion left side, bold dramatic deep red watercolor explosion right side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-79"></a>
 ### 案例 79: [傑瑞藍恩角色設定表](https://x.com/TechieBySA/status/2105711388224032919) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1201,6 +1255,8 @@ COLOR PALETTE: Deep navy blue, burnt orange, khaki, white.
 OVERALL: Clean white background, deep navy blue and burnt orange watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-80"></a>
 ### 案例 80: [詹姆士龐德角色設定表](https://x.com/TechieBySA/status/2105668470583050602) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1229,6 +1285,8 @@ COLOR PALETTE: Deep black, deep gold, white.
 OVERALL: Clean white background, deep black and deep gold watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-81"></a>
 ### 案例 81: [尼歐與約翰維克角色設定表](https://x.com/TechieBySA/status/2105619699820044329) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1255,6 +1313,8 @@ RIGHT SIDE — JOHN WICK: Bold dramatic deep red watercolor splash radiating beh
 BOTTOM CENTER: Bold text ONE BENDS REALITY. ONE DOESN'T NEED TO. in deep red.
 OVERALL: Clean white background, bold dramatic deep red watercolor explosion right side, bold dramatic falling green Matrix digital code left side, dramatic red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-82"></a>
 ### 案例 82: [T-800角色設定表](https://x.com/TechieBySA/status/2105307488744571211) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1284,6 +1344,8 @@ COLOR PALETTE: Deep black, deep red, silver, white.
 OVERALL: Clean white background, deep black and deep red watercolor splash radiating behind him, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-83"></a>
 ### 案例 83: [李小龍與約翰維克角色設定表](https://x.com/TechieBySA/status/2105256780565492165) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1310,6 +1372,8 @@ RIGHT SIDE — JOHN WICK: Deep black watercolor splash behind him fading into ce
 BOTTOM CENTER: Color palette — bright yellow, black, white. Tagline: THE FASTEST HANDS ALIVE VS THE DEADLIEST MAN ALIVE.
 OVERALL: Clean white background, bright yellow watercolor left, deep black watercolor right, dramatic center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-84"></a>
 ### 案例 84: [泰勒雷克角色設定表](https://x.com/TechieBySA/status/2104944751766065348) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1340,6 +1404,8 @@ COLOR PALETTE: Warm gold, deep olive green, black, white.
 OVERALL: Clean white background, warm golden and deep olive green watercolor splash centered behind Tyler radiating outward, deep olive green and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-85"></a>
 ### 案例 85: [浴血任務角色設定表](https://x.com/TechieBySA/status/2104896373321507030) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1366,6 +1432,8 @@ BOTTOM CENTER: Tagline centered in deep blood red: WHEN YOU ABSOLUTELY HAVE TO D
 COLOR PALETTE: Deep black, blood red, white.
 OVERALL: Clean white background, deep black and blood red watercolor splash behind all five characters together radiating outward, blood red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-86"></a>
 ### 案例 86: [尼歐與莫菲斯角色設定表](https://x.com/TechieBySA/status/2104623035009347974) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1400,6 +1468,8 @@ BOTTOM CENTER: Color palette — deep matrix green, deep navy blue, black, white
 OVERALL: Clean white background, falling Matrix digital code in deep muted green behind Neo on the left, deep navy blue watercolor behind Morpheus on the right, bold dramatic THE MATRIX text center, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-87"></a>
 ### 案例 87: [Chon與Roy角色設定表](https://x.com/TechieBySA/status/2104534785011974532) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1432,6 +1502,8 @@ BOTTOM CENTER: Color palette — deep red, brown, sky blue, tan, white. Tagline 
 
 OVERALL: Clean white background, deep red and brown watercolor left side, sky blue and tan watercolor right side, bold dramatic SHANGHAI NOON text center, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-88"></a>
 ### 案例 88: [麥希穆斯角色設定表](https://x.com/TechieBySA/status/2104216397387624745) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1476,6 +1548,8 @@ COLOR PALETTE: Deep gold, deep crimson red, black, white.
 
 OVERALL: Clean white background, deep gold and deep crimson red watercolor splash centered behind Maximus radiating outward, deep crimson red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-89"></a>
 ### 案例 89: [可自訂的真人風格角色設定表](https://x.com/GeekCatX/status/2104135797280752081) (作者 [@GeekCatX](https://x.com/GeekCatX))
@@ -1546,6 +1620,8 @@ OVERALL: Clean white background, deep gold and deep crimson red watercolor splas
 所有模块中的角色必须为同一人物，五官、髮型、肤色、身材、服装、鞋靴、配饰、光影、材质完全一致，不得出现角色漂移或视图差异。
 ```
 
+---
+
 <a id="character-sheets-case-90"></a>
 ### 案例 90: [Jackie角色設定表](https://x.com/TechieBySA/status/2103902027218592010) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1588,6 +1664,8 @@ COLOR PALETTE: Bright red, white, black.
 
 OVERALL: Clean white background, bright red and white watercolor splash centered behind Jackie radiating outward, bright red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-91"></a>
 ### 案例 91: [新娘角色設定表](https://x.com/TechieBySA/status/2103852769605992813) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1632,6 +1710,8 @@ COLOR PALETTE: Bright yellow, deep black, white.
 OVERALL: Clean white background, bright yellow and black watercolor splash centered behind her radiating outward, deep black and yellow typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-92"></a>
 ### 案例 92: [獨行俠角色設定表](https://x.com/TechieBySA/status/2103805475116532149) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1673,6 +1753,8 @@ COLOR PALETTE: Navy blue, warm gold, olive green, black, white.
 
 OVERALL: Clean white background, navy blue and warm gold watercolor splash centered behind Maverick radiating outward, navy blue and warm gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-93"></a>
 ### 案例 93: [東尼蒙大拿角色設定表](https://x.com/TechieBySA/status/2103492759357174060) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1717,6 +1799,8 @@ COLOR PALETTE: Crisp white, deep crimson red, gold, black.
 OVERALL: Clean white background, crisp white and deep crimson red watercolor splash centered behind Tony radiating outward, deep crimson red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-94"></a>
 ### 案例 94: [尼歐與史密斯探員角色設定表](https://x.com/TechieBySA/status/2103172404537143403) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1750,6 +1834,8 @@ BOTTOM CENTER: Color palette — deep matrix green, cold silver, black, white. T
 OVERALL: Clean white background, falling Matrix digital code in deep muted green behind Neo on the left, cold silver watercolor behind Agent Smith on the right, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-95"></a>
 ### 案例 95: [麥克連角色設定表](https://x.com/TechieBySA/status/2102777689434120432) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1780,6 +1866,8 @@ BOTTOM CENTER: Bold text DIE HARD in deep red slightly worn. Below it small text
 
 OVERALL: Clean white background, red and gold watercolor splash centered behind McClane radiating outward, deep red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-96"></a>
 ### 案例 96: [李小龍與葉問角色設定表](https://x.com/TechieBySA/status/2102719679642943870) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -1814,6 +1902,8 @@ BOTTOM CENTER: Color palette — bright yellow, black, deep charcoal, white. Tag
 OVERALL: Clean white background, bright yellow and black watercolor left side, deep charcoal watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-97"></a>
 ### 案例 97: [布萊恩與維克角色設定表](https://x.com/TechieBySA/status/2102398939290816708) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -1847,6 +1937,8 @@ BOTTOM CENTER: Color palette — deep charcoal, dark grey, deep crimson, black, 
 OVERALL: Clean white background, dark charcoal watercolor left side, deep crimson watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-98"></a>
 ### 案例 98: [男性多視角角色設定表](https://x.com/Arzoo12sh/status/2102350378633420971) (作者 [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -1865,6 +1957,8 @@ OVERALL: Clean white background, dark charcoal watercolor left side, deep crimso
 ```
 Create a high-resolution professional character sheet of the same young man from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. He wears a navy blue sweatshirt, black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding a clear cup of yellow iced drink. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.
 ```
+
+---
 
 <a id="character-sheets-case-99"></a>
 ### 案例 99: [參考臉孔雜誌風角色設定表](https://x.com/Alina_with_Ai/status/2102234492761243885) (作者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -1978,6 +2072,8 @@ Add tasteful editorial typography:
 Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.
 ```
 
+---
+
 <a id="character-sheets-case-100"></a>
 ### 案例 100: [Isla角色設定表](https://x.com/TechieBySA/status/2102089391153860926) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2033,6 +2129,8 @@ BOTTOM: Tagline centered — THE WALL WAS BLANK. IT WON'T BE FOR LONG.
 OVERALL: Warm off-white background, neon pink and green watercolor ink circle behind the poses, clean minimal editorial typography in deep black, neon paint splatter details throughout, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle streetwear character bible.
 ```
 
+---
+
 <a id="character-sheets-case-101"></a>
 ### 案例 101: [Frank角色設定表](https://x.com/TechieBySA/status/2102040622857134127) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2063,6 +2161,8 @@ BOTTOM CENTER: Bold text THE TRANSPORTER in deep black slightly worn. Below it s
 
 OVERALL: Clean white background, crimson red and black watercolor splash centered behind Frank radiating outward, deep crimson red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-102"></a>
 ### 案例 102: [克里斯蒂亞諾羅納度角色設定表](https://x.com/Alina_with_Ai/status/2101991381413892150) (作者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
@@ -2181,6 +2281,8 @@ full-body turnaround + facial expressions + football action poses + equipment de
 Make it look like an authentic high-end professional sports character bible, not a generic AI collage.
 ```
 
+---
+
 <a id="character-sheets-case-103"></a>
 ### 案例 103: [成年女性角色參考表](https://x.com/Alina_with_Ai/status/2101869350366191729) (作者 [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -2275,6 +2377,8 @@ IMPORTANT:
 The same adult female character must remain visually identical throughout the entire sheet. No changes to face, facial proportions, hairstyle, hair color, body shape, age, skin tone, outfit design, or accessories between panels. Make the sheet highly detailed, organized, readable, and suitable as a character reference for future AI image and video generation.
 ```
 
+---
+
 <a id="character-sheets-case-104"></a>
 ### 案例 104: [露西亞與傑森角色設定表](https://x.com/TechieBySA/status/2101678773703754189) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2307,6 +2411,8 @@ BOTTOM CENTER: Color palette — coral pink, turquoise, golden yellow, hot orang
 
 OVERALL: Clean white background, coral pink and turquoise watercolor left side, golden yellow and hot orange watercolor right side, bold dramatic GTA VI center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-105"></a>
 ### 案例 105: [J與K角色設定表](https://x.com/TechieBySA/status/2101629652741624268) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -2358,6 +2464,8 @@ BOTTOM CENTER: Color palette — deep black, white, electric blue, dark grey. Ta
 OVERALL: Warm off-white background, deep black ink brush circle behind both characters, clean minimal editorial typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle character bible.
 ```
 
+---
+
 <a id="character-sheets-case-106"></a>
 ### 案例 106: [伊森角色設定表](https://x.com/TechieBySA/status/2101266498266313185) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2389,6 +2497,8 @@ BOTTOM CENTER: Movie title MISSION IMPOSSIBLE in bold dark navy slightly worn. B
 OVERALL: Clean white background, dark navy watercolor splash centered behind Ethan radiating outward, dark navy typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-107"></a>
 ### 案例 107: [傑森包恩角色設定表](https://x.com/TechieBySA/status/2100955490674987274) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2417,6 +2527,8 @@ BOTTOM CENTER: Bold dramatic JASON BOURNE in deep dark navy, slightly worn. Belo
 
 OVERALL: Clean white background, bold controlled deep dark navy watercolor splash centered behind Bourne, Bourne centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-108"></a>
 ### 案例 108: [尼曼角色設定表](https://x.com/TechieBySA/status/2100907108573024578) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -2449,6 +2561,8 @@ BOTTOM CENTER: Movie title WHIPLASH in bold deep black slightly worn. Below it s
 OVERALL: Clean white background, golden yellow watercolor splash centered behind Neiman radiating outward, deep black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-109"></a>
 ### 案例 109: [怪奇物語團體角色設定表](https://x.com/TechieBySA/status/2100548638413930687) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2480,6 +2594,8 @@ BOTTOM CENTER: Bold dramatic STRANGER THINGS in deep red, slightly worn. Below i
 OVERALL: Clean white background, deep red watercolor splash behind the entire group radiating outward, subtle gate red glow at the edges of the image, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-110"></a>
 ### 案例 110: [傑克與索耶角色設定表](https://x.com/TechieBySA/status/2100278579464417333) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2507,6 +2623,8 @@ RIGHT SIDE — SAWYER: Green watercolor splash behind him fading into center. La
 BOTTOM CENTER: Color palette — deep blue, deep green, jungle black, white. Tagline centered: WE HAVE TO GO BACK.
 OVERALL: Clean white background, blue watercolor left side, green watercolor right side, dramatic blue center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography except the official LOST logotype in the center, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 ```
+
+---
 
 <a id="character-sheets-case-111"></a>
 ### 案例 111: [李與卡特角色設定表](https://x.com/TechieBySA/status/2100226095320580331) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -2541,6 +2659,8 @@ BOTTOM CENTER: Color palette — deep red, deep navy, black, white, warm skin to
 OVERALL: Clean white background, deep red bold painterly brushstroke splash left side, deep navy bold painterly brushstroke splash right side, dramatic deep red center divider, bold painterly illustration style throughout matching uploaded character sheets exactly — angular geometric color blocking, hard edge shadows, visible brushwork, gouache texture, flat color planes, graphic novel quality, not photorealistic not standard anime not cartoon, minimal clean editorial typography, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-112"></a>
 ### 案例 112: [洛基與德拉戈角色設定表](https://x.com/TechieBySA/status/2100177122916454655) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2574,6 +2694,8 @@ BOTTOM CENTER: Color palette — bold red, white, blue, deep gold, black. Taglin
 OVERALL: Clean white background, red white and blue watercolor left side, deep gold watercolor right side, dramatic deep red center divider, size difference between Rocky and Drago dramatically visible, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-113"></a>
 ### 案例 113: [藍波角色設定表](https://x.com/TechieBySA/status/2099865500746485837) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2602,6 +2724,8 @@ BOTTOM CENTER: Bold dramatic RAMBO in deep army green, slightly worn. Below it s
 
 OVERALL: Clean white background, bold controlled deep red watercolor splash centered behind Rambo, Rambo centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-114"></a>
 ### 案例 114: [星界傀儡師Ophelia角色設定表](https://x.com/itsPixieVerse/status/2099712708908319052) (作者 [@itsPixieVerse](https://x.com/itsPixieVerse))
@@ -2639,6 +2763,8 @@ Layout Composition:
 3. RIGHT PANEL: 4 dynamic pose studies (pulling gravity threads, levitating above ground, cloak billowing wide, adjusting hat) with handwritten labels. 4. BOTTOM RIGHT PANEL: 5 square detail crops (visor gold glyphs, orbital halo sphere, black prosthetic hand/strings, gown drape, platform heels).
 ```
 
+---
+
 <a id="character-sheets-case-115"></a>
 ### 案例 115: [約翰維克角色設定表](https://x.com/TechieBySA/status/2099502876166947252) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2667,6 +2793,8 @@ BOTTOM CENTER: Bold dramatic JOHN WICK in deep black, slightly worn. Below it sm
 
 OVERALL: Clean white background, bold controlled deep red watercolor splash centered behind John, John centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-116"></a>
 ### 案例 116: [主廚與貓角色設定表](https://x.com/TechieBySA/status/2099460145449185433) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -2701,6 +2829,8 @@ BOTTOM CENTER: Color palette — clean white, warm orange, deep red, black. Tagl
 OVERALL: Clean white background, white watercolor left side, warm orange watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-117"></a>
 ### 案例 117: [雙格鬥家角色設定表](https://x.com/TechieBySA/status/2099188504416936155) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2734,6 +2864,8 @@ BOTTOM CENTER: Color palette — electric blue, jet black, deep red, white. Tagl
 OVERALL: Clean white background, electric blue watercolor left side, jet black watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-118"></a>
 ### 案例 118: [布萊恩米爾斯角色設定表](https://x.com/TechieBySA/status/2099139896438919623) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2763,6 +2895,8 @@ BOTTOM CENTER: Bold dramatic TAKEN in deep red, slightly worn. Below it small te
 OVERALL: Clean white background, deep red watercolor splash behind Bryan, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-119"></a>
 ### 案例 119: [Robert與Sam角色設定表](https://x.com/TechieBySA/status/2099095652638581123) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2789,6 +2923,8 @@ RIGHT SIDE — SAM: Warm tan watercolor splash behind her fading into center. La
 BOTTOM CENTER: Color palette — dark grey, warm tan, blood red, white, black. Tagline centered: THE LAST OF US IS NOT ALONE.
 OVERALL: Clean white background, dark grey watercolor left side, warm tan watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---
 
 <a id="character-sheets-case-120"></a>
 ### 案例 120: [菲爾、史都與艾倫角色設定表](https://x.com/TechieBySA/status/2098779184550002853) (作者 [@TechieBySA](https://x.com/TechieBySA))
@@ -2823,6 +2959,8 @@ BOTTOM CENTER: Bold dramatic THE HANGOVER in deep red, slightly worn. Below it s
 OVERALL: Clean white background, white watercolor far left, dark navy watercolor center, bright orange watercolor far right, bold dramatic dividing elements between each character, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
+---
+
 <a id="character-sheets-case-121"></a>
 ### 案例 121: [瑞克與戴瑞角色設定表](https://x.com/TechieBySA/status/2098731888617689164) (作者 [@TechieBySA](https://x.com/TechieBySA))
 
@@ -2855,3 +2993,5 @@ BOTTOM CENTER: Color palette — tan khaki, gold, dark grey, blood red, black. T
 
 OVERALL: Clean white background, tan watercolor left side, dark grey watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
+
+---

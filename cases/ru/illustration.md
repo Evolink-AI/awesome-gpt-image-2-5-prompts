@@ -1,6 +1,6 @@
 # Иллюстрации и плакаты
 
-[← Все 250 промптов](../../README_ru.md)
+[← Все 254 промптов](../../README_ru.md)
 
 Выберите пример, чтобы увидеть материалы автора и полный исходный промпт. Промпты сохранены на языке оригинала.
 
@@ -111,6 +111,8 @@ No text, labels, borders, or watermarks.
 Final result: A visually extraordinary yet convincing photorealistic image in which a giant zipper reveals a real place hidden behind reality. The concept is surreal; the destination itself is completely realistic.
 ```
 
+---
+
 <a id="illustration-case-123"></a>
 ### Пример 123: [Геометрический иллюстрированный плакат с персонажем](https://x.com/Shorelyn_/status/2108532094796533952) (автор [@Shorelyn_](https://x.com/Ziha_ai))
 
@@ -157,6 +159,8 @@ NEGATIVE PROMPT
 No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.
 ```
 
+---
+
 <a id="illustration-case-124"></a>
 ### Пример 124: [Рисованная журнальная иллюстрация арбуза](https://x.com/hey_am_cherry/status/2108424213132697763) (автор [@hey_am_cherry](https://x.com/hey_am_cherry))
 
@@ -181,6 +185,8 @@ Use a fresh, vibrant color palette of plum purple, watermelon red, mustard yello
 
 IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 3D, NOT glossy digital art, NOT a photograph. Preserve the raw, loose, textured, imperfect hand-drawn quality of traditional editorial sketch art. Original character, original pose, original outfit, original composition.
 ```
+
+---
 
 <a id="illustration-case-125"></a>
 ### Пример 125: [Художественный барельефный отпечаток на коже](https://x.com/DeepBlueX0/status/2108194229193461879) (автор [@DeepBlueX0](https://x.com/DeepBlueX0))
@@ -211,6 +217,8 @@ IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 
 爱心 × 锁骨肌肤 × 浅浮雕压痕 × 局部红晕 × 浅宽凹压痕签名“DeepBlue”
 ```
 
+---
+
 <a id="illustration-case-126"></a>
 ### Пример 126: [Фигура в наряде высокой моды из квиллинга](https://x.com/yourPlugAI/status/2108136293477536077) (автор [@yourPlugAI](https://x.com/yourPlugAI))
 
@@ -234,6 +242,8 @@ She wears a wide-brimmed [HAT COLOR] paper hat with a [ACCENT COLOR] paper rose,
 
 Surrounding her are swirling metallic [WIRE COLOR] wire tendrils, [LEAF COLOR] paper leaves, and coiled [FLOWER COLORS] paper roses. Set against a matte [BACKGROUND COLOR & TEXTURE, e.g., dark navy blue textured] backdrop with dramatic spotlighting casting soft paper drop shadows.  --ar 2:3
 ```
+
+---
 
 <a id="illustration-case-127"></a>
 ### Пример 127: [Реальная сцена с белыми набросками](https://x.com/Goodmanprotocol/status/2108112844239892599) (автор [@Goodmanprotocol](https://x.com/Goodmanprotocol))
@@ -288,6 +298,8 @@ OUTPUT:
 4:5 vertical composition, ultra-detailed realistic environment, seamless white hand-drawn interaction, premium conceptual travel artwork, polished editorial quality.
 ```
 
+---
+
 <a id="illustration-case-128"></a>
 ### Пример 128: [Набросок фигуры чёрной тушью](https://x.com/MrGafish/status/2108104473235341588) (автор [@MrGafish](https://x.com/MrGafish))
 
@@ -306,6 +318,8 @@ OUTPUT:
 ```
 以参考图人物为原型，保留五官特征、神态、服饰与身体姿态，去除原始背景，重新创作成大师级黑白钢笔人物手稿。采用精湛的传统钢笔绘画技法，以灵动流畅的墨线、细密交叉排线、自然断笔与大胆留白塑造人物的立体感和艺术张力。面部精细刻画，服饰线条疏密有致，局部保留起稿痕迹与随性的未完成笔触，呈现真实艺术家亲笔创作的质感。暖象牙色复古素描纸，清晰可见纸张纤维与细腻墨迹，黑白灰层次丰富。极简艺术画册排版，大面积留白，角落点缀手写签名与创作日期。整体优雅、自由、富有艺术收藏价值，拒绝数字描摹与AI滤镜感，9:16竖版高清构图。
 ```
+
+---
 
 <a id="illustration-case-129"></a>
 ### Пример 129: [Городская панорама одной линией](https://x.com/Naiknelofar788/status/2108048878234673467) (автор [@Naiknelofar788](https://x.com/Naiknelofar788))
@@ -326,6 +340,8 @@ OUTPUT:
 ```
 Create a visually stunning minimalist colored-pencil and wax-crayon artwork of [CITY], where the entire city is constructed from one single continuous hand-drawn line. The line begins as a tiny cultural symbol, travels through famous architecture, streets, vehicles, trees, mountains, and everyday life, gradually forming an intricate panoramic cityscape. Add unexpected pops of bright wax-crayon color between the graphite lines, visible paper texture, imperfect handmade strokes, subtle smudges, playful scale changes, and tiny hidden details that reward zooming in. Clean ivory background, sophisticated editorial poster composition, artistic but recognizable, highly detailed, contemporary viral design aesthetic. Add “[CITY]” in bold refined typography at the top.
 ```
+
+---
 
 <a id="illustration-case-130"></a>
 ### Пример 130: [Сюжетный плакат с несколькими персонажами](https://x.com/MrLarus/status/2107862794469302424) (автор [@MrLarus](https://x.com/MrLarus))
@@ -363,6 +379,8 @@ Style: contemporary cultural poster, film ensemble poster, independent magazine,
 Avoid generic group photos, repeated faces, same-age characters, rigid cards, simple text-image blocks, regular grids, meaningless filler text, corporate poster styling, 3D type, watermarks, numbering, and sparkle symbols.
 ```
 
+---
+
 <a id="illustration-case-131"></a>
 ### Пример 131: [Миниатюрная ферма внутри яблока](https://x.com/mehwishkiran07/status/2107803596477944202) (автор [@mehwishkiran07](https://x.com/mehwishkiran07))
 
@@ -387,6 +405,8 @@ At the bottom of the watercolor version, add elegant minimalist typography readi
 Photorealistic miniature photography + whimsical fantasy + vintage watercolor illustration + premium scrapbook aesthetic + ultra-detailed + warm golden lighting + macro depth of field + highly intricate textures.
 ```
 
+---
+
 <a id="illustration-case-132"></a>
 ### Пример 132: [Городская достопримечательность из звуковой волны](https://x.com/Naiknelofar788/status/2107690033688056029) (автор [@Naiknelofar788](https://x.com/Naiknelofar788))
 
@@ -410,6 +430,8 @@ Different frequencies become different visual elements — thick bass waves crea
 
 Clean pale background, intense electric colors mixed with subtle metallic textures, dramatic depth, ultra-fine linework, futuristic editorial art, controlled chaos, sophisticated composition, no people, no ordinary skyline illustration, the architecture itself must visibly emerge from the soundwave pattern, striking and instantly recognizable, premium magazine cover aesthetic.
 ```
+
+---
 
 <a id="illustration-case-133"></a>
 ### Пример 133: [Иллюстрация селфи тушью и мазками кисти](https://x.com/hey_am_cherry/status/2107687505248256083) (автор [@hey_am_cherry](https://x.com/hey_am_cherry))
@@ -531,6 +553,8 @@ Clean pale background, intense electric colors mixed with subtle metallic textur
 }
 ```
 
+---
+
 <a id="illustration-case-134"></a>
 ### Пример 134: [Ключевой визуал анимации о девочке-волшебнице](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865) (автор [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN))
 
@@ -551,6 +575,8 @@ Clean pale background, intense electric colors mixed with subtle metallic textur
 魔法少女アニメのキービジュアルを作成。タイトルロゴまで含めた魅力的なポスターデザインとして仕上げる。
 ```
 
+---
+
 <a id="illustration-case-135"></a>
 ### Пример 135: [Школьная крыша после дождя](https://x.com/techhalla/status/2107599049348309273/photo/4) (автор [@techhalla](https://x.com/techhalla))
 
@@ -565,6 +591,8 @@ Clean pale background, intense electric colors mixed with subtle metallic textur
 ```
 Hand-painted anime film background art of a school rooftop at dusk after rain. Wire fence in the foreground with water drops, a water tower, a lone schoolgirl in a sailor uniform seen from behind leaning on the railing, a sprawling city below with lights turning on, huge towering cumulus clouds lit pink and orange, a thin crescent moon, power lines crossing the sky. Painterly gouache textures, saturated cinematic colour, wide establishing shot, no text.
 ```
+
+---
 
 <a id="illustration-case-136"></a>
 ### Пример 136: [Разноцветные солончаки с высоты](https://x.com/techhalla/status/2107599049348309273/photo/3) (автор [@techhalla](https://x.com/techhalla))
@@ -581,6 +609,8 @@ Hand-painted anime film background art of a school rooftop at dusk after rain. W
 colorful salt evaporation ponds in pink, turquoise and ochre rectangles divided by thin white paths, no people, perfectly top-down aerial photograph shot from directly overhead, flattened graphic composition, repeating patterns, people as tiny pattern elements, crisp large-format detail, even bright daylight, bold flat color fields
 ```
 
+---
+
 <a id="illustration-case-137"></a>
 ### Пример 137: [Лисёнок в дождевике](https://x.com/techhalla/status/2107599049348309273/photo/2) (автор [@techhalla](https://x.com/techhalla))
 
@@ -595,6 +625,8 @@ colorful salt evaporation ponds in pink, turquoise and ochre rectangles divided 
 ```
 A children's picture book illustration in loose watercolour and coloured pencil: a small red fox wearing a yellow raincoat and boots, holding a paper boat, standing at the edge of a big puddle in an autumn forest, a curious hedgehog peeking from behind a mushroom. Soft wet-on-wet washes, visible paper texture, white paper left showing at the edges, warm autumn palette of rust, ochre and moss green, gentle and whimsical, no text.
 ```
+
+---
 
 <a id="illustration-case-138"></a>
 ### Пример 138: [Кинокадр в испанской красной кухне](https://x.com/techhalla/status/2107599049348309273/photo/1) (автор [@techhalla](https://x.com/techhalla))
@@ -611,6 +643,8 @@ A children's picture book illustration in loose watercolour and coloured pencil:
 a small kitchen with red and white patterned tiles, a glass jug of red gazpacho, a bowl of ripe tomatoes and a red pepper on the counter, a woman in an apron chopping with her back to us, Spanish melodrama film still, saturated red dominating the frame against blue-grey, ash green and apricot, a carefully designed set where every object is chosen, soft warm key light, clean 35mm film look, glossy pop colors
 ```
 
+---
+
 <a id="illustration-case-139"></a>
 ### Пример 139: [Натюрморт в стиле мемфис](https://x.com/techhalla/status/2107599021976285395/photo/2) (автор [@techhalla](https://x.com/techhalla))
 
@@ -626,6 +660,8 @@ a small kitchen with red and white patterned tiles, a glass jug of red gazpacho,
 a still life of playful objects on a terrazzo table: a ceramic teapot with geometric handles, a cone lamp, a fruit bowl on a cylinder base, a striped glass vase, 1980s Memphis design interior, sculptural furniture in colorful plastic laminate and terrazzo, bold primary and pastel colors, black and white squiggle and grid patterns, asymmetric geometric shapes, flat bright light, crisp 1980s color magazine photograph, medium format
 ```
 
+---
+
 <a id="illustration-case-140"></a>
 ### Пример 140: [Винтажный спорткар на токийской скоростной дороге](https://x.com/techhalla/status/2107599021976285395/photo/1) (автор [@techhalla](https://x.com/techhalla))
 
@@ -640,6 +676,8 @@ a still life of playful objects on a terrazzo table: a ceramic teapot with geome
 ```
 a white 1980s Japanese sports coupe with pop-up headlights driving on an elevated Tokyo expressway at night, long streaks of red taillights, skyscraper lights, shot from a following car, slight motion blur, 1980s Japanese photograph shot on Fujicolor 35mm film, soft pastel palette of pink, turquoise and sunset orange, gentle grain, slight halation around lights
 ```
+
+---
 
 <a id="illustration-case-141"></a>
 ### Пример 141: [Закат из слоёв переливающейся фольги](https://x.com/churvikv/status/2107542566191419650) (автор [@churvikv](https://x.com/churvikv))
@@ -670,6 +708,8 @@ FOREGROUND: the water breaks into stacked horizontal cut bands, each a thin blac
 TEXTURE: visible cut-paper edges, slight drop shadows under each layer for real physical depth, fine paper grain, matte black against glossy iridescent foil. Clean, graphic, decorative, serene, no text.
 ```
 
+---
+
 <a id="illustration-case-142"></a>
 ### Пример 142: [Винтажный маяк в технике шелкографии](https://x.com/hakmgpt/status/2107535382183387282) (автор [@hakmgpt](https://x.com/hakmgpt))
 
@@ -684,6 +724,8 @@ TEXTURE: visible cut-paper edges, slight drop shadows under each layer for real 
 ```
 A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.
 ```
+
+---
 
 <a id="illustration-case-143"></a>
 ### Пример 143: [Роспись веера в стиле гунби и фигура](https://x.com/DeepBlueX0/status/2107410819294343507) (автор [@DeepBlueX0](https://x.com/DeepBlueX0))
@@ -705,6 +747,8 @@ A spectacular vintage screen-print illustration of a tall colorful lighthouse st
 【角色】 × 宋式工笔人物扇面 × 真人与扇中自画像对应 × 半脸遮挡 × CCD柔焦
 ```
 
+---
+
 <a id="illustration-case-144"></a>
 ### Пример 144: [Математический атлас геометрического искусства](https://x.com/DeepBlueX0/status/2107369025366016200) (автор [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -724,6 +768,8 @@ A spectacular vintage screen-print illustration of a tall colorful lighthouse st
 ```
 【主体】 × 几何艺术 × 数学原理 × 数学解析标注 × 极简科学图谱
 ```
+
+---
 
 <a id="illustration-case-145"></a>
 ### Пример 145: [Плакат с фотографией и сюжетным объектом](https://x.com/harboriis/status/2107346549542203400) (автор [@harboriis](https://x.com/harboriis))
@@ -770,6 +816,8 @@ FINAL
 Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.
 ```
 
+---
+
 <a id="illustration-case-146"></a>
 ### Пример 146: [Схема слоёв исторического костюма](https://x.com/DeepBlueX0/status/2106765651952140743) (автор [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -789,6 +837,8 @@ Maintain the exact 50/50 split. The top must remain a faithful photograph, while
 ```
 【朝代】女性贴身衣物 × 穿着层次 × 结构展开 × 材质与裁片 × 服饰复原 × 竖版9:16
 ```
+
+---
 
 <a id="illustration-case-147"></a>
 ### Пример 147: [Персонаж и двенадцать карточек приложений](https://x.com/Arzoo12sh/status/2106691981275721881) (автор [@Arzoo12sh](https://x.com/Arzoo12sh))
@@ -821,6 +871,8 @@ Panel 11: Facebook — woman wearing a blue denim jacket, leaning naturally agai
 Panel 12: Notes — woman wearing a yellow hoodie, holding a pen and notebook with “Big Dreams...” written on it.
 Keep the same face, hairstyle and identity throughout all panels. Highly detailed, polished 3D app-card aesthetic, realistic facial features, glossy rounded edges, vibrant app-themed backgrounds, professional composition, sharp details, premium social-media graphic, 4K.
 ```
+
+---
 
 <a id="illustration-case-148"></a>
 ### Пример 148: [Портрет маслом в европейском кафе](https://x.com/hey_am_cherry/status/2106245541508382774) (автор [@hey_am_cherry](https://x.com/hey_am_cherry))
@@ -888,6 +940,8 @@ Keep the same face, hairstyle and identity throughout all panels. Highly detaile
 }
 ```
 
+---
+
 <a id="illustration-case-149"></a>
 ### Пример 149: [Миниатюрный сказочный мир в тематике страны](https://x.com/Naiknelofar788/status/2106233142994481153) (автор [@Naiknelofar788](https://x.com/Naiknelofar788))
 
@@ -917,6 +971,8 @@ Subtly incorporate recognizable visual elements of [COUNTRY] into the architectu
 Ultra-detailed, tactile textures, miniature photography aesthetic, whimsical fantasy realism, cinematic composition, soft volumetric light, shallow depth of field, highly polished 3D artwork, visually captivating, no people, no text.
 ```
 
+---
+
 <a id="illustration-case-150"></a>
 ### Пример 150: [Миниатюрные миры в чайнике и книге сказок](https://x.com/KrishnaBio1/status/2105951925640589394) (автор [@KrishnaBio1](https://x.com/KrishnaBio1))
 
@@ -936,6 +992,8 @@ Ultra-detailed, tactile textures, miniature photography aesthetic, whimsical fan
 ```
 Create one ultra-realistic cinematic fantasy scene combining the main elements from all three references: an antique brass teapot on a rustic wooden table, its lid slightly open with warm steam rising and transforming into a miniature glowing city skyline; beside it, an old open storybook with a tiny enchanted forest emerging from its pages, including moss-covered ground, miniature pine trees, a cozy wooden cabin, a small flowing stream and warm golden fairy lights; also include a large white ceramic coffee cup filled with deep blue ocean water, with a tiny sailing boat floating on the surface and a miniature tropical island with palm trees. Set everything inside a cozy vintage café/library with wooden shelves, old books, dried herbs, candles and soft warm bokeh lighting. Highly detailed textures, realistic steam, magical atmosphere, shallow depth of field, cinematic composition, warm amber tones, photorealistic, 8K, realistic lighting, premium fantasy editorial photography.
 ```
+
+---
 
 <a id="illustration-case-151"></a>
 ### Пример 151: [Карандашный портрет с граффити](https://x.com/Arina_hoqe/status/2104426560631775589) (автор [@Arina_hoqe](https://x.com/Arina_hoqe))
@@ -965,6 +1023,8 @@ Preserve the exact identity of the reference person. No face distortion, no iden
 
 Add a professional italic handwritten signature: “Arina Ai” at the bottom right.
 ```
+
+---
 
 <a id="illustration-case-152"></a>
 ### Пример 152: [Диагональная композиция из фото и карандашного рисунка](https://x.com/mehwishkiran07/status/2104162122435580191) (автор [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -998,6 +1058,8 @@ Blend the two halves together with an artistic rough black-and-white paint-brush
 
 Ultra-detailed, realistic anatomy, accurate proportions, natural hands and fingers, cinematic lighting, premium fashion campaign aesthetic, sharp facial details, sophisticated composition, 8K quality, photorealistic on the left and realistic graphite illustration on the right, no text, no logos, no watermark.
 ```
+
+---
 
 <a id="illustration-case-153"></a>
 ### Пример 153: [Акварельный портрет с поднятыми руками](https://x.com/Arina_hoqe/status/2103714798324125892) (автор [@Arina_hoqe](https://x.com/Arina_hoqe))
@@ -1037,6 +1099,8 @@ NEGATIVE PROMPT:
 different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
 ```
 
+---
+
 <a id="illustration-case-154"></a>
 ### Пример 154: [Композиция с человеком и 3D-персонажем](https://x.com/Arzoo12sh/status/2103672438798360854) (автор [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -1073,6 +1137,8 @@ No text, no extra objects, no props in the woman's hands.
 Aspect ratio 4:5.
 ```
 
+---
+
 <a id="illustration-case-155"></a>
 ### Пример 155: [Ночная скамейка с мультяшным спутником](https://x.com/Alina_with_Ai/status/2102960956280299535) (автор [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1105,6 +1171,8 @@ Photorealistic adult woman seamlessly combined with a cute high-quality 3D anima
 
 Keep the cute animated girl's appearance consistent and adorable. Do not make her realistic. Do not change her outfit or facial style.
 ```
+
+---
 
 <a id="illustration-case-156"></a>
 ### Пример 156: [Угольный фон и цветная фигура](https://x.com/Kubra_286/status/2102597096545071243) (автор [@Kubra_286](https://x.com/Kubra_286))
@@ -1218,6 +1286,8 @@ Photorealistic female portrait
 Identity preservation is the absolute highest priority.
 ```
 
+---
+
 <a id="illustration-case-157"></a>
 ### Пример 157: [Карандашный портрет в стиле нуар](https://x.com/Alina_with_Ai/status/2102594441760620756) (автор [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1236,6 +1306,8 @@ Identity preservation is the absolute highest priority.
 ```
 Transform the uploaded photo into a highly realistic hand-drawn graphite pencil portrait while preserving the exact identity, facial features, expression, hairstyle, pose, clothing, and composition. Recreate the dramatic black-and-white noir lighting with the strong diagonal beam of light from the upper left and deep shadows surrounding the subject. Show detailed graphite strokes, realistic cross-hatching, delicate shading, subtle smudging, visible pencil texture, and natural imperfections on premium textured drawing paper. Keep the messy hair strands, hoop earring, blazer details, facial contours, and light falling across the face clearly recognizable. Professional artist-quality portrait, sophisticated fine-art sketch, monochrome, extremely detailed, realistic hand-drawn appearance, cinematic composition, 8K.
 ```
+
+---
 
 <a id="illustration-case-158"></a>
 ### Пример 158: [Акварельная модная иллюстрация двух человек](https://x.com/mehwishkiran07/status/2102244437032354046) (автор [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1267,6 +1339,8 @@ Natural warm cinematic lighting, soft shadows, shallow depth of field, realistic
 
 IMPORTANT: No names, no logos, no captions, no typography, no watermark, no duplicated people, no distorted faces, no extra fingers or limbs. Both subjects should look naturally integrated into the same scene, not pasted together.
 ```
+
+---
 
 <a id="illustration-case-159"></a>
 ### Пример 159: [Бумажная кубическая модель питомца](https://x.com/icreatelife/status/2101353512210710690) (автор [@icreatelife](https://x.com/icreatelife))
@@ -1307,6 +1381,8 @@ Style: realistic papercraft template, high-quality product photography, clean wh
 Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
 ```
 
+---
+
 <a id="illustration-case-160"></a>
 ### Пример 160: [Женщина-воин в средиземноморском дворике](https://x.com/Arzoo12sh/status/2101262041533313249) (автор [@Arzoo12sh](https://x.com/Arzoo12sh))
 
@@ -1327,6 +1403,8 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 ```
 A cinematic fantasy female warrior standing confidently in an ancient Mediterranean-inspired temple courtyard, full-body view, long flowing brown hair styled with subtle braids, soft natural facial features, calm but powerful expression, wearing an elegant dark charcoal-green warrior dress with a fitted leather-like bodice, metallic shoulder details, wide brown belt around the waist, deep red sash hanging from the waist, dark flowing skirt, subtle ancient warrior accessories, holding a tall black spear vertically in her right hand with a large dark green metallic spearhead, realistic skin texture, detailed fabric and leather textures, graceful heroic posture, ancient stone architecture in the background, massive carved archway, tall stone columns, turquoise water pools surrounding the courtyard, bright daylight, cinematic sunlight, soft atmospheric haze, dramatic lens flare, shallow depth of field, epic fantasy movie aesthetic, photorealistic, ultra-detailed, realistic proportions, natural lighting, 35mm cinematic photography, high-end film still, 8K detail, no text, no logo, no watermark.
 ```
+
+---
 
 <a id="illustration-case-161"></a>
 ### Пример 161: [Сюрреалистичный интерьер с гигантской роскошной кроватью](https://x.com/Arzoo12sh/status/2100900343358030040) (автор [@Arzoo12sh](https://x.com/Arzoo12sh))
@@ -1362,6 +1440,8 @@ Composition should be vertical 9:16, cinematic wide-angle perspective, dramatic 
 
 No text, no letters, no logos, no watermark, no captions, no unnecessary objects, no distorted anatomy, no duplicate people, no blurry details.
 ```
+
+---
 
 <a id="illustration-case-162"></a>
 ### Пример 162: [Многослойная сцена мастерской и мультфильма](https://x.com/mehwishkiran07/status/2100539261628080282) (автор [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -1407,6 +1487,8 @@ Create a sophisticated Pinterest/editorial aesthetic, balanced composition, prem
 Do not copy any existing artwork, watermark, logo, username, or signature. The cartoon character and artwork must be completely original.
 ```
 
+---
+
 <a id="illustration-case-163"></a>
 ### Пример 163: [Контрастная иллюстрация профиля тушью](https://x.com/AiWithTariq/status/2100427354216841263) (автор [@AiWithTariq](https://x.com/AiWithTariq))
 
@@ -1440,6 +1522,8 @@ Keep the figure vertically centered with a clean off-white / warm beige backgrou
 
 Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.
 ```
+
+---
 
 <a id="illustration-case-164"></a>
 ### Пример 164: [Акварельная модная иллюстрация по референсному портрету](https://x.com/Kubra_286/status/2100423487601123731) (автор [@Kubra_286](https://x.com/Kubra_286))
@@ -1478,6 +1562,8 @@ Aspect Ratio: 4:5
 Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.
 ```
 
+---
+
 <a id="illustration-case-165"></a>
 ### Пример 165: [Человек и его рисованный двойник](https://x.com/Alina_with_Ai/status/2100412898363547998) (автор [@Alina_with_Ai](https://x.com/Alina_with_Ai))
 
@@ -1501,6 +1587,8 @@ Create a convincing 2D drawing + 3D real-person fusion, where the cartoon is vis
 Style: photorealistic, surreal mixed-media photography, realistic human + hand-drawn illustration, cinematic lighting, warm muted tones, editorial fashion photography, highly detailed, natural proportions, 8K, sharp focus.
 Composition: vertical 9:16, full body, centered subject, camera at eye level, realistic perspective, minimal background, no text, no watermark.
 ```
+
+---
 
 <a id="illustration-case-166"></a>
 ### Пример 166: [Мужской акварельный портрет в дождливом Нью-Йорке](https://x.com/AiWithTariq/status/2100063691198669194) (автор [@AiWithTariq](https://x.com/AiWithTariq))
@@ -1604,6 +1692,8 @@ Keep the artwork painterly, sophisticated, loose, atmospheric and premium.
 --ar 9:16 --style raw --stylize 250
 ```
 
+---
+
 <a id="illustration-case-167"></a>
 ### Пример 167: [Акварельно-тушевой портрет с взглядом через плечо](https://x.com/Kubra_286/status/2100063244324889037) (автор [@Kubra_286](https://x.com/Kubra_286))
 
@@ -1672,6 +1762,8 @@ Mood: artistic, soulful, emotionally engaging
 
 Aspect ratio: 4:5
 ```
+
+---
 
 <a id="illustration-case-168"></a>
 ### Пример 168: [Женский акварельный портрет в дождливом Нью-Йорке](https://x.com/Kubra_286/status/2099864465013629192) (автор [@Kubra_286](https://x.com/Kubra_286))
@@ -1771,6 +1863,8 @@ Keep the artwork painterly, sophisticated, loose, atmospheric and premium.
 
 --ar 9:16 --style raw --stylize 250
 ```
+
+---
 
 <a id="illustration-case-169"></a>
 ### Пример 169: [Самостоятельный художественный плакат из фотографии](https://x.com/icreatelife/status/2099343611389219254) (автор [@icreatelife](https://x.com/icreatelife))
@@ -1921,6 +2015,8 @@ The final poster should feel:
 Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
 ```
 
+---
+
 <a id="illustration-case-170"></a>
 ### Пример 170: [Миниатюрный город, вырастающий из карты](https://x.com/lukfan/status/2098582975567061183/photo/1) (автор [@lukfan](https://x.com/lukfan))
 
@@ -1949,3 +2045,5 @@ Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thou
 使用柔和摄影棚光线与自然阴影，画面干净，构图高级，有电影感和精品旅行视觉效果。
 整体效果像高端微距摄影拍摄的地图微缩城市diorama。
 ```
+
+---

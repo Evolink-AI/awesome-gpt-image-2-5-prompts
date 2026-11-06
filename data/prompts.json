@@ -1,5 +1,5 @@
 {
-  "model": "GPT Image 2.5",
+  "model": "GPT Image 2.6 and GPT Image 2.5",
   "model_attribution": "creator_statement",
   "cases": [
     {
@@ -5102,6 +5102,141 @@
       ],
       "source_media_role": "demo",
       "media_role_basis": "Original post-level source label; individual asset roles are not independently verified unless explicitly listed."
+    },
+    {
+      "id": "gpt26-2118295936606798006",
+      "public_case_number": 251,
+      "category": "gpt-image-2-6",
+      "content_file": "cases/gpt-image-2-6.md",
+      "title": "White House Orbit Animation",
+      "author": "@nima2qisi2",
+      "author_url": "https://x.com/nima2qisi2",
+      "source_url": "https://x.com/nima2qisi2/status/2118295936606798006",
+      "root_source_url": "https://x.com/nima2qisi2/status/2118295936606798006",
+      "published_at": "2026-11-05T10:54:41+00:00",
+      "date_basis": "source publication timestamp",
+      "prompt": "帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif",
+      "prompt_sha256": "b648d12acf1e731482ff6467c78ac87f4bd6561c7ea6f5fc7cd3c13d9dddf5a2",
+      "input_requirement": "none",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118295303778615296.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118295303778615296.mp4"
+      ],
+      "source_media_role": "output",
+      "media_role_basis": "Creator-labelled source media; not independently regenerated",
+      "model_version": "2.6",
+      "model_match": true,
+      "model_match_basis": "source_author_claim",
+      "kind": "prompt",
+      "prompt_status": "public",
+      "dedup_key": "b648d12acf1e731482ff6467c78ac87f4bd6561c7ea6f5fc7cd3c13d9dddf5a2",
+      "notes": "The creator asks for a GIF. X serves this animation as MP4; the poster links to that source animation. Only the White House clip matches the published prompt; the Statue of Liberty and Forbidden City clips in the same post are excluded. This synthetic orbit is not documentary footage or verified architectural geometry.",
+      "media_labels": []
+    },
+    {
+      "id": "gpt26-official-remove-flower",
+      "public_case_number": 252,
+      "category": "gpt-image-2-6",
+      "content_file": "cases/gpt-image-2-6.md",
+      "title": "Flower Removal with Scene Preservation",
+      "author": "@OpenAI",
+      "author_url": "https://developers.openai.com",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "root_source_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "published_at": "2026-11-05",
+      "date_basis": "documentation observed; release date 2026-11-04",
+      "prompt": "Remove the flower from man's hand. Do not change anything else.",
+      "prompt_sha256": "572cf201b4091ce51bc7dff07ac0010d864779e65995859843e685ba49c0dd43",
+      "input_requirement": "external",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-no-flower-gpt-image-2-6-flare.webp",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-no-flower-gpt-image-2-6-sunburst.webp"
+      ],
+      "source_media_role": "input-and-output",
+      "media_role_basis": "Explicit official example labels",
+      "model_version": "2.6",
+      "model_match": true,
+      "model_match_basis": "official documentation",
+      "kind": "prompt",
+      "prompt_status": "public",
+      "dedup_key": "572cf201b4091ce51bc7dff07ac0010d864779e65995859843e685ba49c0dd43",
+      "notes": "Official editing example. Use the supplied reference photograph. Both published results are shown together; this is an example, not a repeated benchmark.",
+      "media_labels": [
+        "Reference",
+        "GPT Image 2.6 Flare",
+        "GPT Image 2.6 Sunburst"
+      ]
+    },
+    {
+      "id": "gpt26-official-winter-billboard",
+      "public_case_number": 253,
+      "category": "gpt-image-2-6",
+      "content_file": "cases/gpt-image-2-6.md",
+      "title": "Snowy Evening Billboard Edit",
+      "author": "@OpenAI",
+      "author_url": "https://developers.openai.com",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+      "root_source_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+      "published_at": "2026-11-05",
+      "date_basis": "documentation observed; release date 2026-11-04",
+      "prompt": "Make it look like a winter evening with snowfall.",
+      "prompt_sha256": "26feb87b667835bdfb27030d64a80aaa6600c9328f5d5c02322d219bd6ef46a7",
+      "input_requirement": "external",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-gpt-image-2-6-flare.webp",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-winter-gpt-image-2-6-flare.webp",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-gpt-image-2-6-sunburst.webp",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-winter-gpt-image-2-6-sunburst.webp"
+      ],
+      "source_media_role": "input-and-output",
+      "media_role_basis": "Explicit official example labels",
+      "model_version": "2.6",
+      "model_match": true,
+      "model_match_basis": "official documentation",
+      "kind": "prompt",
+      "prompt_status": "public",
+      "dedup_key": "26feb87b667835bdfb27030d64a80aaa6600c9328f5d5c02322d219bd6ef46a7",
+      "notes": "This is the complete follow-up edit prompt, not the initial billboard-generation prompt. Use the corresponding sunset billboard as the input for each model. The model-specific inputs and outputs appear side by side.",
+      "media_labels": [
+        "Flare input",
+        "Flare winter output",
+        "Sunburst input",
+        "Sunburst winter output"
+      ]
+    },
+    {
+      "id": "gpt26-2118147596891901957",
+      "public_case_number": 254,
+      "category": "gpt-image-2-6",
+      "content_file": "cases/gpt-image-2-6.md",
+      "title": "Tea Portrait Version Comparison",
+      "author": "@v3rt0x_",
+      "author_url": "https://x.com/v3rt0x_",
+      "source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+      "root_source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+      "published_at": "2026-11-05T01:05:15+00:00",
+      "date_basis": "source publication timestamp",
+      "prompt": "a realistic photo of a woman holding a cup of tea inside her home",
+      "prompt_sha256": "f55986e5e5d66d004deca7e3939ea5f7f22b4d23e63b4f5c24597cbb7440ec74",
+      "input_requirement": "none",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118147098709274624.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118147411746955264.jpg"
+      ],
+      "source_media_role": "output",
+      "media_role_basis": "Creator-labelled source media; not independently regenerated",
+      "model_version": "2.6",
+      "model_match": true,
+      "model_match_basis": "source_author_claim",
+      "kind": "comparison",
+      "prompt_status": "public",
+      "dedup_key": "f55986e5e5d66d004deca7e3939ea5f7f22b4d23e63b4f5c24597cbb7440ec74",
+      "notes": "The creator labels the first image GPT Image 2.6 and the second GPT Image 2.5. Variant, settings and retries were not disclosed. This is a creator comparison, not a controlled benchmark.",
+      "media_labels": [
+        "GPT Image 2.6 — creator label",
+        "GPT Image 2.5 — creator label"
+      ]
     }
   ]
 }

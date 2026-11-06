@@ -1,6 +1,6 @@
 # Arte sequencial e storyboards
 
-[← Todos os 250 prompts](../../README_pt.md)
+[← Todos os 254 prompts](../../README_pt.md)
 
 Escolha um caso para ver as imagens ou os vídeos do criador e o prompt original completo. Os prompts permanecem no idioma original.
 
@@ -78,6 +78,8 @@ Repeated or nearly identical poses, character identity drift, costume changes, i
 Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
 ```
 
+---
+
 <a id="sequential-art-case-242"></a>
 ### Caso 242: [Ficha de dança de rainha em dezesseis quadros](https://x.com/MahnoorAi12/status/2101132922560430481) (por [@MahnoorAi12](https://x.com/MahnoorAi12))
 
@@ -98,6 +100,8 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 ```
 Create a 4×4 dance pose sheet featuring one original character, with exactly 16 equally sized panels in one square image. CHARACTER DESIGN Design a regal queen character with an elegant braided crown-updo topped with a small gold circlet, calm violet eyes, a deep-sapphire velvet gown with long draped sleeves and an embroidered hem, and a light cape that trails behind her. Keep her exact face, hairstyle, colors, proportions, outfit, and accessories fully consistent across all 16 panels — no redesigns, recolors, or costume changes between panels. ART STYLE Render in classical painterly 2D illustration, rich jewel-toned shading, with crisp outlines and consistent lighting across every panel. CHOREOGRAPHY Design a cohesive 16-pose dance sequence with a clear beginning, build-up, climax, and ending, ordered left to right, top to bottom. Include: an opening pose that establishes personality; a small rhythmic step with a coordinated arm gesture; a side step with one arm extended; a compact expressive gesture near the face; a grounded stance with arms crossing or sweeping inward; a knee lift or weight shift; an open expansive pose with arms spread; a playful balance pose; a turning pose showing a three-quarter rear view; a forward-reaching diagonal lean; a strong upward-reaching accent; a climactic jump (or full-body extension if jumping doesn't suit the character); a lowered stance with a forward gesture; a dynamic side-facing transition; a signature gesture unique to the character; and a confident final pose with a clear finishing silhouette. COMPOSITION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. One full-body depiction of the character per panel, consistent scale, camera distance, lighting, and rendering style throughout. Fixed camera angle while the character turns naturally. Keep the entire character — hair, hands, feet, and accessories — inside each panel with comfortable margins, with subtle ground shadows and natural secondary movement in hair and fabric. Preserve the outfit's original coverage in every panel — no wardrobe shifts, added exposure, or altered necklines between poses. AVOID Repeated or near-identical poses, identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, unlisted props, speech bubbles, and watermarks. Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
 ```
+
+---
 
 <a id="sequential-art-case-243"></a>
 ### Caso 243: [Modelo de erros fotográficos em quatro quadros](https://x.com/DeepBlueX0/status/2100184573376381181) (por [@DeepBlueX0](https://x.com/DeepBlueX0))
@@ -121,6 +125,8 @@ Create a 4×4 dance pose sheet featuring one original character, with exactly 16
 【任意场景】 × 【任意穿搭/主体】 × 竖版2×2错误照片
 ```
 
+---
+
 <a id="sequential-art-case-244"></a>
 ### Caso 244: [Fotos espontâneas de roupa campestre em nove quadros](https://x.com/DeepBlueX0/status/2100172521664573551) (por [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -135,6 +141,8 @@ Create a 4×4 dance pose sheet featuring one original character, with exactly 16
 ```
 南方农村菜园 × 田园风穿搭  ×竖版 3×3失败照片
 ```
+
+---
 
 <a id="sequential-art-case-245"></a>
 ### Caso 245: [Storyboard de transformação de personagem em doze quadros](https://x.com/Mayz1169/status/2100136174446936508) (por [@Mayz1169](https://x.com/Mayz1169))
@@ -197,6 +205,8 @@ One polished, high-resolution storyboard image containing exactly 12 distinct pa
 
 Do not reproduce the uploaded reference sheet’s layout or duplicate its multiple views. Use the uploaded image to identify one character, then depict that same character across a new, continuous transformation sequence.
 ```
+
+---
 
 <a id="sequential-art-case-246"></a>
 ### Caso 246: [Ficha de referência de dança em dezesseis quadros](https://x.com/Scenario_gg/status/2099797798388482395) (por [@Scenario_gg](https://x.com/Scenario_gg))
@@ -336,6 +346,8 @@ Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent 
 The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.
 ```
 
+---
+
 <a id="sequential-art-case-247"></a>
 ### Caso 247: [Álbum de viagem de personagem por Guangzhou](https://x.com/DeepBlueX0/status/2099684732950958440) (por [@DeepBlueX0](https://x.com/DeepBlueX0))
 
@@ -350,6 +362,8 @@ The finished sheet should read immediately as sixteen carefully selected consecu
 ```
 玛奇玛 ×广州游iPhone 相册截图×iOS 27
 ```
+
+---
 
 <a id="sequential-art-case-248"></a>
 ### Caso 248: [Erros fotográficos de personagem em nove quadros](https://x.com/DeepBlueX0/status/2099481521983995971) (por [@DeepBlueX0](https://x.com/DeepBlueX0))
@@ -370,6 +384,8 @@ The finished sheet should read immediately as sixteen carefully selected consecu
 ```
 竖版3×3失败照片× ｛角色｝
 ```
+
+---
 
 <a id="sequential-art-case-249"></a>
 ### Caso 249: [Ficha de dança de piloto de mecha em dezesseis quadros](https://x.com/MahnoorAi12/status/2099099834867134695) (por [@MahnoorAi12](https://x.com/MahnoorAi12))
@@ -408,6 +424,8 @@ Repeated or near-identical poses, identity drift, costume changes, inconsistent 
 
 Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
 ```
+
+---
 
 <a id="sequential-art-case-250"></a>
 ### Caso 250: [Ficha de dança em dezesseis quadros com uma referência](https://x.com/renoiseai/status/2097959984265130436) (por [@renoiseai](https://x.com/renoiseai))
@@ -462,3 +480,5 @@ Only include the panel numbers 1–16. No title, captions, labels, speech bubble
 
 Final output: one complete, clearly readable 4×4 sheet of sixteen original dance poses tailored to the uploaded character.
 ```
+
+---

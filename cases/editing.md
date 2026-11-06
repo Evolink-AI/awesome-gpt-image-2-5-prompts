@@ -1,6 +1,6 @@
 # Image Editing
 
-[← All 250 prompts](../README.md)
+[← All 254 prompts](../README.md)
 
 Choose a case to see the creator’s media and complete original prompt. Prompts remain in their original language.
 
@@ -32,6 +32,8 @@ Choose a case to see the creator’s media and complete original prompt. Prompts
 参考上传的老房子照片，以1:24比例精准复刻为博物馆级超写实实体微缩模型，严格还原建筑结构、屋顶、门窗、墙体及原始环境。精细呈现斑驳墙皮、风化砖瓦、裂缝、青苔、灰尘等岁月痕迹，材质真实自然，具有极致手工制作质感。模型置于精致的矩形沙盘底座上，45度俯视三分之四视角，完整展示建筑全貌。专业微距摄影，柔和自然光，真实阴影，中性灰摄影棚背景，8K超高清。强调真实实体模型效果，避免塑料玩具感、卡通感及3D渲染感。
 ```
 
+---
+
 <a id="editing-case-238"></a>
 ### Case 238: [Partial Composite Edit with Original Pixels](https://x.com/magu_ai_h/status/2108123043042316585) (by [@magu_ai_h](https://x.com/magu_ai_h))
 
@@ -61,6 +63,8 @@ AIで作った修正案から必要な箇所だけを切り出し、元画へ合
 【修正内容】
 ・〇〇を◻︎◻︎に変えてください
 ```
+
+---
 
 <a id="editing-case-239"></a>
 ### Case 239: [Reference Composition Character Transformation](https://x.com/mehwishkiran07/status/2102352505405583379) (by [@mehwishkiran07](https://x.com/mehwishkiran07))
@@ -105,6 +109,8 @@ Warm cinematic studio lighting, realistic shadows, natural skin tones, detailed 
 Do not change the composition or reposition anyone. Do not add or remove people. Do not change the camera angle. The final image should look like the exact same original photograph, but with all five female subjects naturally transformed into male versions.
 ```
 
+---
+
 <a id="editing-case-240"></a>
 ### Case 240: [Drone Route Overlay on Original Photo](https://x.com/agi_aibusi/status/2100004006219362741) (by [@agi_aibusi](https://x.com/agi_aibusi))
 
@@ -128,3 +134,5 @@ Do not change the composition or reposition anyone. Do not add or remove people.
 経路：［始点］→［経由点1］→［経由点2］→［経由点3］→［経由点4］→［終点］
 各点は画像内の実際の位置に合わせ、被写体の輪郭に沿って左右へ緩やかに折り返しながら、滑らかな曲線でつないでください。点の順番が分かる小さな番号を付けます。線や番号は顔などの重要な部分をできるだけ隠さないよう配置してください。人物・動物・背景・構図・色味は変更しないでください。
 ```
+
+---

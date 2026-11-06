@@ -1930,5 +1930,38 @@
       "gpt26-2118147596891901957"
     ],
     "ingested_at": "2026-11-05"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2118193088128745875",
+    "tweet_id": "2118193088128745875",
+    "case_ids": [
+      "gpt26-2118193088128745875"
+    ],
+    "ingested_at": "2026-11-06"
+  },
+  {
+    "tweet_url": "https://x.com/MiraMusic_AI/status/2118168013618987298",
+    "tweet_id": "2118168013618987298",
+    "case_ids": [
+      "gpt26-2118168013618987298"
+    ],
+    "ingested_at": "2026-11-06"
+  },
+  {
+    "tweet_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+    "tweet_id": "2118166046175908016",
+    "case_ids": [
+      "gpt26-2118166046175908016"
+    ],
+    "ingested_at": "2026-11-06"
+  },
+  {
+    "tweet_url": "https://x.com/IHayato/status/2118151619212890291",
+    "tweet_id": "2118151619212890291",
+    "case_ids": [
+      "gpt26-2118151619212890291-markup",
+      "gpt26-2118151619212890291-blink"
+    ],
+    "ingested_at": "2026-11-06"
   }
 ]

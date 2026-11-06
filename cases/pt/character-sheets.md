@@ -1,6 +1,6 @@
 # Fichas e design de personagens
 
-[← Todos os 254 prompts](../../README_pt.md)
+[← Todos os 259 prompts](../../README_pt.md)
 
 Escolha um caso para ver as imagens ou os vídeos do criador e o prompt original completo. Os prompts permanecem no idioma original.
 

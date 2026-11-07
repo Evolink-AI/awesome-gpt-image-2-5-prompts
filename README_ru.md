@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22-nov7.svg" width="760" alt="GPT Image 2.6 + 2.5 · 260 полных промптов · EvoLink"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22-nov7.svg" width="760" alt="GPT Image 2.6 + 2.5 · 260 полных промптов · EvoLink"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Попробовать GPT Image 2.5 в браузере](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 полных промптов](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Попробовать GPT Image 2.6 в браузере](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 полных промптов](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -24,7 +24,7 @@
 2. Прочитайте примечание о входных материалах, затем скопируйте полный промпт из блока кода.
 3. Добавьте нужное референсное изображение, измените редактируемые детали и попробуйте промпт на странице модели.
 
-[Попробовать Images 2.6 в ChatGPT](https://chatgpt.com/images) · [Попробовать GPT Image 2.5 в браузере](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[Попробовать Images 2.6 в ChatGPT](https://chatgpt.com/images) · [Попробовать GPT Image 2.6 в браузере](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 Обновления

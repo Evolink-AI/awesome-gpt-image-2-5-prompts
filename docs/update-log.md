@@ -2,6 +2,8 @@
 
 ## 2026-11-07
 
+Updated the banner, browser badge and quick-start links in all 11 languages to the GPT Image 2.6 model detail page. Existing campaign tracking is preserved.
+
 Added one complete creator-attributed GPT Image 2.6 prompt for a looping anime kaleidoscope animation. Total: 260 prompts, including ten 2.6 cases. Updated the featured preview and banner count in all 11 languages.
 
 ## 2026-11-06

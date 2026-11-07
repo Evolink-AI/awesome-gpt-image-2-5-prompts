@@ -5343,6 +5343,27 @@
       "model_attribution": "creator_statement",
       "source_media_role": "output",
       "media_role_basis": "This is the complete Japanese follow-up animation prompt quoted by the creator. Supply a character reference you have permission to use; the standalone input for this animation was not supplied. The post also contains a separate holiday edit and pricing graphic; neither is an animation input here. The creator attributes the result to GPT Image 2.6 without naming a variant. X serves the animation as MP4."
+    },
+    {
+      "id": "gpt26-2118665755994546650",
+      "public_case_number": 260,
+      "category": "gpt-image-2-6",
+      "content_file": "cases/gpt-image-2-6.md",
+      "title": "Looping Anime Kaleidoscope Animation",
+      "author": "@aimikoda",
+      "source_url": "https://x.com/aimikoda/status/2118665755994546650",
+      "root_source_url": "https://x.com/aimikoda/status/2118665755994546650",
+      "published_at": "2026-11-06T11:24:13Z",
+      "prompt": "Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.\n\nCOMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.\n\nANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.\n\nLOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.\n\nNo text, logos, subtitles or additional characters.",
+      "prompt_sha256": "83aa0016faadc1a1de0a7d1f3f098cd20092535263d4474478378cf6aa75f288",
+      "input_requirement": "external",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"
+      ],
+      "model_attribution": "creator_statement",
+      "source_media_role": "output",
+      "media_role_basis": "The creator attributes this animation to GPT Image 2.6. The post shows the animation and does not include the original character reference. X serves the GIF as an MP4."
     }
   ]
 }

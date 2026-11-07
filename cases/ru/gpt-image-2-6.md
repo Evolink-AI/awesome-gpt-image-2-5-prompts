@@ -1,8 +1,8 @@
 # GPT Image 2.6 — Новейшие примеры с промптами
 
-[← Все 259 промптов](../../README_ru.md)
+[← Все 260 промптов](../../README_ru.md)
 
-Девять полных публичных промптов: два официальных примера редактирования и семь авторских промптов для анимации, правок, постеров и сравнения версий. Исходные 250 примеров GPT Image 2.5 сохраняют свои номера.
+Десять полных публичных промптов: два официальных примера редактирования и восемь авторских промптов для анимации, правок, постеров и сравнения версий. Исходные 250 примеров GPT Image 2.5 сохраняют свои номера.
 
 ## Содержание
 
@@ -15,6 +15,7 @@
   - [Пример 257: Стикер с персонажем, который ест рис](#gpt-image-2-6-case-257)
   - [Пример 258: Праздничная правка персонажа по круговым меткам](#gpt-image-2-6-case-258)
   - [Пример 259: Анимация моргающего и покачивающегося персонажа](#gpt-image-2-6-case-259)
+  - [Пример 260: Зацикленная анимация калейдоскопа в стиле аниме](#gpt-image-2-6-case-260)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Пример 251: [Анимация облёта Белого дома](https://x.com/nima2qisi2/status/2118295936606798006) (автор [@nima2qisi2](https://x.com/nima2qisi2))
@@ -217,6 +218,35 @@ COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No
 
 ```
 まばたきして、ふわっと揺れて
+```
+
+---
+
+<a id="gpt-image-2-6-case-260"></a>
+### Пример 260: [Зацикленная анимация калейдоскопа в стиле аниме](https://x.com/aimikoda/status/2118665755994546650) (автор [@aimikoda](https://x.com/aimikoda))
+
+**Входные материалы:** Выберите референс персонажа, на использование которого у вас есть разрешение.
+
+По словам автора, анимация создана с помощью GPT Image 2.6. В публикации показана анимация. Исходного референса персонажа в ней нет. X показывает GIF в формате MP4.
+
+| Результат |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"><strong>Кадр анимации калейдоскопа в стиле аниме</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="320" alt="Кадр анимации калейдоскопа в стиле аниме"></a> |
+
+[Воспроизвести анимацию калейдоскопа автора](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4)
+
+**Промпт:**
+
+```
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.
+
+COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.
+
+ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.
+
+LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
+
+No text, logos, subtitles or additional characters.
 ```
 
 ---

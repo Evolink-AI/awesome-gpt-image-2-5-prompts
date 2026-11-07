@@ -1,6 +1,6 @@
 # Fiches et conception de personnages
 
-[← Les 259 prompts](../../README_fr.md)
+[← Les 260 prompts](../../README_fr.md)
 
 Choisissez un cas pour voir les images ou vidéos du créateur et le prompt original complet. Les prompts restent dans leur langue d’origine.
 

@@ -1,5 +1,9 @@
 # Updates
 
+## 2026-11-07
+
+Added one complete creator-attributed GPT Image 2.6 prompt for a looping anime kaleidoscope animation. Total: 260 prompts, including ten 2.6 cases. Updated the featured preview and banner count in all 11 languages.
+
 ## 2026-11-06
 
 Added five complete creator-attributed GPT Image 2.6 prompts from four public sources: winter gallery posters, stretching and rice-bowl character GIFs, a circle-guided holiday edit, and a blinking character GIF. Total: 259 complete prompts, including nine 2.6 cases. The previous 254 records and case numbers remain unchanged. Updated the featured previews, banner and all 11 languages. Creator examples have not been independently regenerated; source works retain their owners’ rights.

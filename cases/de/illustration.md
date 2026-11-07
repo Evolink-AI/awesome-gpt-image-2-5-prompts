@@ -1,6 +1,6 @@
 # Illustrationen und Poster
 
-[← Alle 259 Prompts](../../README_de.md)
+[← Alle 260 Prompts](../../README_de.md)
 
 Wähle einen Fall, um die Bilder oder Videos des Urhebers und den vollständigen Originalprompt zu sehen. Die Prompts bleiben in ihrer ursprünglichen Sprache.
 

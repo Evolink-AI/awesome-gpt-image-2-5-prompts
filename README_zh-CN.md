@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22.svg" width="760" alt="GPT Image 2.6 + 2.5 · 259 条完整提示词 · EvoLink"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="GPT Image 2.6 手绘横幅，展示 SVG 和 GIF 示例"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![在浏览器中试用 GPT Image 2.5](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![259 条完整提示词](https://img.shields.io/badge/Prompts-259-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![在浏览器中试用 GPT Image 2.6](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 条完整提示词](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 介绍
 
-**GPT Image 2.6 最新动态与 259 条完整提示词：收录 9 个 2.6 案例，并保留按七类创作任务整理的原有 250 条 GPT Image 2.5 提示词。** 涵盖人像、角色设定、插画、广告、旅行手账、图像编辑和连续画面。每个案例均附原始提示词、创作者署名与关联媒体。
+**GPT Image 2.6 最新动态与 260 条完整提示词：收录 10 个 2.6 案例，并保留按七类创作任务整理的原有 250 条 GPT Image 2.5 提示词。** 涵盖人像、角色设定、插画、广告、旅行手账、图像编辑和连续画面。每个案例均附原始提示词、创作者署名与关联媒体。
 
 原有 250 条提示词来自 52 位创作者的 238 条公开 X 帖子。新增 2.6 案例分别标明官方文档与创作者报告，原有 2.5 案例保留原始归属。模型归属依据创作者的说明，案例尚未经独立重新生成验证。参考图、参数设置与后期编辑均可能影响结果。
 
@@ -24,11 +24,12 @@
 2. 阅读输入说明，然后复制代码块中的完整提示词。
 3. 提供所需参考图，调整可编辑细节，在模型体验页尝试该提示词。
 
-[在 ChatGPT 中试用 Images 2.6](https://chatgpt.com/images) · [在浏览器中试用 GPT Image 2.5](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[在 ChatGPT 中试用 Images 2.6](https://chatgpt.com/images) · [在浏览器中试用 GPT Image 2.6](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 更新
 
+- **2026-11-07:** 新增一条创作者公开的完整提示词，用于制作循环播放的动漫万花筒动画。现收录 10 个 GPT Image 2.6 案例，共 260 条完整提示词。
 - **2026-11-06:** 新增五条创作者完整提示词，涵盖画框海报、角色 GIF 和圈选编辑。现有九个 2.6 案例，共 259 条完整提示词；原有提示词和案例编号保持不变。
 - **2026-11-05:** 新增 4 个具有完整公开提示词的 2.6 案例，以及下方的官方 SVG 示例。原有 250 条提示词仍保留 GPT Image 2.5 归属。
 - **2026-11-04:** OpenAI 发布 GPT Image 2.6 Sunburst 与 Flare。Sunburst 侧重复杂细节和编辑时的内容保留，Flare 侧重快速迭代。两者均支持复杂度控制、标注编辑、SVG 与 GIF 输出。复杂度与渲染质量是独立设置；增加规划计算也可能增加延迟与意外改动。 [阅读官方更新日志](https://developers.openai.com/api/docs/changelog)和[阅读当前提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)。
@@ -37,8 +38,8 @@
 
 | 最新角色动画 | 画框海报与圈选编辑 |
 | --- | --- |
-| [清爽角色拉伸动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-256)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="300" alt="创作者角色拉伸 GIF 预览"> | [巴洛克冬日海报](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="创作者雪人画框海报"> |
-| [吃饭表情动图](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-257) · [角色眨眼动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-259) | [圈选圣诞编辑](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-258) |
+| [循环动漫万花筒动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="动漫万花筒动画预览"> | [巴洛克冬日海报](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="创作者雪人画框海报"> |
+| [角色拉伸动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-256) · [吃饭表情动图](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-257) · [角色眨眼动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-259) | [圈选圣诞编辑](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [白宫环绕](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-251) · [持茶人像对比](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花朵移除](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪夜广告牌](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
 **官方 SVG 展示 — 不计入提示词数量**
@@ -58,7 +59,7 @@
 - [⚡ 快速开始](#quick-start)
 - [📰 更新](#news)
 
-- **[GPT Image 2.6 — 最新](cases/zh-CN/gpt-image-2-6.md)** · 9
+- **[GPT Image 2.6 — 最新](cases/zh-CN/gpt-image-2-6.md)** · 10
   - [案例 251: 白宫环绕动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [案例 252: 保留场景的花朵移除](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [案例 253: 雪夜广告牌编辑](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -68,6 +69,7 @@
   - [案例 257: 角色吃饭表情动图](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-257)
   - [案例 258: 圈选角色圣诞编辑](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [案例 259: 角色眨眼轻晃动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-259)
+  - [案例 260: 循环动漫万花筒动画](cases/zh-CN/gpt-image-2-6.md#gpt-image-2-6-case-260)
 - **[人像与摄影](cases/zh-CN/portraits.md)** · 51
   - [案例 1: 白衬衫瀑布人像](cases/zh-CN/portraits.md#portraits-case-1)
   - [案例 2: 手机掉落视角抓拍](cases/zh-CN/portraits.md#portraits-case-2)
@@ -338,6 +340,8 @@
 <a id="acknowledge"></a>
 ## 🙏 致谢
 
-感谢分享这些提示词和作品的创作者： [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
+感谢分享这些提示词和作品的创作者： [@aimikoda](https://x.com/aimikoda), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
 
 署名依据现有公开来源，可能需要更正。如需纠正来源、补充署名或请求移除，请提交 issue；详见[贡献指南](CONTRIBUTING.md)。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&Date)

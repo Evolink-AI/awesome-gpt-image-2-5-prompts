@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22.svg" width="760" alt="GPT Image 2.6 + 2.5 · 프롬프트 전문 259개 · EvoLink"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG와 GIF 예시를 담은 GPT Image 2.6 손그림 배너"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![브라우저에서 GPT Image 2.5 사용해 보기](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![전문을 수록한 프롬프트 259개](https://img.shields.io/badge/Prompts-259-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![브라우저에서 GPT Image 2.6 사용해 보기](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![전문을 수록한 프롬프트 260개](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 소개
 
-**GPT Image 2.6 최신 소식과 프롬프트 전문 259개: 2.6 사례 9개와 일곱 제작 분야의 기존 GPT Image 2.5 프롬프트 250개를 수록했습니다.** 인물 사진, 캐릭터 설정, 일러스트, 광고, 여행 기록, 이미지 편집, 연속 그림과 스토리보드에서 원하는 사례를 찾아보세요. 각 사례에는 프롬프트 원문, 제작자 출처, 관련 이미지·영상이 포함되어 있습니다.
+**GPT Image 2.6 최신 소식과 프롬프트 전문 260개: 2.6 사례 10개와 일곱 제작 분야의 기존 GPT Image 2.5 프롬프트 250개를 수록했습니다.** 인물 사진, 캐릭터 설정, 일러스트, 광고, 여행 기록, 이미지 편집, 연속 그림과 스토리보드에서 원하는 사례를 찾아보세요. 각 사례에는 프롬프트 원문, 제작자 출처, 관련 이미지·영상이 포함되어 있습니다.
 
 기존 250개는 제작자 52명이 공개한 X 게시물 238개에서 수집했습니다. 새 2.6 사례는 공식 문서와 제작자의 보고를 구분하며, 이전 2.5 사례는 원래 출처를 유지합니다. 사용 모델 표기는 제작자의 설명을 따르며, 예시를 독립적으로 재생성하여 검증하지는 않았습니다. 참조 이미지, 설정, 후속 편집에 따라 결과가 달라질 수 있습니다.
 
@@ -24,11 +24,12 @@
 2. 입력 안내를 읽은 뒤 코드 블록에서 프롬프트 전문을 복사합니다.
 3. 요청된 참조 이미지를 준비하고 수정 가능한 세부 사항을 목적에 맞게 바꾼 뒤 모델 플레이그라운드에서 프롬프트를 사용해 봅니다.
 
-[ChatGPT에서 Images 2.6 사용해 보기](https://chatgpt.com/images) · [브라우저에서 GPT Image 2.5 사용해 보기](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[ChatGPT에서 Images 2.6 사용해 보기](https://chatgpt.com/images) · [브라우저에서 GPT Image 2.6 사용해 보기](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 업데이트
 
+- **2026-11-07:** 반복 재생되는 애니메이션풍 만화경 영상을 위한 작성자 프롬프트 전문 1개를 추가했습니다. GPT Image 2.6 사례는 10개, 전체 프롬프트는 260개입니다.
 - **2026-11-06:** 갤러리 포스터, 캐릭터 GIF, 원 표시 기반 편집을 위한 제작자 프롬프트 전문 5개를 추가했습니다. 2.6 사례는 9개, 전체 프롬프트는 259개입니다. 기존 프롬프트 원문과 사례 번호는 그대로 유지했습니다.
 - **2026-11-05:** 전문이 공개된 2.6 프롬프트 사례 4개와 아래의 공식 SVG 예시를 추가했습니다. 기존 250개 프롬프트는 GPT Image 2.5 출처 표기를 유지합니다.
 - **2026-11-04:** OpenAI가 GPT Image 2.6 Sunburst와 Flare를 출시했습니다. Sunburst는 세밀한 표현과 편집 시 요소 보존에, Flare는 빠른 반복 작업에 초점을 둡니다. 두 모델 모두 복잡도 조절, 마크업 기반 편집, SVG 및 GIF 출력을 지원합니다. 복잡도와 렌더링 품질은 별도 설정이며, 계획에 더 많은 처리를 쓰면 지연과 원치 않는 변경이 늘어날 수 있습니다. [공식 업데이트 기록 읽기](https://developers.openai.com/api/docs/changelog) 및 [최신 프롬프트 가이드 읽기](https://developers.openai.com/api/docs/guides/image-prompting).
@@ -37,8 +38,8 @@
 
 | 최신 캐릭터 애니메이션 | 갤러리 포스터와 원 표시 편집 |
 | --- | --- |
-| [깔끔한 스트레칭 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-256)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="300" alt="제작자의 스트레칭 GIF 미리보기"> | [바로크 겨울 포스터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="제작자의 눈사람 갤러리 포스터"> |
-| [밥 먹는 스티커](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-257) · [눈을 깜박이는 캐릭터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259) | [원 표시 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258) |
+| [애니메이션풍 만화경 루프 영상](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="애니메이션풍 만화경 영상 미리보기"> | [바로크 겨울 포스터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="제작자의 눈사람 갤러리 포스터"> |
+| [스트레칭 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-256) · [밥 먹는 스티커](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-257) · [눈을 깜박이는 캐릭터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259) | [원 표시 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [백악관 주위 회전](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251) · [차를 든 인물 비교](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-254) | [꽃 제거](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-252) · [눈 내리는 광고판](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
 **공식 SVG 예시 — 프롬프트 수에 포함하지 않음**
@@ -58,7 +59,7 @@
 - [⚡ 시작하기](#quick-start)
 - [📰 업데이트](#news)
 
-- **[GPT Image 2.6 — 최신](cases/ko/gpt-image-2-6.md)** · 9
+- **[GPT Image 2.6 — 최신](cases/ko/gpt-image-2-6.md)** · 10
   - [사례 251: 백악관 주위 회전 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [사례 252: 주변 장면을 유지하며 꽃 제거](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [사례 253: 눈 내리는 저녁의 광고판 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -68,6 +69,7 @@
   - [사례 257: 밥 먹는 캐릭터 스티커](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-257)
   - [사례 258: 원 표시로 지정하는 캐릭터 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [사례 259: 눈을 깜박이며 흔들리는 캐릭터 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259)
+  - [사례 260: 애니메이션풍 만화경 루프 영상](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-260)
 - **[인물 사진·포토그래피](cases/ko/portraits.md)** · 51
   - [사례 1: 폭포 앞 흰 셔츠 인물 사진](cases/ko/portraits.md#portraits-case-1)
   - [사례 2: 떨어진 휴대전화 시점의 자연스러운 순간](cases/ko/portraits.md#portraits-case-2)
@@ -338,6 +340,8 @@
 <a id="acknowledge"></a>
 ## 🙏 감사의 말
 
-프롬프트와 예시를 공개해 주신 제작자 여러분께 감사드립니다: [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
+프롬프트와 예시를 공개해 주신 제작자 여러분께 감사드립니다: [@aimikoda](https://x.com/aimikoda), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
 
 제작자 표기는 확인 가능한 공개 자료를 따르며 수정이 필요할 수 있습니다. 출처 정정, 크레딧 추가 또는 삭제 요청은 이슈로 남겨 주세요. 자세한 내용은 [기여 안내](CONTRIBUTING.md)를 확인하세요.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&Date)

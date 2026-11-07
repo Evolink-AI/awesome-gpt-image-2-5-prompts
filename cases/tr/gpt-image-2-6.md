@@ -1,8 +1,8 @@
 # GPT Image 2.6 — En Yeni İstem Örnekleri
 
-[← Tüm 259 istem](../../README_tr.md)
+[← Tüm 260 istem](../../README_tr.md)
 
-Herkese açık dokuz eksiksiz istem: iki resmî düzenleme örneği ve animasyon, düzenleme, posterler ile bir sürüm karşılaştırmasını kapsayan, üreticilere atfedilen yedi istem. Özgün 250 GPT Image 2.5 örneğinin numaraları korunur.
+Herkese açık on eksiksiz istem: iki resmî düzenleme örneği ve animasyon, düzenleme, posterler ile bir sürüm karşılaştırmasını kapsayan, üreticilere atfedilen sekiz istem. Özgün 250 GPT Image 2.5 örneğinin numaraları korunur.
 
 ## İçindekiler
 
@@ -15,6 +15,7 @@ Herkese açık dokuz eksiksiz istem: iki resmî düzenleme örneği ve animasyon
   - [Örnek 257: Pilav Yiyen Karakter Çıkartması](#gpt-image-2-6-case-257)
   - [Örnek 258: Dairelerle Yönlendirilen Noel Karakter Düzenlemesi](#gpt-image-2-6-case-258)
   - [Örnek 259: Göz Kırpan ve Sallanan Karakter Animasyonu](#gpt-image-2-6-case-259)
+  - [Örnek 260: Döngüsel Anime Kaleydoskop Animasyonu](#gpt-image-2-6-case-260)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Örnek 251: [Beyaz Saray Çevresinde Dönüş Animasyonu](https://x.com/nima2qisi2/status/2118295936606798006) (yazan [@nima2qisi2](https://x.com/nima2qisi2))
@@ -217,6 +218,35 @@ Bu, üreticinin alıntıladığı eksiksiz Japonca takip animasyon istemidir. Ku
 
 ```
 まばたきして、ふわっと揺れて
+```
+
+---
+
+<a id="gpt-image-2-6-case-260"></a>
+### Örnek 260: [Döngüsel Anime Kaleydoskop Animasyonu](https://x.com/aimikoda/status/2118665755994546650) (yazan [@aimikoda](https://x.com/aimikoda))
+
+**Girdi:** Kullanma izniniz olan bir karakter referansı seçin.
+
+Üretici, bu animasyonu GPT Image 2.6 ile oluşturduğunu belirtiyor. Paylaşımda animasyon gösteriliyor. Özgün karakter referansı paylaşılmamış. X, GIF’i MP4 olarak sunuyor.
+
+| Çıktı |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"><strong>Anime kaleydoskop animasyonu önizlemesi</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="320" alt="Anime kaleydoskop animasyonu önizlemesi"></a> |
+
+[Üreticinin kaleydoskop animasyonunu oynatın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4)
+
+**İstem:**
+
+```
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.
+
+COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.
+
+ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.
+
+LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
+
+No text, logos, subtitles or additional characters.
 ```
 
 ---

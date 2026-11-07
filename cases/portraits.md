@@ -1,6 +1,6 @@
 # Portraits & Photography
 
-[← All 259 prompts](../README.md)
+[← All 260 prompts](../README.md)
 
 Choose a case to see the creator’s media and complete original prompt. Prompts remain in their original language.
 

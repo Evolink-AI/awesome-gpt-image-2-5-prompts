@@ -1,8 +1,8 @@
 # GPT Image 2.6 — 최신 프롬프트 사례
 
-[← 전체 프롬프트 259개](../../README_ko.md)
+[← 전체 프롬프트 260개](../../README_ko.md)
 
-전문이 공개된 프롬프트 9개입니다. 공식 편집 예시 2개와 애니메이션, 편집, 포스터, 버전 비교를 다루는 제작자 프롬프트 7개를 수록했습니다. 기존 GPT Image 2.5 사례 250개의 번호는 유지합니다.
+전문이 공개된 프롬프트 10개입니다. 공식 편집 예시 2개와 애니메이션, 편집, 포스터, 버전 비교를 다루는 제작자 프롬프트 8개를 수록했습니다. 기존 GPT Image 2.5 사례 250개의 번호는 유지합니다.
 
 ## 목차
 
@@ -15,6 +15,7 @@
   - [사례 257: 밥 먹는 캐릭터 스티커](#gpt-image-2-6-case-257)
   - [사례 258: 원 표시로 지정하는 캐릭터 크리스마스 편집](#gpt-image-2-6-case-258)
   - [사례 259: 눈을 깜박이며 흔들리는 캐릭터 애니메이션](#gpt-image-2-6-case-259)
+  - [사례 260: 애니메이션풍 만화경 루프 영상](#gpt-image-2-6-case-260)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### 사례 251: [백악관 주위 회전 애니메이션](https://x.com/nima2qisi2/status/2118295936606798006) (작성자 [@nima2qisi2](https://x.com/nima2qisi2))
@@ -217,6 +218,35 @@ COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No
 
 ```
 まばたきして、ふわっと揺れて
+```
+
+---
+
+<a id="gpt-image-2-6-case-260"></a>
+### 사례 260: [애니메이션풍 만화경 루프 영상](https://x.com/aimikoda/status/2118665755994546650) (작성자 [@aimikoda](https://x.com/aimikoda))
+
+**입력:** 사용 권한이 있는 캐릭터 참조 이미지를 준비합니다.
+
+작성자는 이 애니메이션을 GPT Image 2.6으로 만들었다고 밝혔습니다. 게시물에는 애니메이션이 올라와 있으며 원본 캐릭터 참조 이미지는 공개되지 않았습니다. X는 GIF를 MP4로 제공합니다.
+
+| 결과 |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"><strong>애니메이션풍 만화경 영상 미리보기</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="320" alt="애니메이션풍 만화경 영상 미리보기"></a> |
+
+[작성자의 만화경 애니메이션 재생](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4)
+
+**프롬프트:**
+
+```
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.
+
+COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.
+
+ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.
+
+LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
+
+No text, logos, subtitles or additional characters.
 ```
 
 ---

@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22.svg" width="760" alt="GPT Image 2.6 + 2.5 · 全文掲載のプロンプト259件 · EvoLink"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG と GIF の例を描いた GPT Image 2.6 の手描きバナー"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![ブラウザーでGPT Image 2.5を試す](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![全文掲載のプロンプト259件](https://img.shields.io/badge/Prompts-259-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![ブラウザーでGPT Image 2.6を試す](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![全文掲載のプロンプト260件](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 はじめに
 
-**GPT Image 2.6の最新情報と、全文掲載のプロンプト259件。2.6の9ケースに加え、7つの制作分野に分けた既存のGPT Image 2.5プロンプト250件を収録しています。** ポートレート、キャラクター設定、イラスト、広告、旅の記録、画像編集、連続画・絵コンテから探せます。各ケースには、プロンプト原文、作者のクレジット、関連する画像・動画を掲載しています。
+**GPT Image 2.6の最新情報と、全文掲載のプロンプト260件。2.6の10ケースに加え、7つの制作分野に分けた既存のGPT Image 2.5プロンプト250件を収録しています。** ポートレート、キャラクター設定、イラスト、広告、旅の記録、画像編集、連続画・絵コンテから探せます。各ケースには、プロンプト原文、作者のクレジット、関連する画像・動画を掲載しています。
 
 既存の250件は、52人のクリエイターによる238件の公開X投稿から収集しました。新しい2.6ケースでは、公式ドキュメントと作者による報告を区別し、従来の2.5作例の出典を維持しています。使用モデルの記載は作者の申告に基づいており、掲載例を独立に再生成して確認したものではありません。参照画像、設定、生成後の編集によって結果は変わることがあります。
 
@@ -24,11 +24,12 @@
 2. 入力に関する注意を読み、コードブロックからプロンプト全文をコピーします。
 3. 指定された参照画像を用意し、変更可能な箇所を自分の用途に合わせて調整して、モデルのプレイグラウンドで試します。
 
-[ChatGPTでImages 2.6を試す](https://chatgpt.com/images) · [ブラウザーでGPT Image 2.5を試す](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[ChatGPTでImages 2.6を試す](https://chatgpt.com/images) · [ブラウザーでGPT Image 2.6を試す](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 更新情報
 
+- **2026-11-07:** アニメ風の万華鏡ループ動画を作るための、作者が公開したプロンプトを1件追加しました。GPT Image 2.6の作例は10件、全文掲載のプロンプトは合計260件です。
 - **2026-11-06:** ギャラリーポスター、キャラクターGIF、丸印を使った編集のプロンプト全文を5件追加しました。2.6ケースは9件、完全なプロンプトは合計259件となりました。既存のプロンプト原文とケース番号は変更していません。
 - **2026-11-05:** 全文を公開した2.6プロンプト4件と、下記の公式SVG作例を追加しました。従来の250件はGPT Image 2.5の作例として出典を維持しています。
 - **2026-11-04:** OpenAIがGPT Image 2.6 SunburstとFlareを公開しました。Sunburstは細部の表現や編集時の保持精度、Flareは素早い試行に向いています。どちらも複雑度の調整、マークアップによる編集、SVGとGIF出力に対応します。複雑度と描画品質は別の設定で、計画にかける処理を増やすと、待ち時間や意図しない変更も増える場合があります。 [公式の更新履歴を読む](https://developers.openai.com/api/docs/changelog)、[現在のプロンプトガイドを読む](https://developers.openai.com/api/docs/guides/image-prompting)。
@@ -37,8 +38,8 @@
 
 | 最新のキャラクターアニメーション | ギャラリーポスターと丸印編集 |
 | --- | --- |
-| [クリーンなストレッチ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-256)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="300" alt="作者のストレッチGIFプレビュー"> | [バロック額縁の冬のポスター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="作者の雪だるまギャラリーポスター"> |
-| [ご飯スタンプ](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-257) · [まばたきするキャラクター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259) | [丸印で指定するクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258) |
+| [アニメ風の万華鏡ループ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="アニメ風万華鏡動画のプレビュー"> | [バロック額縁の冬のポスター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="作者の雪だるまギャラリーポスター"> |
+| [ストレッチ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-256) · [ご飯スタンプ](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-257) · [まばたきするキャラクター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259) | [丸印で指定するクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [ホワイトハウスの周回](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251) · [紅茶ポートレート比較](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花の除去](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪景色の看板](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
 **公式SVG作例 — プロンプト件数には含めません**
@@ -58,7 +59,7 @@
 - [⚡ 使い方](#quick-start)
 - [📰 更新情報](#news)
 
-- **[GPT Image 2.6 — 最新](cases/ja/gpt-image-2-6.md)** · 9
+- **[GPT Image 2.6 — 最新](cases/ja/gpt-image-2-6.md)** · 10
   - [ケース 251: ホワイトハウスの周回アニメーション](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [ケース 252: 周囲を保ったまま花を除去](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [ケース 253: 雪の夕景に変える看板編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -68,6 +69,7 @@
   - [ケース 257: ご飯を食べるキャラクタースタンプ](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-257)
   - [ケース 258: 丸印で指定するキャラクターのクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [ケース 259: まばたきと揺れのキャラクターアニメーション](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259)
+  - [ケース 260: アニメ風の万華鏡ループ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-260)
 - **[ポートレート・写真](cases/ja/portraits.md)** · 51
   - [ケース 1: 滝を背景にした白シャツのポートレート](cases/ja/portraits.md#portraits-case-1)
   - [ケース 2: 落としたスマートフォンの視点で捉える自然な一瞬](cases/ja/portraits.md#portraits-case-2)
@@ -338,6 +340,8 @@
 <a id="acknowledge"></a>
 ## 🙏 謝辞
 
-プロンプトと作例を公開してくださったクリエイターの皆様に感謝します： [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
+プロンプトと作例を公開してくださったクリエイターの皆様に感謝します： [@aimikoda](https://x.com/aimikoda), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI).
 
 作者の記載は確認できた公開情報に基づいており、修正が必要な場合があります。出典の訂正、クレジットの追加、削除のご依頼はIssueでお知らせください。詳しくは[貢献ガイド](CONTRIBUTING.md)をご覧ください。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&Date)

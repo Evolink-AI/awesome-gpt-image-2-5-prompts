@@ -1,8 +1,8 @@
 # GPT Image 2.6 — Novos casos com prompt
 
-[← Todos os 259 prompts](../../README_pt.md)
+[← Todos os 260 prompts](../../README_pt.md)
 
-Nove prompts públicos completos: dois exemplos oficiais de edição e sete prompts atribuídos a criadores sobre animação, edição, pôsteres e uma comparação de versões. Os 250 casos originais do GPT Image 2.5 mantêm seus números.
+Dez prompts públicos completos: dois exemplos oficiais de edição e oito prompts atribuídos a criadores sobre animação, edição, pôsteres e uma comparação de versões. Os 250 casos originais do GPT Image 2.5 mantêm seus números.
 
 ## Índice
 
@@ -15,6 +15,7 @@ Nove prompts públicos completos: dois exemplos oficiais de edição e sete prom
   - [Caso 257: Figurinha de personagem comendo arroz](#gpt-image-2-6-case-257)
   - [Caso 258: Edição festiva de personagem guiada por círculos](#gpt-image-2-6-case-258)
   - [Caso 259: Animação de personagem piscando e balançando](#gpt-image-2-6-case-259)
+  - [Caso 260: Animação em loop de caleidoscópio em estilo anime](#gpt-image-2-6-case-260)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Caso 251: [Animação orbital da Casa Branca](https://x.com/nima2qisi2/status/2118295936606798006) (por [@nima2qisi2](https://x.com/nima2qisi2))
@@ -217,6 +218,35 @@ Este é o prompt completo de animação subsequente em japonês citado pelo cria
 
 ```
 まばたきして、ふわっと揺れて
+```
+
+---
+
+<a id="gpt-image-2-6-case-260"></a>
+### Caso 260: [Animação em loop de caleidoscópio em estilo anime](https://x.com/aimikoda/status/2118665755994546650) (por [@aimikoda](https://x.com/aimikoda))
+
+**Entrada:** Use uma referência de personagem que você tenha permissão para utilizar.
+
+O criador atribui esta animação ao GPT Image 2.6. A publicação mostra a animação. A referência original do personagem não foi incluída. O X disponibiliza o GIF em formato MP4.
+
+| Resultado |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"><strong>Prévia da animação de caleidoscópio em estilo anime</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="320" alt="Prévia da animação de caleidoscópio em estilo anime"></a> |
+
+[Reproduzir a animação de caleidoscópio do criador](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4)
+
+**Prompt:**
+
+```
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.
+
+COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.
+
+ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.
+
+LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
+
+No text, logos, subtitles or additional characters.
 ```
 
 ---

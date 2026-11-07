@@ -1,6 +1,6 @@
 # Gezi Günlükleri ve Sayfa Düzenleri
 
-[← 259 istemin tamamı](../../README_tr.md)
+[← 260 istemin tamamı](../../README_tr.md)
 
 İçerik üreticisinin görsellerini ve özgün istemin tamamını görmek için bir örnek seçin. İstemler özgün dillerinde korunmuştur.
 

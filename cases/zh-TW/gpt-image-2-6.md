@@ -1,8 +1,8 @@
 # GPT Image 2.6 — 最新提示詞案例
 
-[← 全部259條提示詞](../../README_zh-TW.md)
+[← 全部260條提示詞](../../README_zh-TW.md)
 
-九條完整公開提示詞：兩個官方編輯作例，以及七個涵蓋動畫、編輯、海報與版本比較的創作者提示詞。原有250個GPT Image 2.5案例保留原編號。
+十條完整公開提示詞：兩個官方編輯作例，以及八個涵蓋動畫、編輯、海報與版本比較的創作者提示詞。原有250個GPT Image 2.5案例保留原編號。
 
 ## 目錄
 
@@ -15,6 +15,7 @@
   - [案例 257: 角色吃飯表情動圖](#gpt-image-2-6-case-257)
   - [案例 258: 圈選角色聖誕編輯](#gpt-image-2-6-case-258)
   - [案例 259: 角色眨眼輕晃動畫](#gpt-image-2-6-case-259)
+  - [案例 260: 循環動漫萬花筒動畫](#gpt-image-2-6-case-260)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### 案例 251: [白宮環繞動畫](https://x.com/nima2qisi2/status/2118295936606798006) (作者 [@nima2qisi2](https://x.com/nima2qisi2))
@@ -217,6 +218,35 @@ COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No
 
 ```
 まばたきして、ふわっと揺れて
+```
+
+---
+
+<a id="gpt-image-2-6-case-260"></a>
+### 案例 260: [循環動漫萬花筒動畫](https://x.com/aimikoda/status/2118665755994546650) (作者 [@aimikoda](https://x.com/aimikoda))
+
+**輸入:** 準備一張你有權使用的角色參考圖片。
+
+創作者表示這段動畫由 GPT Image 2.6 生成。原貼文展示了動畫，未附原始角色參考圖片。X 以 MP4 格式提供這段 GIF。
+
+| 輸出 |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4"><strong>動漫萬花筒動畫預覽</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="320" alt="動漫萬花筒動畫預覽"></a> |
+
+[播放創作者的萬花筒動畫](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.mp4)
+
+**提示詞:**
+
+```
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style.
+
+COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames.
+
+ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion.
+
+LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
+
+No text, logos, subtitles or additional characters.
 ```
 
 ---
